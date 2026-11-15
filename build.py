@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 ORDER = ["cervix", "money", "body", "food", "water"]
-V = "20261115d"
+V = "20261115e"
 
 TYPE_IC = {"article": "📰", "website": "🌐", "study": "🔬", "book": "📚", "video": "🎬", "podcast": "🎧", "place": "📍", "tool": "🧰"}
 TYPE_NAME = {"article": "Articles", "website": "Websites", "study": "Studies", "book": "Books", "video": "Videos", "podcast": "Podcasts", "place": "Places", "tool": "Tools"}
@@ -48,6 +48,7 @@ def head(title, emoji, slug=""):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0F1B2D">
+<meta name="color-scheme" content="light dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -188,6 +189,7 @@ def index_page(tracks):
 <h1>Know how it works.<br><span class="grad">Then decide for yourselves.</span></h1>
 <p class="lede">Every track asks the same four things: who pays, who decides, who profits, and what it means for us. Real sources: regulators, doctors' bodies, the research, the reporting.</p>
 <div class="stats"><span><b>{len(tracks)}</b> tracks</span><span><b>{total}</b> sources</span><span><b>{broken}</b> broken down</span></div>
+<div class="herobtns"><button type="button" class="sharebtn">💌 Share with Mishka</button><button type="button" class="installbtn" hidden>📲 Install app</button></div>
 </div></section>""")
     h.append('<main class="wrap"><div class="tgrid">')
     for t in tracks:

@@ -85,3 +85,19 @@
     });
   });
 })();
+
+// install (Chrome/Android) + share with Mishka
+(() => {
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  let prompt = null;
+  const ib = document.querySelector('.installbtn');
+  window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); prompt = e; if (ib) ib.hidden = false; });
+  if (ib) ib.addEventListener('click', async () => { if (!prompt) return; prompt.prompt(); await prompt.userChoice; prompt = null; ib.hidden = true; });
+  const sb = document.querySelector('.sharebtn');
+  if (sb) sb.addEventListener('click', async () => {
+    const url = 'https://seanmacebo-ux.github.io/nest-learn/';
+    const text = 'Nest Learn: our learning app. Food, water, money, body and more, all broken down. Add it to your home screen.';
+    if (navigator.share) { try { await navigator.share({ title: 'Nest Learn', text, url }); return; } catch (e) { if (e.name === 'AbortError') return; } }
+    location.href = 'https://wa.me/?text=' + encodeURIComponent(text + ' ' + url);
+  });
+})();

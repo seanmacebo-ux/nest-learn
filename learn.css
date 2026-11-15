@@ -164,3 +164,9 @@ h1 { font-family: "Fraunces", Georgia, serif; font-weight: 700; font-size: clamp
 .lfoot a { color: var(--coral); font-weight: 700; }
 a.cite { font-size: 12px; font-weight: 700; color: var(--t1); text-decoration: none; background: var(--ground-2); border-radius: 6px; padding: 1px 6px; white-space: nowrap; }
 .rc .rty .newtag { margin-left: 6px; color: #fff; background: var(--coral); border-radius: 6px; padding: 1px 6px; letter-spacing: .04em; }
+:root { color-scheme: light dark; }
+.herobtns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+.sharebtn, .installbtn { font: inherit; font-weight: 800; font-size: 14.5px; cursor: pointer; border: 0; border-radius: 14px; padding: 0 18px; min-height: 46px; }
+.sharebtn { color: var(--night); background: linear-gradient(135deg, var(--gold), #FFD98A); box-shadow: 0 10px 22px -10px var(--gold); }
+.installbtn { color: #fff; background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.3); }
+.installbtn[hidden] { display: none; }
