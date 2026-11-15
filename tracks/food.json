@@ -89,7 +89,15 @@
    "source": "Bedfordview Edenvale News (Caxton)",
    "url": "https://www.citizen.co.za/bedfordview-edenvale-news/news-headlines/local-news/2026/04/02/fresh-produce-found-in-edenvale-cbd/",
    "why": "First and last Saturday of the month, 07:00 to 12:00, outside De Backery, Edenvale CBD. Farm veg, eggs and meat, no entry fee.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The April 2026 report places the market outside De Backery in Edenvale CBD.",
+    "It lists the first and last Saturday of each month, from 07:00 to 12:00.",
+    "There is no entrance fee and the format excludes entertainment programming and alcohol sales.",
+    "Fruit, vegetables, eggs and fresh or prepared meat vendors are welcomed.",
+    "Stalls were advertised at R50, with booking by SMS or WhatsApp rather than calls.",
+    "The article’s vendor rules exclude baked goods, drinks and ready food, so it describes a produce-focused market."
+   ]
   },
   {
    "type": "place",
@@ -97,7 +105,15 @@
    "source": "Joburg Market",
    "url": "https://joburgmarket.co.za/?p=5978",
    "why": "City Deep. Mon 05:00 to 10:00, Tue to Fri 05:00 to 11:00, Sat 05:00 to 10:00. Bring your ID for a free buyer card.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied short link did not load, but the operator’s linked How to Buy page was found and checked.",
+    "Bring identification and register at a customer-service kiosk in a produce hall.",
+    "The first buying card is free, with R50 stated for replacing a lost card.",
+    "Load funds with a cashier before purchasing through market agents.",
+    "The guide states no general minimum or maximum purchase quantity, although goods are sold in their available units.",
+    "Keep the issue receipts and arrange removal after each agent’s purchase rather than carrying bought stock between agents."
+   ]
   },
   {
    "type": "place",
@@ -105,7 +121,15 @@
    "source": "Joburg Market",
    "url": "https://joburgmarket.co.za/mandela-peoples-market/",
    "why": "City Deep, same hours as the main market. Smaller quantities, cash only.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The People’s Market was formerly called Mandela Market.",
+    "The operator describes more than 100 informal fruit and vegetable traders there.",
+    "It sells loose produce and smaller quantities for cash without a buying card.",
+    "Trading extends later than the main halls, towards lunchtime from Monday to Saturday.",
+    "Unity Market is behind the trading halls and has more than 50 mainly vegetable traders.",
+    "The page describes planned facilities, so its future-tense construction statements are not proof that those facilities have opened."
+   ]
   },
   {
    "type": "place",
@@ -113,7 +137,15 @@
    "source": "City of Ekurhuleni",
    "url": "https://www.ekurhuleni.gov.za/press-releases/economic-development/mmc-for-economic-infrastructure-development-agency-mlambo-visits-ekurhuleni-fresh-produce-market/",
    "why": "Springs, East Rand. Open to the public and running in 2026. Early mornings; Saturday is busy, so phone for exact hours.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The city’s June 2026 release identifies the market as a regional wholesale hub in Springs.",
+    "It reports 15,000 square metres of trading space.",
+    "It lists 17 cold rooms and 24 ripening rooms, although the sentence’s wording is ambiguous about how those totals relate.",
+    "The city describes it as Gauteng’s third-largest government-owned fresh produce market.",
+    "The release links improved seasonal crop supply to lower customer prices.",
+    "Cashless trading and online shopping are described as plans, not confirmed operating services."
+   ]
   },
   {
    "type": "place",
@@ -121,7 +153,15 @@
    "source": "Sandton Tourism",
    "url": "https://www.sandtontourism.com/members/members-listing/bryanston-organic-natural-market/",
    "why": "40 Culross Rd, Bryanston. Thursdays and Saturdays, mornings to mid-afternoon. Organic food; call 011 706 3671 to confirm hours.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The tourism listing gives the address as 40 Culross Road, off Main Road, Bryanston.",
+    "It describes food alongside crafts, home decor, clothing and wellness products.",
+    "The market is a registered fundraising trust associated with Michael Mount Waldorf School.",
+    "Market profits support the school’s infrastructure and the international Waldorf education system.",
+    "The listing does not establish that every stall is an independently certified organic grower.",
+    "The supplied page does not state operating days, so confirm these through the market before travelling."
+   ]
   },
   {
    "type": "tool",
@@ -129,7 +169,15 @@
    "source": "munchingmongoose.co.za",
    "url": "https://munchingmongoose.co.za/",
    "why": "Delivery across greater Joburg: organic produce, grass-fed meat, dairy and eggs.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The current homepage describes an online grocer and offers combo boxes.",
+    "It lists separate categories for grass-fed meat and certified organic products.",
+    "It advertises expanded delivery days for greater Johannesburg.",
+    "It says deliveries use a cold chain and that there is no maximum order size.",
+    "Delivery-service information and buying policies are linked separately.",
+    "The homepage alone does not confirm an Edenvale delivery slot or a CSA arrangement that shares crop risk."
+   ]
   },
   {
    "type": "tool",
@@ -137,7 +185,15 @@
    "source": "Fryd",
    "url": "https://fryd.app/en/garden-guide/johannesburg",
    "why": "Month-by-month sowing and harvest chart. Frost from mid-June to mid-August.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Fryd classifies Johannesburg as Zone 9b with a subtropical highland climate.",
+    "The guide gives mid-August as last frost and mid-June as first frost.",
+    "It suggests starting salad tomatoes indoors in August or September and transplanting in October or November.",
+    "Its lettuce guidance includes outdoor sowing from August to February.",
+    "It flags summer thunderstorms as a factor in watering decisions.",
+    "The same calendar is offered for several neighbouring cities, so its frost dates are broad estimates rather than a guarantee for Edenvale."
+   ]
   },
   {
    "type": "tool",
@@ -145,7 +201,14 @@
    "source": "Jane's Delicious Garden",
    "url": "https://jane-s-delicious-garden.shopstar.co.za",
    "why": "Lay out containers or beds and get a planting calendar for your location. Jane is Joburg-based.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The planner supports drawing beds, placing crops and changing the layout.",
+    "It generates a planting calendar personalised to location.",
+    "The described formats include containers, raised beds, rows and square-foot gardening.",
+    "The website also offers individual garden consultations in Greater Johannesburg.",
+    "This is planning software and a commercial service, rather than a tested promise about yields or financial savings."
+   ]
   },
   {
    "type": "tool",
@@ -153,7 +216,14 @@
    "source": "livingseeds.co.za",
    "url": "https://livingseeds.co.za/",
    "why": "SA heirloom seed shop with seedlings (herbs from about R15) and garden supplies.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The direct homepage could not be retrieved during this research, so these points use corroborating retailer and gardening descriptions.",
+    "Livingseeds is described as a South African family seed business specialising in heirloom and open-pollinated varieties.",
+    "Its catalogue also includes sprouting and microgreen supplies.",
+    "Published descriptions support seed-saving as a reason to choose stable open-pollinated varieties.",
+    "Current seed counts, catalogue size, opening hours and germination guarantees could not be verified from the supplied homepage."
+   ]
   },
   {
    "type": "tool",
@@ -161,7 +231,15 @@
    "source": "Sustainable.co.za",
    "url": "https://sustainable.co.za/products/the-worm-oasis-worm-farm",
    "why": "SA-made, about R2,717 with 500 worms. Fits on a patio.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The listing describes a South African manufactured, UV-resistant worm farm.",
+    "It has two working trays and a separate drainage tray with a tap.",
+    "The package includes coco-coir bedding, instructions and about 500 composting worms.",
+    "Dimensions are listed as 42 cm wide, 52 cm deep and 49 cm high.",
+    "The retrieved price was R2,716.95 including VAT, with shipping calculated at checkout.",
+    "The seller promotes the collected liquid for garden use, but that claim does not establish that raw drainage liquid is safe to spray on edible leaves."
+   ]
   },
   {
    "type": "article",
@@ -169,7 +247,15 @@
    "source": "PMBEJD",
    "url": "https://pmbejd.org.za/",
    "why": "Monthly cost of a household food basket. Joburg was R5,766.71 in October 2026.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "PMBEJD published the October 2026 index on 28 October 2026.",
+    "Its reported household food basket cost R5,512.53 that month.",
+    "Its separate basic nutritional basket for seven people cost R6,692.25.",
+    "The gap between those baskets was R1,179.72, about 18% of the nutritional basket’s cost.",
+    "The nutritional basket for seven increased by R218.35, or 3.4%, from October 2025.",
+    "This measures food affordability for larger low-income households rather than prescribing what a couple should spend."
+   ]
   },
   {
    "type": "article",
@@ -177,7 +263,14 @@
    "source": "UCT Libraries / Competition Commission",
    "url": "https://lib.uct.ac.za/government-publications/articles/2019-11-29-grocery-retail-market-inquiry-report-competition-commissioner-inquiry-panel",
    "why": "The official look at how the big chains limit smaller competitors.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "UCT’s page is a brief library notice pointing to the Competition Commission’s report, rather than the report itself.",
+    "It is dated 29 November 2019.",
+    "The notice says grocery retail has strong potential for small-business participation.",
+    "It says features of the sector impede that participation.",
+    "The library notice alone does not provide detailed findings or evidence of current market shares, so those should be read in the linked report."
+   ]
   },
   {
    "type": "article",
@@ -185,7 +278,15 @@
    "source": "BusinessTech",
    "url": "https://businesstech.co.za/news/government/802097/the-big-question-around-south-africas-vat-free-food-basket/",
    "why": "How the 21 zero-rated foods work and who benefits most.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The article was published on 1 December 2024 and discusses a possible expansion of zero-rated foods.",
+    "It reports 21 zero-rated basic food items at that time.",
+    "It explains that richer households can receive larger rand benefits while poorer households receive larger benefits relative to income.",
+    "It summarises arguments that grants can target poverty more directly than further zero-rating.",
+    "It warns that tax relief may not be fully passed through to consumer prices.",
+    "Its R30 million estimate for existing revenue forgone is not substantiated here and should not be reused as a verified fiscal total."
+   ]
   },
   {
    "type": "article",
@@ -193,7 +294,15 @@
    "source": "BMJ Group",
    "url": "https://bmjgroup.com/consistent-evidence-links-ultra-processed-food-to-over-30-damaging-health-outcomes/",
    "why": "Plain summary of the biggest UPF evidence review (2024).",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "This BMJ press release describes 45 pooled analyses drawn from 14 review articles involving almost 10 million participants.",
+    "Higher ultra-processed food exposure was associated with 32 adverse health outcomes.",
+    "The release reports around 50% higher cardiovascular death risk and about 12% higher type 2 diabetes risk in the relevant analyses.",
+    "Evidence strength varied by outcome, with limited evidence for some cancers and gastrointestinal outcomes.",
+    "The authors acknowledge possible unmeasured influences and inconsistent ways of measuring food intake.",
+    "These relative-risk associations do not prove that one food caused an illness or predict an individual’s outcome."
+   ]
   },
   {
    "type": "article",
@@ -201,7 +310,15 @@
    "source": "GoLegal (KISCH IP)",
    "url": "https://www.golegal.co.za/food-labelling-regulations/",
    "why": "Why warning labels still aren't on SA packs (July 2026).",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The legal explainer is dated 24 July 2026 and says R3337 remained draft.",
+    "It dates the draft’s publication for comment to April 2023.",
+    "The proposal includes front-of-pack warnings for specified nutrient thresholds and certain artificial sweeteners.",
+    "Products carrying warnings could face restrictions on health claims, endorsements and child-oriented promotional devices.",
+    "The author advises manufacturers to comply with R146 while the replacement text and timetable remain uncertain.",
+    "This is a dated legal interpretation, so the official regulations library is the reference for later changes."
+   ]
   },
   {
    "type": "book",
@@ -209,7 +326,15 @@
    "source": "Jane Griffiths (Sunbird), Exclusive Books",
    "url": "https://exclusivebooks.co.za/products/9781920289935",
    "why": "The SA organic veg bible, covering nearly 100 veg and herbs. R370.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied ISBN is 9781920289935, listed as a 2017 Sunbird edition.",
+    "The listing describes practical preparation, planting and growing advice for vegetables and herbs.",
+    "Its scope ranges from small urban spaces to smallholdings.",
+    "It advertises guidance for nearly 100 vegetables and herbs.",
+    "The description mentions more than 200 photographs, step-by-step instructions and personal experience.",
+    "Only the listing and description were available, so these are scope takeaways rather than a full-book review."
+   ]
   },
   {
    "type": "book",
@@ -217,7 +342,15 @@
    "source": "Jane Griffiths, Exclusive Books",
    "url": "https://exclusivebooks.co.za/products/9781920289874",
    "why": "Small-space growing: containers, edible walls, rainwater and grey water. R370.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied ISBN is corroborated by the publisher as Jane Griffiths’ urban gardening book published in September 2015.",
+    "It covers containers, edible walls, raised beds, rooftops and community growing spaces.",
+    "Small urban orchards and converting existing lawns are explicit topics.",
+    "It also covers hens, bees and aquaponics [growing plants with nutrients from an aquatic animal system].",
+    "Rainwater harvesting and grey-water reuse are included alongside gardening.",
+    "The scope is verified from the publisher description, while any particular water-reuse method still needs its own suitability check."
+   ]
   },
   {
    "type": "book",
@@ -225,7 +358,15 @@
    "source": "Chris van Tulleken, Exclusive Books",
    "url": "https://exclusivebooks.co.za/products/9781529160222",
    "why": "Readable, evidence-based guide to what UPF is and why it matters. R305.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The listing frames the book as an investigation of food science, industrial production, economics and history.",
+    "Van Tulleken argues that food environments constrain choice rather than treating weight solely as failed willpower.",
+    "The account includes his personal experiment eating a diet high in ultra-processed food.",
+    "The book argues for a right to know what food contains and for access to affordable food.",
+    "The supplied paperback edition is listed as published on 2 May 2024.",
+    "A personal experiment illustrates a question but does not carry the evidential weight of a controlled trial."
+   ]
   },
   {
    "type": "book",
@@ -233,7 +374,15 @@
    "source": "Michael Pollan",
    "url": "https://michaelpollan.com/books/food-rules/",
    "why": "Short rules for eating simply, one per page. A quick read.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Pollan presents one short rule per page with a concise explanation.",
+    "The book’s aim is to simplify everyday eating decisions amid conflicting advice.",
+    "It draws on food traditions from different cultures.",
+    "The author’s page links a PDF excerpt and contemporary reviews.",
+    "The supplied page describes a practical rule-based handbook rather than a systematic scientific review.",
+    "Its cultural rules should therefore be used as prompts for judgment rather than medical guarantees."
+   ]
   },
   {
    "type": "video",
@@ -241,7 +390,15 @@
    "source": "Jane Griffiths, TEDx Talks",
    "url": "https://www.youtube.com/watch?v=myMjGTVRupw",
    "why": "16 minutes on why growing your own food in Joburg works.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The indexed talk and transcript identify Jane Griffiths as the speaker and TEDxJohannesburg as the event.",
+    "She describes a long transition from travelling and adventure to growing food at home.",
+    "Growing chillies was a starting point before expanding to other vegetables.",
+    "She presents healthy soil and relationships among garden organisms as central to the garden.",
+    "Aphids and their predators illustrate the value of observation and ecological balance.",
+    "This is a personal gardening account, not a controlled comparison of organic and conventional diets."
+   ]
   },
   {
    "type": "video",
@@ -249,7 +406,13 @@
    "source": "Gardening With Karabo",
    "url": "https://www.youtube.com/watch?v=ybbzoyuYOVI",
    "why": "What to plant right now, from a current SA channel (Oct 2026).",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: the supplied video could not be retrieved and an exact-ID search returned no result.",
+    "The provided title describes November planting, but no crop list could be checked.",
+    "The creator, publication date and intended South African climate zone remain unverified.",
+    "No sowing dates or crop recommendations are attributed to this video without accessible content."
+   ]
   },
   {
    "type": "video",
@@ -257,7 +420,13 @@
    "source": "Millennial Homesteader",
    "url": "https://www.youtube.com/watch?v=hz5TTRxDjUQ",
    "why": "SA container growing for renters (2026).",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: the supplied video could not be retrieved and its exact ID produced no search result.",
+    "Only the user-provided title identifies it as a container-gardening tutorial.",
+    "Its container sizes, drainage instructions and growing-medium advice could not be checked.",
+    "Use the verified City of Cape Town container guidance in the new resources until this video’s content can be inspected."
+   ]
   },
   {
    "type": "video",
@@ -265,7 +434,14 @@
    "source": "Livingseeds Farm",
    "url": "https://www.youtube.com/watch?v=J36npR7DFL0",
    "why": "Practical SA worm farm setup and troubleshooting.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Indexed YouTube metadata identifies the creator as Livingseeds Farm and the publication date as 16 June 2022.",
+    "The description presents the video as troubleshooting for worm farms that are not functioning.",
+    "It links a separate tutorial about Activated Worm Effluent, abbreviated A.W.E.",
+    "A full transcript was not accessible, so no particular feeding ratio, temperature target or liquid-treatment method is asserted here.",
+    "The description alone does not demonstrate the safety or effectiveness of applying effluent to edible crops."
+   ]
   },
   {
    "type": "video",
@@ -273,7 +449,13 @@
    "source": "SABC News",
    "url": "https://www.youtube.com/watch?v=6NJd0rNtVjw",
    "why": "See how the market floor works before you go (2025).",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: the supplied video did not load and an exact-ID search produced no result.",
+    "The user-provided title describes small-scale buyers at Joburg Market.",
+    "Its buyer interviews, prices and trading dates could not be checked.",
+    "No claims about savings or purchasing rules are attributed to it; the verified operator pages provide the usable buying guidance."
+   ]
   },
   {
    "type": "video",
@@ -281,7 +463,15 @@
    "source": "The Royal Institution (Chris van Tulleken)",
    "url": "https://www.youtube.com/watch?v=5QOTBreQaIk",
    "why": "Lecture version of the UPF evidence.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "YouTube identifies the talk as The harsh reality of ultra processed food with Chris van Tulleken.",
+    "The Royal Institution’s event description identifies the topic as the industrialisation and commercialisation of diets.",
+    "It describes his month-long personal experiment eating an 80% ultra-processed diet.",
+    "The talk’s stated scope includes appetite, health and the limits of relying on exercise and willpower alone.",
+    "It proposes responses by individuals and policymakers rather than only personal restraint.",
+    "The event description is accessible, but the full YouTube transcript was not retrieved, so detailed causal claims should be checked against the trials."
+   ]
   },
   {
    "type": "video",
@@ -289,7 +479,548 @@
    "source": "City Press (Jane Griffiths)",
    "url": "https://www.youtube.com/watch?v=dbhNblUjSoA",
    "why": "4 minutes on dealing with pests without poisons.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: neither the supplied video nor an exact-ID search exposed accessible content.",
+    "The supplied title alone calls it evidence-based and South African.",
+    "The creator’s credentials, cited studies and suggested pest treatments could not be checked.",
+    "Do not treat the title as proof; the new UC IPM resource supplies verifiable guidance on aphids and natural enemies."
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Competition Commission proposes big changes to selling of fresh produce",
+   "source": "Daily Maverick",
+   "url": "https://www.dailymaverick.co.za/article/2025-01-13-competition-commission-changes-fresh-produce-retail/",
+   "year": "2025",
+   "why": "A readable account of the final inquiry and the mechanics of price transparency.",
+   "takeaways": [
+    "The inquiry covered five fruit groups and six vegetables, rather than every food sold in South Africa.",
+    "Different pack sizes made like-for-like price comparisons difficult.",
+    "The report required named major retailers to add prices per 100 g for the 11 prioritised produce categories.",
+    "The report linked high mark-ups alongside slim net margins to costly supply chains.",
+    "The article also identifies municipal market inefficiency and high input costs as barriers."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Market forces: Inquiry assesses the cause of price fluctuations",
+   "source": "Aarti Bhana, Mail & Guardian",
+   "url": "https://mg.co.za/business/2024-04-01-market-forces-inquiry-assesses-the-cause-of-price-fluctuations/",
+   "year": "2024",
+   "why": "Reporting from City Deep shows the people and transactions behind a market price.",
+   "takeaways": [
+    "The report follows buyers collecting stock at Johannesburg’s City Deep market early in the morning.",
+    "It reports that about 5,000 farmers supply Joburg Market.",
+    "One buyer supplies West Rand shopkeepers who are themselves facing customer complaints about prices.",
+    "The market publishes a daily price list that the article says changes at noon.",
+    "This is reporting during the inquiry, so use the 2025 final report for its conclusions."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Hawkers in dire straits",
+   "source": "Lesego Chepape and Mandisa Ndlovu, Mail & Guardian",
+   "url": "https://mg.co.za/news/south-africa/2023-09-22-hawkers-in-dire-straits/",
+   "year": "2023",
+   "why": "Local reporting from Tembisa explains affordability, small portions and traders’ losses.",
+   "takeaways": [
+    "Maria Khoza had traded vegetables at Tembisa train station since 1992.",
+    "She sourced stock from wholesalers at Swazi Inn in Tembisa.",
+    "Her wholesale spinach bundle rose from R12 to R25, prompting her to sell smaller R10 bundles.",
+    "Another trader described R650 of fruit stock deteriorating before she could recover her investment.",
+    "These are reported 2023 experiences, not current price quotations or representative national averages."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Three years, 6,000 pages, no labels: Who’s stalling SA’s food warnings?",
+   "source": "Thabo Molelekwa, Daily Maverick",
+   "url": "https://www.dailymaverick.co.za/article/2026-10-07-food-warning/",
+   "year": "2026",
+   "why": "Investigates how the proposed warning labels moved through government and industry consultation.",
+   "takeaways": [
+    "The Department of Health reported submissions from 179 companies and organisations totalling more than 6,000 pages.",
+    "A four-member technical team reviewed the material.",
+    "Nedlac’s task team first met for substantive engagement on 26 August 2026.",
+    "The department said it had amended the draft, but Priceless SA said it had not seen the revised text.",
+    "The article reports no firm publication date and several remaining legal and consultation steps.",
+    "Concern about possible industry self-regulation proposals is distinguished from verified knowledge of the current submission."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Commentary on the Fresh Produce Market Inquiry report",
+   "source": "National Agricultural Marketing Council",
+   "url": "https://www.namc.co.za/commentary-on-the-fresh-produce-market-inquiry-report-2025/",
+   "year": "2025",
+   "why": "An informed second view that tests whether structural reforms will actually work.",
+   "takeaways": [
+    "NAMC says many concerns repeat findings from its 2006 Section 7 investigation.",
+    "It supports reinvesting market profits in infrastructure, training and market access.",
+    "It argues that changing ownership models also needs internal management reform.",
+    "It warns that commission caps could produce hidden charges or poorer service.",
+    "It supports better price disclosure while recommending phased implementation and support for smaller sellers."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "NIH study finds heavily processed foods cause overeating and weight gain",
+   "source": "US National Institutes of Health",
+   "url": "https://www.nih.gov/news-events/news-releases/nih-study-finds-heavily-processed-foods-cause-overeating-weight-gain",
+   "year": "2019",
+   "why": "A clear introduction to the experiment that moved this debate beyond observational links.",
+   "takeaways": [
+    "Twenty adults stayed at the NIH Clinical Center for a continuous month.",
+    "Each person received two weeks of each diet, with the order randomised.",
+    "Meals offered were matched on several nutrients, but participants chose how much to eat.",
+    "People ate about 500 extra calories daily on the ultra-processed diet and ate faster.",
+    "Average weight rose by 0.9 kg during that diet and fell by 0.9 kg during the minimally processed diet."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Start a food garden",
+   "source": "City of Cape Town",
+   "url": "https://www.capetown.gov.za/family-and-home/personal-health/nutritional-health/start-a-food-garden/",
+   "year": "",
+   "why": "Useful South African container and harvesting advice, with climate-specific limits.",
+   "takeaways": [
+    "The guide recommends a sheltered growing site with ideally six hours of direct sun.",
+    "It describes making drainage holes in reused containers so water can escape.",
+    "Some vegetables need 30 to 45 cm of growing depth.",
+    "Harvesting outer lettuce or spinach leaves lets the plant continue producing.",
+    "Planting every two to three weeks can spread harvests over time.",
+    "Its stated climate is Cape Town’s wet-winter climate, so its seasonal advice needs adaptation for Edenvale."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Composting at home",
+   "source": "US Environmental Protection Agency",
+   "url": "https://www.epa.gov/recycle/composting-home?var301=++++++++++++++++v2",
+   "year": "",
+   "why": "Explains decomposition and the limits of products sold as instant composters.",
+   "takeaways": [
+    "Composting is aerobic [oxygen-dependent] decomposition by microorganisms.",
+    "A working pile needs carbon-rich browns, nitrogen-rich greens, water and air.",
+    "Fruit scraps, dry leaves and suitable shredded cardboard are listed ingredients.",
+    "Meat, dairy and pet waste are excluded from the ordinary backyard approach described.",
+    "The guide includes worm composting as a separate household option.",
+    "Food-scrap grinders and dehydrators produce material for composting rather than finished compost."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Food and input prices report library",
+   "source": "National Agricultural Marketing Council",
+   "url": "https://www.namc.co.za/output/food-and-input-prices/",
+   "year": "",
+   "why": "Bookmark the continuing monitoring series rather than relying on a single food-price headline.",
+   "takeaways": [
+    "The library lists dated food and input price reports.",
+    "It includes March 2026 and December 2025 reports.",
+    "It also lists food-input cost policy advisory issues for June and September 2026.",
+    "The reports distinguish input-price pressures from prices paid for final food.",
+    "Check the observation period within each report because publication and price collection dates can differ."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Food Control regulations library",
+   "source": "South African National Department of Health",
+   "url": "https://www.health.gov.za/food-control-regulations/?trk=article-ssr-frontend-pulse_little-text-block",
+   "year": "",
+   "why": "The official reference point for checking which food rules actually exist.",
+   "takeaways": [
+    "The library lists R146 of 1 March 2010 under food labelling.",
+    "It links the 2010 and 2012 amendments to that framework.",
+    "It separately lists sodium-reduction rules and their amendments.",
+    "It separately lists the 2011 trans-fat regulations.",
+    "Pesticide and veterinary-drug controls use maximum residue limits [legal limits for residues in food].",
+    "A proposed warning-label regulation should be checked against official publication rather than treated as law because a campaign promotes it."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "tool",
+   "title": "Joburg Market daily price list",
+   "source": "Joburg Market",
+   "url": "https://joburgmarket.co.za/daily-price-list/",
+   "year": "",
+   "why": "A wholesale reference for planning pooled purchases and testing price claims.",
+   "takeaways": [
+    "This is the market operator’s dedicated daily-price-list page.",
+    "It is a wholesale reference rather than an Edenvale home-delivery quotation.",
+    "The operator also links buyer registration and a directory of market agents.",
+    "The fetched page did not expose a readable commodity table, so no live R/kg prices are reproduced here."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Joburg Market wholesalers directory",
+   "source": "Joburg Market",
+   "url": "https://joburgmarket.co.za/wholesalers-portal/wholesalers-directory/",
+   "year": "",
+   "why": "Find actual tenants and store numbers before making a wholesale buying trip.",
+   "takeaways": [
+    "The directory separates Halls 1 and 2, Hall 9, informal markets and the shopping complex.",
+    "It provides tenant names and store numbers rather than a single central shop.",
+    "Top Crop Wholesalers is listed at stores 118A/B and 119B.",
+    "AB Fresh Produce Distributors has several listed stores, including 116A/B and 117A/B.",
+    "The directory establishes location, but does not promise household minimum orders, prices or delivery."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Bulk Veg ordering and delivery FAQ",
+   "source": "Bulk Veg",
+   "url": "https://bulkveg.co.za/pages/frequently-asked-questions",
+   "year": "",
+   "why": "A produce delivery option that explicitly names Edenvale and nearby suburbs.",
+   "takeaways": [
+    "The delivery list explicitly includes Edenvale, Bedfordview, Modderfontein and Kempton Park.",
+    "The page lists Tuesday and Friday deliveries from 08:00 to 18:00 and Saturday from 07:00 to 16:00.",
+    "Its advertised delivery table shows R25 for a stokvel basket of R75 or more and R35 for the lower-value category.",
+    "Orders can be placed online or through the contact methods listed on the page.",
+    "An invoice follows processing, with EFT and mobile-wallet payment options.",
+    "The business says most packaging is returnable; confirm current charges and route availability before ordering."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Kleinhans Free Range Farm",
+   "source": "Kleinhans Free Range Farm",
+   "url": "https://kleinhansfreerange.co.za/",
+   "year": "",
+   "why": "A Cullinan farm-direct meat lead with an explicit Johannesburg delivery schedule.",
+   "takeaways": [
+    "The business identifies its farm location as Cullinan, Gauteng.",
+    "It advertises Johannesburg and Pretoria deliveries once a week.",
+    "It lists Cullinan and Rayton deliveries every second week.",
+    "Orders are placed online and delivery dates confirmed through WhatsApp.",
+    "The site says deliveries usually take place on Wednesdays and Thursdays between 08:00 and 17:00.",
+    "Its free-range and nutritional claims are seller statements, while exact Edenvale coverage and slaughter documentation still need confirmation."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Farm Fresh Meat delivery and packaging FAQ",
+   "source": "Farm Fresh Meat",
+   "url": "https://farmfreshmeat.co.za/faq/",
+   "year": "",
+   "why": "A practical Gauteng meat supplier to compare with farm-direct offers.",
+   "takeaways": [
+    "The supplier is based in Tedderfield Estates south of Johannesburg.",
+    "It advertises delivery anywhere in Gauteng at R125 per order.",
+    "Its stated lead time is two to four working days.",
+    "Customers can request particular packaging through the cart’s special-request section.",
+    "Concerns should be raised within 24 hours, with refusal of all or part of a delivery also described.",
+    "This FAQ establishes service terms, but does not by itself establish that every product comes from the seller’s own farm."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Organic certification: understanding South Africa’s assurance systems",
+   "source": "PGS South Africa",
+   "url": "https://www.pgssa.org.za/organic-certification/",
+   "year": "",
+   "why": "Helps distinguish an organic claim from a documented verification process.",
+   "takeaways": [
+    "First-party assurance is a farmer’s own claim supported by a direct relationship with the consumer.",
+    "PGS [participatory guarantee system] is second-party assurance involving farmers, consumers and other participants.",
+    "PGS groups conduct farm visits and can issue certificates to approved members.",
+    "Third-party certification uses an accredited independent body and is described for longer supply chains and exports.",
+    "An in-conversion seal distinguishes land still moving towards organic status.",
+    "PGS assurance does not mean the business is consumer-owned or that the food has passed a clinical nutrition trial."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "tool",
+   "title": "A Seed Saving Guide for Gardeners and Farmers",
+   "source": "Micaela Colley, John Navazio and Lisa DiPietro, Organic Seed Alliance",
+   "url": "https://seedalliance.org/publications/seed-saving-guide/",
+   "year": "2026",
+   "why": "A detailed practical reference on keeping varieties and seed quality over generations.",
+   "takeaways": [
+    "Originally published in 2010, this guide was revised in 2026.",
+    "Stable open-pollinated varieties usually produce offspring resembling their parents when unwanted crossing is prevented.",
+    "Saving hybrid seed is generally discouraged when the goal is to preserve the original variety’s traits.",
+    "The crop chart concerns the final number of seed parents, not merely how many seedlings to sow.",
+    "The guide covers harvesting, cleaning, drying and storage as distinct stages.",
+    "Much of its experience comes from the US Pacific Northwest, so local growing seasons need adaptation."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "book",
+   "title": "Jane’s Delicious A-Z of Vegetables",
+   "source": "Jane Griffiths, Sunbird Publishers",
+   "url": "https://exclusivebooks.co.za/collections/4-day-delivery/products/9781920289973",
+   "year": "2017",
+   "why": "A South African crop reference to consult one vegetable at a time.",
+   "takeaways": [
+    "The listing identifies ISBN 9781920289973 and publication on 1 October 2017.",
+    "Its scope includes common vegetables and less familiar varieties available to South African growers.",
+    "It describes crop-specific sowing, planting, feeding and watering guidance.",
+    "Protection, harvesting and preparation are included alongside cultivation.",
+    "Seed saving is an explicit part of the book’s scope.",
+    "These points are verified from the publisher description on the listing, not a claim to have read the full book."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "The contribution of cart traders to fresh produce accessibility in Soshanguve township, South Africa",
+   "source": "Oscar Sithole and Marc C. A. Wegerif, Discover Food",
+   "url": "https://link.springer.com/article/10.1007/s44187-025-00634-w",
+   "year": "2025",
+   "why": "Gauteng fieldwork challenges assumptions that informal food trade is necessarily expensive.",
+   "takeaways": [
+    "Published on 30 October 2025, the study uses fieldwork centred on Soshanguve with other Gauteng sites.",
+    "Researchers tracked eight produce items and found cart traders cheaper than the comparison supermarket.",
+    "For cabbage, potatoes, onions and tomatoes, supermarket prices were 28.7% to 112.3% higher in the comparisons reported.",
+    "Small portions included quarter cabbages and R5 potato packets.",
+    "Trust networks and occasional credit helped customers with limited cash.",
+    "This is a qualitative case study with local price observations, not proof of a permanent price advantage throughout South Africa."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "video",
+   "title": "The 2024 Christmas Lectures: The truth about food",
+   "source": "Chris van Tulleken, Royal Institution",
+   "url": "https://www.rigb.org/christmas-lectures/watch-2024-christmas-lectures",
+   "year": "2024",
+   "why": "Three illustrated lectures connect digestion, appetite and the food system.",
+   "takeaways": [
+    "Lecture 1 follows food from sensory cues through the digestive tract.",
+    "The demonstrations include an endoscope and explanations of microbes in digestion.",
+    "Lecture 2 explains how cells extract energy and how food supplies material for body repair.",
+    "Lecture 3 examines the long history of processing and cooking before addressing modern industrial food.",
+    "The page embeds the lectures and provides substantial descriptions, so viewers outside Britain can use it without relying on BBC access.",
+    "Some demonstrations involve babies and family participation, which may affect when you want to watch."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Horticultural zones",
+   "source": "South African National Biodiversity Institute, PlantZAfrica",
+   "url": "https://pza.sanbi.org/horticultural-zones",
+   "year": "",
+   "why": "A South African check against relying on a generic overseas hardiness label.",
+   "takeaways": [
+    "The site divides South African horticultural conditions into regional zones.",
+    "It identifies a summer-rainfall Karoo and Highveld zone.",
+    "It describes severe winter frost on the escarpment as a major restriction on outdoor plant choice.",
+    "Its Highveld zone includes a broad coldest-month minimum-temperature range from below -5°C to 5°C.",
+    "This regional framework does not supply an exact last-frost date for an individual Edenvale garden."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Aphids: integrated pest management for home gardens",
+   "source": "University of California Statewide IPM Program",
+   "url": "https://ipm.ucanr.edu/home-and-landscape/aphids/",
+   "year": "",
+   "why": "A practical evidence-led alternative to untested homemade pest remedies.",
+   "takeaways": [
+    "Ladybird beetles, lacewings and other natural enemies can suppress aphids.",
+    "Broad-spectrum insecticides can kill those natural enemies as well as the pest.",
+    "A strong water stream can dislodge aphids from suitable plants.",
+    "Ant activity matters because ants may protect aphids that supply them with honeydew [a sugary secretion].",
+    "Monitoring pest populations and natural enemies helps decide whether treatment is necessary.",
+    "The ecology is useful in South Africa, but US pesticide registrations and product directions do not transfer to SA."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "Fresh Produce Market Inquiry: final executive summary in the Government Gazette",
+   "source": "Competition Commission of South Africa",
+   "url": "https://www.gov.za/sites/default/files/gcis_document/202501/51902gon5755.pdf",
+   "year": "2025",
+   "why": "The primary findings prevent stronger claims than the evidence supports.",
+   "takeaways": [
+    "The investigation followed produce from farming inputs to wholesale and formal retail routes.",
+    "Agent commissions commonly fell between 5% and 7.5%, with concerns about small farmers’ bargaining power.",
+    "The inquiry’s analysis did not establish price distortions at national fresh produce markets, subject to data limitations.",
+    "Retail mark-up and margin evidence was inconclusive on profiteering.",
+    "It found that retailers often paid farmers more than the farmers would have received through fresh produce markets."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  },
+  {
+   "type": "tool",
+   "title": "Farm-to-Retail Price Spread: December 2025 issue",
+   "source": "National Agricultural Marketing Council",
+   "url": "https://www.namc.co.za/wp-content/uploads/2026/01/Farm-To-Retail-Price-Spread-December-2025-FINAL.pdf",
+   "year": "2025",
+   "why": "Shows how to analyse the consumer rand without calling the entire gap profit.",
+   "takeaways": [
+    "The issue analyses August to October 2025 across meat and milk chains.",
+    "A farm value share compares the raw agricultural equivalent with the final consumer product.",
+    "Fresh whole chicken’s reported real farm value share reached 65.16% in October 2025.",
+    "The corresponding reported share was 52.54% for class A2/A3 beef.",
+    "The price spread covers manufacturing, distribution, wholesale and retail contributions collectively.",
+    "These figures describe specific products and periods, not a universal split of every food purchase."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  }
+ ],
+ "system": {
+  "who_pays": [
+   "Households pay for farming, processing, transport, cooling, spoilage and selling through the food price.",
+   "Farmers pay for seed, fertiliser, water, labour and transport before knowing what a perishable harvest will earn.",
+   "Small traders carry spoilage and transport costs even when customers cannot afford a price increase.",
+   "PMBEJD put its October 2026 household food basket at R5,512.53, while its basic nutritional basket for seven people cost R6,692.25.",
+   "Those baskets describe larger low-income households, so neither is a ready-made budget for Sean and Mishka."
+  ],
+  "who_decides": [
+   "Farmers choose crops, but access to land, water, finance and buyers constrains those choices.",
+   "Municipalities manage public fresh produce market infrastructure, while agents sell farmers’ consignments [produce sent for sale on the farmer’s behalf].",
+   "Large buyers set purchasing specifications, delivery requirements and contract terms that small farmers may struggle to meet.",
+   "The Competition Commission investigates barriers to competition; the Department of Health sets food labelling rules.",
+   "R3337 warning-label rules were still reported as draft in October 2026, so proposals must be distinguished from enforceable requirements."
+  ],
+  "who_profits": [
+   "Input suppliers, transporters, processors, market agents, wholesalers and sellers each receive part of household food spending.",
+   "Revenue is money received, while profit is what remains after costs, so a large farm-to-consumer price gap is not a profit estimate.",
+   "The 2025 fresh produce inquiry found competition problems but made no conclusive finding that retailers were profiteering.",
+   "Farm-direct businesses can retain more of the selling price, but must also fund packing, deliveries and customer service.",
+   "Informal traders earn livelihoods by splitting bulk purchases into affordable quantities and bringing food closer to customers."
+  ],
+  "what_it_means_for_us": [
+   "Start with Edenvale’s produce market and compare it with City Deep’s small-quantity traders before committing to bulk trips.",
+   "Compare the cost per edible kilogram, including fuel, delivery, packaging and food that spoils.",
+   "Use delivery pages to check Edenvale coverage; a Johannesburg address alone does not establish that a farm delivers to your suburb.",
+   "Grow a few herbs and leafy crops first, then expand only when the light, water, harvest and costs justify it."
+  ]
+ },
+ "deep_sections": [
+  {
+   "title": "Follow the price, then follow the power",
+   "points": [
+    "A commission market sells produce on a farmer’s behalf, whereas a wholesaler buys stock and resells it.",
+    "The fresh produce inquiry reported agent commissions commonly around 5% to 7.5%, with weaker bargaining power for small farmers.",
+    "Municipal market fees and agent commissions pay for different functions and should not be treated as the same charge.",
+    "A mark-up [increase over the buying price] differs from a margin [share of sales left after a defined set of costs].",
+    "For illustration, buying at R10 and selling at R15 gives a 50% mark-up and a 33.3% gross margin before operating costs.",
+    "NAMC’s farm-to-retail spread includes processing and distribution, so it cannot identify one firm’s net profit.",
+    "NAMC says many market problems identified in 2025 were already raised in its 2006 investigation.",
+    "Historical exclusion remains visible in barriers to land, water rights, certification and market access for black and emerging farmers.",
+    "Treat a remedy in an inquiry report as a proposed or ordered change whose implementation still needs evidence."
+   ]
+  },
+  {
+   "title": "Buy together without buying waste",
+   "points": [
+    "City Deep’s trading halls and its cash-based People’s and Unity markets are different purchasing routes.",
+    "For two people, loose purchases may cost less overall than a cheaper bulk sack that partly spoils.",
+    "A buying club [households pooling an order] can split sacks, transport costs and delivery charges.",
+    "Agree who orders, who pays, how produce is weighed and how shortages are shared before collecting money.",
+    "A co-operative [member-owned business] has ownership and voting rules; a supplier calling a box a stokvel basket does not prove co-operative ownership.",
+    "CSA [community supported agriculture] usually involves an ongoing commitment that shares some farm risk, whereas an ordinary veg box may simply be a recurring retail order.",
+    "Ask whether a subscription specifies the farm, seasonal substitutions, cancellation terms and what happens after a crop failure.",
+    "No active Edenvale consumer-owned food co-operative was verified in this research, so an informal buying club is a practical experiment rather than an advertised local service.",
+    "Farm-direct meat needs a clear farm source, inspected slaughter, traceable batches and a reliable cold chain [continuous temperature control].",
+    "Compare usable cuts and bone content before comparing a mixed meat box with the per-kilogram price of a single cut.",
+    "Delivery fees and schedules quoted here were visible during research on 15 November 2026 and need confirmation before ordering."
+   ]
+  },
+  {
+   "title": "Build a Highveld growing experiment",
+   "points": [
+    "Edenvale has summer rainfall and winter frost, so Cape Town’s winter-rainfall calendar does not transfer directly.",
+    "A USDA hardiness zone [band based on extreme winter cold] cannot specify a safe transplanting date for every garden.",
+    "Fryd gives mid-August as Johannesburg’s last frost, but that broad estimate should not override a local forecast or the conditions in your yard.",
+    "Record direct sunlight at the proposed growing spot before buying containers.",
+    "Start with food-safe containers with drainage and a suitable growing mix.",
+    "Use deeper containers for larger root systems and support tall plants before they become heavy.",
+    "In November, beans, basil and summer fruiting crops are options where conditions suit them, but each crop still needs its own sowing and spacing guidance.",
+    "Try chard, salad leaves and herbs as repeat harvests rather than expecting a few pots to replace staple calories.",
+    "Sow small batches at intervals to spread the harvest instead of producing one glut.",
+    "Containers can dry quickly in heat and wind even during the rainy season.",
+    "Keep a harvest log with grams eaten, water used and money spent on containers, growing mix and seed.",
+    "Treat home growing as partial resilience and skill-building until your own harvest data demonstrate savings."
+   ]
+  },
+  {
+   "title": "Close loops without garden folklore",
+   "points": [
+    "Compost is decomposed organic material, not simply freshly chopped kitchen waste.",
+    "Ordinary compost needs air, moisture, carbon-rich browns and nitrogen-rich greens.",
+    "A small cold heap should not be assumed to kill pathogens or weed seeds.",
+    "Worm farms use composting worms and moist bedding, with feeding adjusted to what the worms actually consume.",
+    "An electric food dehydrator reduces scraps but does not make finished compost.",
+    "Open-pollinated seed [a stable variety reproduced through ordinary pollination] is useful for seed saving when crossing is controlled.",
+    "F1 hybrids [first-generation crosses] can produce viable seed, but their offspring may differ substantially from the parent crop.",
+    "Hybrid does not mean genetically modified, and non-GMO does not establish superior nutrition.",
+    "Beans and tomatoes are easier starting points for seed saving than crops needing large populations or extensive isolation.",
+    "Dry seed thoroughly and label the variety and harvest date before storing it cool and dry.",
+    "IPM [integrated pest management] starts with identifying damage and monitoring pests before choosing a treatment.",
+    "Water jets and conserving predators can help with aphids, while broad-spectrum sprays can also kill beneficial insects.",
+    "Organic certification describes a production standard and assurance process, not a guarantee that food is pathogen-free or nutritionally superior."
+   ]
+  },
+  {
+   "title": "Read food claims as evidence claims",
+   "points": [
+    "NOVA [a classification by the nature and purpose of processing] separates ultra-processed formulations from simpler processed foods.",
+    "Freezing, pasteurising and canning are forms of processing, so processed does not automatically mean ultra-processed.",
+    "The BMJ umbrella review [review of existing reviews] found many associations, but observational data cannot eliminate confounding [other differences between groups].",
+    "Relative risk [risk compared with another group] does not give your personal absolute chance of an illness.",
+    "Hall’s controlled feeding trial supports a short-term causal effect of the tested diets on intake and weight, but it does not isolate one additive or manufacturing step.",
+    "Avoid turning evidence about an overall dietary pattern into a claim that every packaged item is poisonous.",
+    "R146 is the existing labelling framework referenced by the Department of Health, while R3337 contains proposed replacement rules.",
+    "A legal warning label concerns specified nutrient thresholds or sweeteners, while NOVA concerns processing, so the two systems answer different questions.",
+    "Current reporting on R3337 describes regulatory delay and unequal access to discussions, which is evidence of governance problems rather than proof of a secret conspiracy.",
+    "PMBEJD’s household basket and basic nutritional basket measure different questions, while a national inflation average can conceal sharp increases in one food.",
+    "Use primary reports to test a dramatic headline before deciding who is benefiting or what you should change."
+   ]
   }
  ]
 }

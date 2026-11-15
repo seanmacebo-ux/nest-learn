@@ -104,7 +104,15 @@
    "source": "Royal College of Obstetricians and Gynaecologists (RCOG)",
    "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/",
    "why": "Updated April 2026. The clearest guide to who gets a stitch, the types, the risks, and what to watch for.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "RCOG recommends early specialist referral after a loss beyond 16 weeks, birth before 34 weeks or previous early waters breaking.",
+    "A stitch supports the cervix but cannot prevent every late loss or preterm birth.",
+    "The leaflet describes usual placement between 12 and 24 weeks and removal at 36 to 37 weeks.",
+    "Infection, bleeding, contractions or already broken waters can make a stitch unsuitable.",
+    "An abdominal stitch may be considered when a vaginal stitch failed or cannot be inserted and requires caesarean birth while present.",
+    "Emergency stitches carry more risk and are less likely to succeed than planned stitches."
+   ]
   },
   {
    "type": "article",
@@ -112,7 +120,15 @@
    "source": "Tommy's",
    "url": "https://www.tommys.org/pregnancy-information/pregnancy-complications/cervical-incompetence",
    "why": "A warm, plain overview of diagnosis, scans, progesterone and the different stitches, written without blame.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The cervix can shorten and open without pain, so absence of contractions does not exclude a problem.",
+    "Possible symptoms include pelvic pressure, bleeding and unusual discharge.",
+    "Risk factors include cervical surgery or injury, some uterine differences and conditions affecting collagen [supporting tissue protein].",
+    "Tommy's recommends early specialist planning after a late miscarriage or birth before 34 weeks.",
+    "The page describes cervical scans usually between 16 and 24 weeks and increased risk below 25 mm.",
+    "The page acknowledges that terms such as incompetent cervix can feel blaming and that this is a medical condition."
+   ]
   },
   {
    "type": "article",
@@ -120,7 +136,15 @@
    "source": "Mayo Clinic",
    "url": "https://www.mayoclinic.org/diseases-conditions/incompetent-cervix/diagnosis-treatment/drc-20373841",
    "why": "Explains how it's diagnosed and the scan-every-two-weeks approach, and is honest about what's uncertain.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Diagnosis depends on pregnancy history and findings such as painless cervical opening, ultrasound measurements and examination.",
+    "Mayo says there is no reliable test before pregnancy that predicts cervical insufficiency.",
+    "For relevant high-risk histories, the page describes scans every two weeks from 16 through 24 weeks.",
+    "Preventive cerclage may be placed before 14 weeks when the previous history supports it.",
+    "The page describes vaginal progesterone for a short cervix without previous preterm birth, while a vaginal support pessary needs more evidence.",
+    "The supplied URL did not resolve; the verified diagnosis-and-treatment page uses [drc-20373842](https://www.mayoclinic.org/diseases-conditions/incompetent-cervix/diagnosis-treatment/drc-20373842?p=1)."
+   ]
   },
   {
    "type": "article",
@@ -128,7 +152,15 @@
    "source": "NICE",
    "url": "https://www.nice.org.uk/guidance/ng25/chapter/Recommendations",
    "why": "The actual guideline doctors follow. Section 1.2 covers progesterone and the stitch, if you want to check the source yourselves.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "NICE offers a choice of preventive vaginal progesterone or cerclage when both qualifying pregnancy history and cervical length 25 mm or less are present.",
+    "The qualifying history includes spontaneous birth up to 34 weeks or loss from 16 weeks onward.",
+    "NICE also allows consideration of progesterone with either history or short cervix alone, a difference from current ACOG recurrent-birth guidance.",
+    "When prescribed under this guideline, progesterone starts between 16 and 24 weeks and continues to at least 34 weeks.",
+    "Emergency cerclage can be considered from 16 weeks through 27 weeks and 6 days with an open cervix and exposed but unruptured membranes.",
+    "Infection, active bleeding or contractions rule out emergency cerclage under these recommendations."
+   ]
   },
   {
    "type": "article",
@@ -136,7 +168,15 @@
    "source": "Miscarriage UK (The Miscarriage Association)",
    "url": "https://www.miscarriageassociation.org.uk/information/miscarriage/second-trimester-loss-late-miscarriage/causes-of-second-trimester-loss/",
    "why": "Lists the tests to ask about, including placenta histology, and how to get the most from the follow-up appointment.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The original link redirects to Miscarriage UK's broader second-trimester-loss page.",
+    "Possible causes include chromosome differences, fetal structural problems, placental disease, uterine or cervical problems and infection.",
+    "Chromosome testing using fetal or placental tissue can sometimes identify a cause and inform future risk.",
+    "The page describes antiphospholipid syndrome [an immune-related clotting disorder] as one possible placental cause.",
+    "When cervical weakness is suspected, it describes discussing a stitch in a future pregnancy, usually around 13 or 14 weeks.",
+    "Its miscarriage and registration discussion follows UK definitions, so do not apply its legal wording directly to a 25-week loss in South Africa."
+   ]
   },
   {
    "type": "article",
@@ -144,7 +184,15 @@
    "source": "University of Aberdeen (Tommy's-funded study)",
    "url": "https://www.abdn.ac.uk/news/25171/",
    "why": "Honest, real-world recurrence numbers from 65,000+ women, plus a reminder that most go on without complications.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The February 2026 news release describes a study of 65,592 women with first and second pregnancies recorded in Aberdeen between 1950 and 2017.",
+    "It reports spontaneous preterm birth in the next pregnancy in 4.3% after an initial second-trimester loss versus 1.5% in the comparison group.",
+    "Repeat second-trimester loss occurred in 3.7% versus 1.1%, so higher relative risk still meant a minority had another loss.",
+    "The release also reports increased early miscarriage and pre-eclampsia and calls for clearer follow-up pathways.",
+    "The linked study defined the original loss as before 24 weeks and was observational, so it does not provide a personalised recurrence estimate after a 25-week loss.",
+    "Its finding of no detected increase in spontaneous preterm birth after termination for medical reasons was limited by a small sample."
+   ]
   },
   {
    "type": "article",
@@ -152,7 +200,15 @@
    "source": "Cochrane",
    "url": "https://www.cochrane.org/CD008991/PREG_cervical-stitch-cerclage-preventing-preterm-birth",
    "why": "A plain-language summary of 15 trials: what the stitch can and can't do.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "This 2017 Cochrane update included fifteen trials involving 3,490 women with singleton pregnancies.",
+    "It compared stitches with no stitch or alternative treatment in women considered at risk from their history, scans or examination.",
+    "Cerclage reduced preterm birth compared with no cerclage in the reviewed evidence.",
+    "For death around birth, the pooled relative risk was 0.82 with a 95% confidence interval from 0.65 to 1.04, leaving uncertainty about a mortality benefit.",
+    "The review had too little direct comparison evidence to settle whether cerclage was better than progesterone.",
+    "The supplied summary link was unavailable during checking; the same review is readable in [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6481522)."
+   ]
   },
   {
    "type": "article",
@@ -160,7 +216,15 @@
    "source": "American Journal of Obstetrics & Gynecology, 2020 (Shennan et al.)",
    "url": "https://www.em-consulte.com/article/1353256/article/mavric-a-multicenter-randomized-controlled-trial-o",
    "why": "The key trial showing an abdominal stitch works better when a vaginal stitch has failed.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "MAVRIC studied women whose previous vaginal stitch had failed, not everyone after a first late loss.",
+    "The analysis included 111 pregnancies: 39 abdominal stitches, 39 high vaginal stitches and 33 low vaginal stitches.",
+    "Birth before 32 weeks occurred in 8% with an abdominal stitch versus 33% with a low vaginal stitch.",
+    "The high vaginal group had a 38% rate and did not improve on the low vaginal group.",
+    "An exploratory analysis found fetal loss in 3% with an abdominal stitch versus 21% with a low vaginal stitch.",
+    "The supplied abstract host was unavailable; figures were checked against the [published PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/31585096/)."
+   ]
   },
   {
    "type": "article",
@@ -168,7 +232,15 @@
    "source": "Tommy's",
    "url": "https://www.tommys.org/baby-loss-support/stillbirth-information-and-support/trying-another-baby-after-stillbirth",
    "why": "Gentle, practical help with timing, waiting for results, and being ready as a couple.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Whether and when to try again is a personal decision without one timetable that fits every family.",
+    "Partners may feel ready at different times, and the page encourages honest conversation and support.",
+    "Physical recovery and mental readiness are separate considerations.",
+    "Waiting for investigation results can help inform a future pregnancy plan.",
+    "Age, general health and fertility treatment can also influence timing discussions.",
+    "Tommy's describes specialist pregnancy-after-loss support through UK Rainbow Clinics; this is a service model rather than a Johannesburg referral route."
+   ]
   },
   {
    "type": "video",
@@ -176,7 +248,14 @@
    "source": "Tommy's (YouTube)",
    "url": "https://www.youtube.com/watch?v=V40vMoKbToQ",
    "why": "A 2-minute look at the research behind preterm birth clinics.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Tommy's published this short educational animation on 8 September 2019.",
+    "Its verified description gives a historical UK figure of around 60,000 premature births each year.",
+    "It explains that many early births remain unexplained and that clinicians do not fully understand every cause.",
+    "The animation introduces Tommy's research on predicting and preventing premature birth.",
+    "The verified description and charity campaign page support these points, but the video transcript was unavailable, so no specific treatment claims are attributed to the footage."
+   ]
   },
   {
    "type": "video",
@@ -184,7 +263,14 @@
    "source": "Northwell Health (YouTube)",
    "url": "https://www.youtube.com/watch?v=_FNfz-VsNIo",
    "why": "A surgeon and a patient explain the abdominal stitch, the option if a vaginal stitch fails.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Northwell Health published this patient-story video on 15 July 2025.",
+    "Its description features Dr Michael Nimaroff and a patient who grew her family after abdominal cerclage.",
+    "The provider presents the operation as an option when other approaches have failed.",
+    "It is a hospital-produced individual success story, so it supplies neither a comparison group nor a personal success probability.",
+    "Only the verified video description was accessible, so its selection criteria, complication rates and spoken clinical details could not be independently checked here."
+   ]
   },
   {
    "type": "book",
@@ -192,7 +278,15 @@
    "source": "Joanne Cacciatore (Wisdom Publications)",
    "url": "https://www.simonandschuster.co.uk/books/Bearing-the-Unbearable/Joanne-Cacciatore/9781614293170",
    "why": "52 short chapters by a bereaved mother and grief researcher. Easy to read one at a time, together.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The publisher describes grief as nonlinear and often lasting longer than other people expect.",
+    "The book contains 52 short, standalone chapters that can be read in small amounts or in a support group.",
+    "Joanne Cacciatore draws on bereavement work and her own daughter Cheyenne's death in 1994.",
+    "The stated approach is to process and honour grief through stories and connection.",
+    "The linked edition was published in June 2017 and is listed as 248 pages.",
+    "These points are verified from the publisher's description; the page does not establish a clinical treatment effect or a timetable for recovery."
+   ]
   },
   {
    "type": "place",
@@ -200,7 +294,15 @@
    "source": "Rosebank Killarney Gazette / The Compassionate Friends",
    "url": "https://www.citizen.co.za/rosebank-killarney-gazette/news-headlines/2025/02/17/navigating-grief-new-support-group-for-parents-of-lost-babies-starts-in-highlands-north/",
    "why": "A free, peer-led group for miscarriage, stillbirth and baby loss, which also helps couples who grieve differently. Call 011 440 6322 or WhatsApp 078 147 2705.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The February 2025 article announced a Highlands North group for miscarriage, stillbirth and death of a baby under two.",
+    "It described support for parents, grandparents and siblings.",
+    "The reporting recognises sadness, isolation, guilt and anger as possible grief responses.",
+    "It highlights that partners can grieve differently and may need help communicating.",
+    "The published contact numbers were WhatsApp 078 147 2705 and telephone 011 440 6322.",
+    "Its first-session date of 8 March 2025 is historical, so use the organisation's current contact details to confirm the next meeting."
+   ]
   },
   {
    "type": "place",
@@ -208,7 +310,510 @@
    "source": "University of Pretoria",
    "url": "https://www.up.ac.za/obstetrics-and-gynaecology/maternal-and-fetal-medicine-unit",
    "why": "A public high-risk pregnancy unit with a recurrent pregnancy loss clinic. Ask for a referral if you're going the state route.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The University of Pretoria unit provides specialist care for high-risk pregnancies and fetal wellbeing.",
+    "It runs services at both Steve Biko Academic Hospital and Kalafong Provincial Tertiary Hospital.",
+    "The page lists a recurrent-pregnancy-loss clinic on Tuesdays at Steve Biko and Thursdays at Kalafong.",
+    "Steve Biko also lists general high-risk, fetal and specialised maternal clinics.",
+    "The listed Steve Biko contacts include 012 354 2849, fetal clinic 012 354 3717 and maternal clinic 012 354 3716.",
+    "Confirm referral eligibility, clinic days and current availability before travelling from Edenvale; the page does not promise direct booking or cerclage access."
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Updated progestogen guidance for preventing recurrent preterm birth",
+   "source": "American College of Obstetricians and Gynecologists",
+   "url": "https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/04/updated-guidance-use-of-progestogen-supplementation-for-prevention-of-recurrent-preterm-birth",
+   "year": "2023; updated 2025",
+   "why": "Explains the evidence change behind conflicting progesterone advice.",
+   "takeaways": [
+    "Vaginal progesterone can be considered after a previous preterm birth when the current singleton pregnancy also has a shortened cervix.",
+    "ACOG advises against offering it for recurrent preterm-birth prevention when the cervix is not shortened.",
+    "Intramuscular 17-OHPC [a synthetic hormone injection] is no longer recommended for recurrent preterm-birth prevention.",
+    "ACOG recommends repeated transvaginal cervical-length assessment after a previous spontaneous preterm birth.",
+    "The plan should reflect the pregnancy history, cervical measurements and previous treatment response."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "SMFM Consult 65: Transabdominal cerclage",
+   "source": "Society for Maternal-Fetal Medicine; endorsed by ACOG and AAGL",
+   "url": "https://publications.smfm.org/publications/471-society-for-maternal-fetal-medicine-consult-series-65/",
+   "year": "2023; reaffirmed 2025",
+   "why": "Defines when abdominal surgery is justified and what it commits a family to.",
+   "takeaways": [
+    "Offer abdominal cerclage after a history-based or scan-based vaginal stitch followed by spontaneous singleton delivery before 28 weeks.",
+    "A maternal-fetal medicine consultation is recommended for potential candidates.",
+    "Open surgery and laparoscopy [keyhole surgery] are both acceptable when matched to expertise and circumstances.",
+    "Placement before pregnancy or in the first trimester has similar fetal outcomes; selected later presentations can be considered before 22 weeks.",
+    "Routine cervical-length screening is not recommended while an abdominal stitch is in place.",
+    "The guidance suggests caesarean delivery between 37 and 39 weeks with the stitch in place."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "SMFM Consult 70: Short cervix without previous spontaneous preterm birth",
+   "source": "Society for Maternal-Fetal Medicine",
+   "url": "https://assets.noviams.com/novi-file-uploads/smfm/Publications_and_Guidelines/Consults/Short_Cervix_FINAL_PDF_AJOG.pdf",
+   "year": "2024",
+   "why": "Shows why treatment advice for a first short cervix differs from advice after an early birth.",
+   "takeaways": [
+    "This document's main population has no previous spontaneous preterm birth, an important limit if you've already had an early birth or loss.",
+    "Use a transvaginal measurement of 25 mm or less to identify a short cervix in this population.",
+    "Recommend vaginal progesterone for an asymptomatic singleton pregnancy with cervical length 20 mm or less before 24 weeks.",
+    "Consider progesterone at 21 to 25 mm through shared decision-making.",
+    "For a closed cervix measuring 10 to 25 mm without prior preterm birth, routine cerclage is not recommended.",
+    "A cervical pessary [support device] is not recommended for singleton short-cervix prevention."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "FIGO good practice recommendations on cervical cerclage",
+   "source": "FIGO; Shennan, Story, Jacobsson and Grobman",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9291060/",
+   "year": "2021",
+   "why": "A short international statement separating the main stitch indications.",
+   "takeaways": [
+    "FIGO recommends a history-based stitch after three or more previous preterm deliveries or mid-trimester losses.",
+    "It recommends a scan-based stitch for cervical length under 25 mm with one or more previous spontaneous early births or mid-trimester losses.",
+    "For women with three or more previous events in a cited trial subgroup, birth before 33 weeks occurred in 15% with cerclage versus 32% without it.",
+    "Rescue cerclage with exposed membranes needs individual assessment because infection can threaten mother and baby.",
+    "A stitch is generally removed at 36 to 37 weeks when vaginal birth is planned."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Preterm labour with intact membranes, version 2",
+   "source": "SASOG BetterObs; Mediclinic clinical team and BetterObs reviewers",
+   "url": "https://sasog.co.za/wp-content/uploads/2023/07/PRETERM-LABOUR-WITH-INTACT-MEMBRANES-2.0.pdf",
+   "year": "2023",
+   "why": "Shows the South African hospital response when early labour is suspected.",
+   "takeaways": [
+    "The protocol lists previous second-trimester loss, preterm birth and cervical procedures as risk factors.",
+    "Assessment includes leaking fluid, contractions, pressure, backache, urinary symptoms, discharge and bleeding.",
+    "The team should verify gestational age and review the antenatal records and blood results.",
+    "Initial examination includes maternal vital signs, urine testing and assessment of uterine activity.",
+    "The document was released on 20 January 2023 after BetterObs revision in 2022.",
+    "Its authors explicitly require clinical judgement and individualised care rather than using the protocol alone."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "National Integrated Maternal and Perinatal Care Guidelines for South Africa",
+   "source": "South African National Department of Health",
+   "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2024-10/Integrated%20Maternal%20and%20Perinatal%20Care%20Guideline_Final%204%20October%202024%20%20DG%20signed.pdf",
+   "year": "2024",
+   "why": "The key local reference for referral and prevention planning in the public system.",
+   "takeaways": [
+    "After stillbirth or pregnancy-related neonatal death, hospital assessment should follow the first booking visit.",
+    "Cerclage belongs at a specialist referral centre for selected singleton pregnancies.",
+    "Indications include three previous preterm births or second-trimester losses, or a short cervix plus one qualifying event.",
+    "The short-cervix threshold is 25 mm or less before 24 weeks.",
+    "The section lists vaginal progesterone 200 mg daily until 34 weeks as an alternative with a short cervix, for clinician assessment.",
+    "Mental-health support and respectful care are part of management after a poor pregnancy outcome."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Caesarean vs vaginal birth: A mother's choice, not her doctor's",
+   "source": "Pontsho Pilane, Bhekisisa",
+   "url": "https://bhekisisa.org/article/2016-11-11-00-caesarean-vs-vaginal-birth-a-mothers-choice-not-her-doctors/",
+   "year": "2016",
+   "why": "Investigates SA maternity decisions, litigation fears and patient choice.",
+   "takeaways": [
+    "The article reports that 68% of scheme-funded births in 2015 were caesareans, a historical figure rather than a current national rate.",
+    "CMS said those data did not separate scheme-funded births in private and public hospitals.",
+    "Interviewed clinicians describe litigation risk and professional insurance costs as pressures on birth decisions.",
+    "The reporting also describes scheduling preferences among some parents.",
+    "The article stresses disclosure of both vaginal-birth and caesarean risks so women can make informed choices.",
+    "It is about birth mode, so it does not establish whether a cerclage is needed after a particular loss."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "It's a Stick-Up. Your Money or Your Health!",
+   "source": "Spotlight",
+   "url": "https://www.spotlightnsp.co.za/2018/09/06/its-a-stick-up-your-money-or-your-health/",
+   "year": "2018",
+   "why": "An accessible, explicitly critical explanation of the private-care inquiry.",
+   "takeaways": [
+    "This commentary explains the inquiry's provisional 2018 findings, rather than reporting current prices.",
+    "It says the inquiry examined more than 43 million patient records and 11 million admissions.",
+    "It reports average spending per member rising 9.2% annually during 2010 to 2014.",
+    "Even after adjustments, the inquiry found an unexplained real increase above 2% annually.",
+    "The article explains information asymmetry [providers knowing more than patients] as a barrier to judging value.",
+    "It separates nonprofit medical schemes from commercial administrators and discusses concentrated hospital ownership."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "PMB questions and answers",
+   "source": "Council for Medical Schemes",
+   "url": "https://www.medicalschemes.co.za/pmb-questions/",
+   "year": "",
+   "why": "Bookmark the regulator's explanation before requesting funding approval.",
+   "takeaways": [
+    "Schemes can require pre-authorisation and participation in a benefit-management programme.",
+    "Voluntary use of a non-DSP [a provider outside the designated network] can result in a permitted co-payment.",
+    "Involuntary non-DSP use has protections, including relevant emergencies and lack of reasonable access to a DSP.",
+    "Medicine formularies [approved lists] can affect the price difference a member pays for a preferred brand.",
+    "These rules explain PMB administration but do not promise that every progesterone prescription qualifies."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "The complaints procedure",
+   "source": "Council for Medical Schemes",
+   "url": "https://www.medicalschemes.co.za/consumer-assistance/complaintsprocedure/",
+   "year": "",
+   "why": "A concrete route for disputing a scheme's funding decision.",
+   "takeaways": [
+    "First use the scheme's internal complaints and dispute process.",
+    "CMS asks for the facts, requested remedy and proof of prior escalation.",
+    "Clinical disputes need the relevant clinical reports; unpaid-claim disputes need account statements.",
+    "Someone submitting a complaint on the member's behalf needs signed consent.",
+    "The page gives an ordinary resolution target of 120 calendar days after the scheme response and complete documents, while clinically urgent complaints are handled urgently.",
+    "CMS cannot award compensation for pain and suffering."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "The Discovery Day Surgery Network",
+   "source": "Discovery Health Medical Scheme",
+   "url": "https://www.discovery.co.za/medical-aid/day-surgery-network",
+   "year": "2023 procedure-list update; live page",
+   "why": "Contains a direct SA funding reference to cerclage and stitch removal.",
+   "takeaways": [
+    "The procedure list explicitly includes uterine cervix cerclage and removal of a cerclage suture.",
+    "It describes network facilities for specified same-day procedures on several plan series.",
+    "Executive-plan members can use any approved facility according to this page.",
+    "Planned admissions require pre-authorisation.",
+    "Cover remains subject to the chosen plan, so listing a procedure is not an individual payment guarantee.",
+    "Confirm the current facility rule for the actual operation, especially if an abdominal procedure or overnight admission is proposed."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Maternity Benefit",
+   "source": "Discovery Health Medical Scheme",
+   "url": "https://www.discovery.co.za/medical-aid/maternity-benefit",
+   "year": "",
+   "why": "A useful worked example of routine allowances, activation and reimbursement limits.",
+   "takeaways": [
+    "The My Pregnancy or My Baby programme must be activated to access the described maternity benefits.",
+    "The page lists up to eight or twelve antenatal consultations depending on the plan.",
+    "Routine ultrasound cover is up to two 2D scans or one nuchal translucency test [an early screening scan].",
+    "Services are paid at the Discovery Health Rate, which is the scheme's reimbursement rate.",
+    "The described maternity benefit does not use day-to-day benefits, while childbirth is funded through the Hospital Benefit.",
+    "The page includes two postnatal mental-health consultations, but does not establish eligibility after every type of loss."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Maternal Fetal Medicine Division",
+   "source": "University of the Witwatersrand",
+   "url": "https://www.wits.ac.za/clinicalmed/departments/obstetrics-and-gynaecology/academic-divisions/maternal-fetal-medicine-division/",
+   "year": "",
+   "why": "Identifies relevant Johannesburg academic services for a referral request.",
+   "takeaways": [
+    "The division lists specialised referral clinics rather than a general pregnancy-information service.",
+    "Poor Obstetrics History [care after serious previous pregnancy problems] is a named clinic.",
+    "Perinatal Mental Health [mental health around pregnancy and birth] is another named clinic.",
+    "The list also includes medical high-risk and fetal-medicine clinics.",
+    "The page does not specify a cervical-insufficiency booking pathway, so confirm the destination and referral requirements with the care team."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "place",
+   "title": "Dr Jayshree Jeebodh, maternal-fetal specialist, Park Lane",
+   "source": "Dr Jayshree Jeebodh's practice",
+   "url": "https://jeebodh.co.za/",
+   "year": "",
+   "why": "A verifiable private Johannesburg specialist contact for assessing service fit.",
+   "takeaways": [
+    "The practice identifies Dr Jeebodh as a maternal-fetal medicine subspecialist since 2007.",
+    "The listed address is Netcare Park Lane Hospital, Parklane Medical Centre, 15 on Junction, Parktown.",
+    "The listed telephone number is 010 447 3725.",
+    "Services include high-risk counselling, first-trimester assessment, anatomy scans and growth scans.",
+    "The page says an internal scan may be needed to assess the cervix.",
+    "It does not publish cerclage outcomes, fees or a dedicated prevention-clinic schedule, so confirm those before booking."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Pregnancy and Infant Loss Support Group: primary-source 2026 listing",
+   "source": "The Compassionate Friends Johannesburg",
+   "url": "https://www.compassionatefriends.co.za/supportgroups/general-grief-support-group-14-june-kdwp7-z8czs-wjn7g",
+   "year": "2026",
+   "why": "Updates the older newspaper resource with the organisation's own local listing.",
+   "takeaways": [
+    "The group supports parents after miscarriage, stillbirth or death in early infancy.",
+    "The listed venue is 122 Athol Street, Highlands North, Johannesburg.",
+    "This event ran on 8 August 2026 from 14:00 to 16:00, so it is evidence of a recent service rather than a future appointment.",
+    "The organisation lists 011 440 6322 and WhatsApp or SMS 078 147 2705 for joining.",
+    "The contact email is tcfsa@mweb.co.za; ask for the next date and whether both partners can attend together."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "Vaginal progesterone for singleton pregnancies with a short cervix: individual-patient meta-analysis",
+   "source": "Romero and colleagues, American Journal of Obstetrics and Gynecology",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5987201/",
+   "year": "2018",
+   "why": "Provides the main absolute benefit figures behind short-cervix progesterone treatment.",
+   "takeaways": [
+    "The analysis combined individual data from 974 women across five high-quality trials.",
+    "Participants had a singleton pregnancy and a mid-pregnancy cervical length of 25 mm or less.",
+    "Birth before 33 weeks occurred in approximately 14% with vaginal progesterone versus 22% with placebo.",
+    "The pooled relative risk was 0.62, meaning a 38% relative reduction rather than a 38-percentage-point reduction.",
+    "The authors estimated that about twelve women would need treatment to prevent one birth before 33 weeks in these trial populations.",
+    "Measured developmental outcomes at age two did not differ between treatment and placebo groups."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "SuPPoRT: comparing cervical cerclage, pessary and vaginal progesterone",
+   "source": "Hezelgrave and colleagues, PLOS Medicine",
+   "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004427",
+   "year": "2024; correction linked in 2025",
+   "why": "A direct comparison that helps explain why treatment choices remain contested.",
+   "takeaways": [
+    "The UK trial randomised 386 women with a singleton pregnancy and a cervix under 25 mm.",
+    "Entry was between 14 weeks and 23 weeks and 6 days across 19 maternity units.",
+    "More than 85% had a previous risk factor, but only 39.1% had a previous spontaneous early birth or mid-trimester loss.",
+    "Birth before 37 weeks occurred in 39 of 127 cerclage participants, 38 of 122 pessary participants and 32 of 132 progesterone participants.",
+    "Treatments met the trial's 20-percentage-point equivalence margin [the allowed difference], which does not prove identical effects in every subgroup.",
+    "Recruitment stopped early during COVID-19 and the trial was underpowered for newborn outcomes; the page links a 2025 correction."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "The NLRP3 inflammasome and the mechanisms of cervical ripening",
+   "source": "Peer-reviewed review, PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11012148/",
+   "year": "2024",
+   "why": "An advanced biology layer for understanding why cervical change is not purely mechanical.",
+   "takeaways": [
+    "Cervical ripening [softening before birth] involves changes in the tissue's supporting structure.",
+    "The review describes collagen and elastin breakdown alongside increased tissue hydration.",
+    "Hyaluronic acid [a molecule that holds water] contributes to the changing tissue environment.",
+    "Local inflammatory processes are part of the remodelling discussion.",
+    "The role of the NLRP3 inflammasome [an immune signalling complex] in cervical tissue remains incompletely understood.",
+    "This is a mechanisms review, not evidence that an inflammasome test or targeted drug is established care after a loss."
+   ],
+   "checked_by": "curl",
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "book",
+   "title": "Ask Me His Name: Learning to Live and Laugh Again After the Loss of My Baby",
+   "source": "Elle Wright; Bonnier Books UK",
+   "url": "https://books.apple.com/gb/book/ask-me-his-name/id1412779944",
+   "year": "2018",
+   "why": "A parent's account of life after baby loss, separate from clinical prevention advice.",
+   "takeaways": [
+    "The publisher describes a memoir about Elle Wright's pregnancy, her son Teddy and life after his death.",
+    "Teddy was born in May 2016 and died three days later.",
+    "The account explores leaving hospital without a baby and navigating an unanticipated form of parenthood.",
+    "The English edition is listed as 320 pages and was released on 6 September 2018.",
+    "The publisher says a portion of sales supports Tommy's; these points come from the publisher description rather than a full-text review."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "podcast",
+   "title": "Cerclage: At Your Cervix! with Dr Andrei Rebarber",
+   "source": "Healthful Woman; Dr Nathan Fox and Dr Andrei Rebarber",
+   "url": "https://healthfulwoman.com/podcasts/cerclage-at-your-cervix-with-dr-andrei-rebarber-2/",
+   "year": "2022 republication",
+   "why": "A conversational explanation of the surgery's history and the problem of choosing candidates.",
+   "takeaways": [
+    "The episode explains that cerclage has been used since the 1950s, before modern trial standards were common.",
+    "The hosts describe the central controversy as deciding who actually needs the operation and when.",
+    "They distinguish stitches based on pregnancy history, ultrasound findings and examination findings.",
+    "Their page summary describes most vaginal procedures as taking around half an hour or less under anaesthesia.",
+    "Their practice generally removes a vaginal stitch at 36 to 37 weeks if earlier labour has not occurred.",
+    "This is a US specialist discussion published before the 2023 progesterone changes, so use newer guidelines for current medication decisions."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Health Market Inquiry: final findings and recommendations",
+   "source": "Competition Commission of South Africa",
+   "url": "https://www.compcom.co.za/healthcare-inquiry/",
+   "year": "2019 final report; archive",
+   "why": "The primary evidence archive behind claims about private healthcare incentives.",
+   "takeaways": [
+    "The inquiry investigated features that prevent, distort or restrict competition in private healthcare.",
+    "Its archive links the final report, executive summary and presentation of findings.",
+    "The report identifies high and rising spending without credible corresponding evidence of improved outcomes.",
+    "It examines hospital concentration, funder behaviour and payment incentives rather than blaming one profession alone.",
+    "Its recommendations are proposals for reform, not proof that every proposed reform has since been implemented.",
+    "Use the 2019 findings to frame questions about value, while checking present-day prices and scheme rules separately."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Gauteng free maternity-care policy after the High Court order",
+   "source": "SECTION27 and the Centre for Child Law",
+   "url": "https://section27.org.za/2023/10/section27-welcomes-amended-policy-ensuring-access-to-free-health-care-for-all-pregnant-mothers-and-young-children-and-partial-compliance-by-gauteng-health-with-high-court-order/",
+   "year": "2023",
+   "why": "Explains an important Gauteng access ruling from the organisations involved.",
+   "takeaways": [
+    "The statement concerns compliance with an April 2023 Gauteng High Court order on free public healthcare.",
+    "The protected groups include pregnant and breastfeeding women and children under six.",
+    "The ruling addressed access regardless of nationality and documentation status, including hospital services.",
+    "The organisations reported amended policy alongside only partial compliance in October 2023.",
+    "An access right does not guarantee an immediate specialist appointment or a chosen private hospital, so referral and service availability still need confirmation."
+   ],
+   "verified": true,
+   "new": true
+  }
+ ],
+ "system": {
+  "who_pays": [
+   "Public maternity care is funded mainly through taxes and provincial health budgets; the National Health Act provides free public health services for pregnant women who are not medical scheme beneficiaries, subject to its conditions. [National Health Act](https://www.health.gov.za/wp-content/uploads/2021/10/nhrec-train_NationalHealthAct.pdf)",
+   "In private care, medical schemes pool members' monthly contributions, while families pay costs outside their cover or above applicable reimbursement rates. [How medical schemes work](https://www.discovery.co.za/medical-aid/how-medical-schemes-work)",
+   "PMBs [prescribed minimum benefits, the legal minimum cover] protect qualifying diagnosis, treatment and care, but provider rules and lawful waiting periods can affect payment. [CMS PMB Q&A](https://www.medicalschemes.co.za/pmb-questions/) [CMS pregnancy waiting-period ruling](https://www.medicalschemes.co.za/download/3773/2025/30041/m-v-discovery-health-medical-scheme_june-2025.pdf)",
+   "There is no verified universal cerclage price or blanket progesterone funding promise in these sources, so obtain a written decision for the actual diagnosis, procedure, medicine and plan. [CMS conditions](https://www.medicalschemes.co.za/resources/pmb/pmb-conditions/)"
+  ],
+  "who_decides": [
+   "The patient gives informed consent after the clinician explains the diagnosis, alternatives, benefits, risks and costs, with her partner involved as she wishes. [National Health Act, sections 6 and 7](https://www.health.gov.za/wp-content/uploads/2021/10/nhrec-train_NationalHealthAct.pdf)",
+   "The obstetrician and MFM specialist [maternal-fetal medicine doctor, a specialist in complicated pregnancies] interpret the previous loss and recommend monitoring or treatment. [RCOG cervical stitch](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/)",
+   "Public referral teams and hospital capacity influence where specialist care happens, while scheme authorisation teams decide funding under the scheme rules and PMB law. [SA maternity guidelines](https://knowledgehub.health.gov.za/system/files/elibdownloads/2024-10/Integrated%20Maternal%20and%20Perinatal%20Care%20Guideline_Final%204%20October%202024%20%20DG%20signed.pdf) [CMS PMB Q&A](https://www.medicalschemes.co.za/pmb-questions/)",
+   "Funding disputes can go through the scheme's complaints process and then the Council for Medical Schemes, which regulates schemes. [CMS complaints](https://www.medicalschemes.co.za/consumer-assistance/complaintsprocedure/)"
+  ],
+  "who_profits": [
+   "Private hospitals, specialist practices, laboratories and medicine suppliers receive payments for the services or products they provide. [Health Market Inquiry](https://www.compcom.co.za/wp-content/uploads/2020/01/Final-Findings-and-recommendations-report-Health-Market-Inquiry.pdf)",
+   "Medical schemes themselves are nonprofit funds, while a separate commercial administrator can earn fees for managing them. [Discovery's explanation of the distinction](https://www.discovery.co.za/medical-aid/how-medical-schemes-work)",
+   "The 2019 Health Market Inquiry found that fee-for-service [payment for each service] and weak information about quality encouraged excess use across private healthcare. [Inquiry findings](https://www.compcom.co.za/wp-content/uploads/2020/01/Final-Findings-and-recommendations-report-Health-Market-Inquiry.pdf)",
+   "That finding supports asking why an intervention is needed, but does not prove that a particular clinician's recommendation is financially motivated. [SAMJ explanation of the inquiry](https://www.scielo.org.za/scielo.php?pid=S0256-95742020000200006&script=sci_arttext)",
+   "SA reporting also identifies litigation fears and scheduling pressures in maternity decisions, so financial incentives are only part of the picture. [Bhekisisa maternity investigation](https://bhekisisa.org/article/2016-11-11-00-caesarean-vs-vaginal-birth-a-mothers-choice-not-her-doctors/)"
+  ],
+  "what_it_means_for_us": [
+   "Arrange a specialist review of the 25-week loss before another pregnancy if possible, because painless cervical opening, labour, infection and waters breaking first can lead to different prevention plans. [Mayo diagnosis and treatment](https://www.mayoclinic.org/diseases-conditions/incompetent-cervix/diagnosis-treatment/drc-20373842?p=1)",
+   "Ask the specialist to explain whether the next pregnancy needs an early planned stitch or cervical scans with a treatment trigger, and have that plan written down. [RCOG cervical stitch](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/)",
+   "For public care, ask the local clinic or obstetric team to arrange referral to an appropriate high-risk service; Wits lists poor-obstetric-history and perinatal mental-health clinics. [Wits MFM division](https://www.wits.ac.za/clinicalmed/departments/obstetrics-and-gynaecology/academic-divisions/maternal-fetal-medicine-division/)",
+   "For private care, request an itemised quotation in Rands and written scheme approval covering the surgeon, anaesthetist, facility, scans, medicine and stitch removal separately. [Discovery day-surgery rules](https://www.discovery.co.za/medical-aid/day-surgery-network) [CMS PMB Q&A](https://www.medicalschemes.co.za/pmb-questions/)",
+   "Make grief support part of the care plan, and confirm the next pregnancy-loss group meeting with The Compassionate Friends in Highlands North on 011 440 6322 or WhatsApp 078 147 2705. [Organisation's 2026 listing](https://www.compassionatefriends.co.za/supportgroups/general-grief-support-group-14-june-kdwp7-z8czs-wjn7g)"
+  ]
+ },
+ "deep_sections": [
+  {
+   "title": "Reconstruct the loss before naming the cause",
+   "points": [
+    "A single mid-pregnancy loss does not by itself establish cervical insufficiency [the cervix opening too early without the usual labour process]. [Mayo diagnosis](https://www.mayoclinic.org/diseases-conditions/incompetent-cervix/diagnosis-treatment/drc-20373842?p=1)",
+    "Build a timeline from the records showing when pressure, bleeding, contractions, cervical opening and leaking fluid first appeared, because their order helps the specialist assess the mechanism. [SASOG-hosted assessment guidance](https://sasog.co.za/wp-content/uploads/2023/07/PRETERM-LABOUR-WITH-INTACT-MEMBRANES-2.0.pdf)",
+    "PPROM [waters breaking before labour and before 37 weeks] is a different starting event from painless opening with intact membranes, although these processes can overlap. [NICE NG25](https://www.nice.org.uk/guidance/ng25/chapter/recommendations)",
+    "Ask for the cervical examination notes, ultrasound reports, infection results, delivery summary and any placental histology [microscope examination of the placenta] to be reviewed together, rather than relying on a discharge label. [Loss investigations](https://www.miscarriageuk.org/types-of-pregnancy-loss/second-trimester-loss-late-miscarriage/)",
+    "Cervical tissue changes involve collagen [supporting protein], water content and inflammatory signals, so the biology is more complex than a cervix that simply cannot carry weight. [Cervical remodelling review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012148/)",
+    "A cerclage [a stitch supporting the cervix] does not treat every pathway to preterm birth, so infection, bleeding and contractions change the decision. [UCLH patient guidance](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/cervical-cerclage)",
+    "There is no reliable test outside pregnancy that proves how the cervix will behave in a future pregnancy. [Mayo diagnosis](https://www.mayoclinic.org/diseases-conditions/incompetent-cervix/diagnosis-treatment/drc-20373842?p=1)",
+    "The Aberdeen study defines the previous second-trimester loss as 13 weeks to 23 weeks and 6 days, so its recurrence percentages do not directly describe a previous birth or loss after 24 weeks. [PASTeL-2 paper](https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1111/1471-0528.70161)"
+   ]
+  },
+  {
+   "title": "Why guidelines can disagree",
+   "points": [
+    "History-indicated, ultrasound-indicated and examination-indicated stitches are three different decisions based on past events, scan findings or an already opening cervix. [FIGO recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9291060/)",
+    "FIGO recommends a history-based stitch after three or more preterm births or mid-trimester losses, but also recommends a scan-based stitch after one such event when cervical length is under 25 mm. [FIGO recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9291060/)",
+    "Those thresholds do not mean a couple must lose three babies before specialist review or a prevention plan. [RCOG early-referral advice](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/)",
+    "NICE allows consideration of vaginal progesterone based on prior spontaneous preterm birth or qualifying loss alone, while ACOG advises against offering it for recurrent preterm birth without a shortened cervix. [NICE NG25](https://www.nice.org.uk/guidance/ng25/chapter/recommendations) [ACOG advisory](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/04/updated-guidance-use-of-progestogen-supplementation-for-prevention-of-recurrent-preterm-birth)",
+    "South Africa's 2024 national maternity guideline describes progesterone as an alternative to cerclage when a short cervix is confirmed before 24 weeks. [National maternity guideline](https://knowledgehub.health.gov.za/system/files/elibdownloads/2024-10/Integrated%20Maternal%20and%20Perinatal%20Care%20Guideline_Final%204%20October%202024%20%20DG%20signed.pdf)",
+    "SMFM Consult 70 concerns people without previous spontaneous preterm birth, so its recommendation against routine stitches for a closed short cervix cannot simply be applied to someone with a previous spontaneous 25-week birth. [SMFM Consult 70](https://assets.noviams.com/novi-file-uploads/smfm/Publications_and_Guidelines/Consults/Short_Cervix_FINAL_PDF_AJOG.pdf)",
+    "Ask which guideline fits the actual history and why the clinician's recommendation follows or differs from it, because a guideline threshold is a decision aid rather than an individual prognosis. [ACOG collaborative planning](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/04/updated-guidance-use-of-progestogen-supplementation-for-prevention-of-recurrent-preterm-birth)",
+    "Treatment-guiding cervical measurements should use a standard transvaginal scan [an ultrasound probe in the vagina], rather than treating an abdominal estimate as interchangeable. [SMFM Consult 70](https://assets.noviams.com/novi-file-uploads/smfm/Publications_and_Guidelines/Consults/Short_Cervix_FINAL_PDF_AJOG.pdf)"
+   ]
+  },
+  {
+   "title": "Read treatment claims in absolute numbers",
+   "points": [
+    "The 2018 progesterone analysis found birth before 33 weeks in about 14% with treatment versus 22% with placebo among singleton pregnancies with a short cervix. [Individual-patient meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC5987201/)",
+    "That is about eight fewer early births per 100 treated in the study population, rather than a promise that progesterone prevents every early birth. [Individual-patient meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC5987201/)",
+    "A confidence interval [the range showing statistical uncertainty] that crosses no difference means a study has not established a clear benefit for that outcome. [Cochrane cerclage review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6481522)",
+    "MAVRIC tested abdominal stitches after a previous vaginal stitch had failed, so its strong results support a selected rescue strategy for future pregnancies rather than routine abdominal surgery after any loss. [Published trial abstract](https://pubmed.ncbi.nlm.nih.gov/31585096/)",
+    "An abdominal stitch brings surgical risks and usually remains in place, with caesarean birth required while it is present. [SMFM Consult 65](https://publications.smfm.org/publications/471-society-for-maternal-fetal-medicine-consult-series-65/)",
+    "SuPPoRT found similar outcomes across three treatments within its chosen equivalence margin [the maximum difference the trial accepted as similar], but was too small to settle uncommon newborn outcomes. [SuPPoRT](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004427)",
+    "TOPS found no benefit and a mortality concern with a cervical pessary [a silicone support device], in a different population with no prior spontaneous preterm birth. [TOPS](https://jamanetwork.com/journals/jama/fullarticle/2807569)",
+    "Combining a stitch with progesterone should have an explicit reason, because these sources do not establish that every high-risk patient benefits from both. [SMFM shared-decision recommendation](https://publications.smfm.org/publications/471-society-for-maternal-fetal-medicine-consult-series-65/)",
+    "Makena was injectable 17-OHPC [a synthetic progestogen], and its US approval was withdrawn in 2023 after benefit was not confirmed; that decision does not invalidate vaginal progesterone for a short cervix. [FDA decision](https://www.fda.gov/news-events/press-announcements/fda-commissioner-and-chief-scientist-announce-decision-withdraw-approval-makena) [ACOG advisory](https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/04/updated-guidance-use-of-progestogen-supplementation-for-prevention-of-recurrent-preterm-birth)",
+    "Routine bed rest has no demonstrated preventive benefit and can harm physical health, income and mental wellbeing. [SMFM activity-restriction guidance](https://cdn.smfm.org.s3.amazonaws.com/attachments/767/627ea438ca531a251adf7dbb7ee50eb9.pdf)"
+   ]
+  },
+  {
+   "title": "Turn medical-aid language into a funding decision",
+   "points": [
+    "A PMB diagnosis must meet its legal descriptor, so an ICD-10 code [a diagnosis billing code] alone does not establish entitlement. [CMS conditions](https://www.medicalschemes.co.za/resources/pmb/pmb-conditions/)",
+    "A DSP [designated service provider] is the scheme's selected provider for qualifying care, and voluntarily using another provider can trigger a permitted co-payment. [CMS PMB Q&A](https://www.medicalschemes.co.za/pmb-questions/)",
+    "Ask the specialist's practice to submit the clinical indication and exact procedure codes, then ask the scheme to specify which benefit pays each item. [CMS coding explanation](https://www.medicalschemes.co.za/resources/pmb/?trk=public_profile__posts-text)",
+    "Ask separately whether the prescribed vaginal progesterone formulation, quantity and duration are covered, including any formulary [approved-medicine list] or exception process. [CMS medicine rules](https://www.medicalschemes.co.za/pmb-questions/)",
+    "The inclusion of cervical cerclage on Discovery's day-surgery list shows that facility rules can matter even when the procedure is recognised. [Discovery procedure list](https://www.discovery.co.za/medical-aid/day-surgery-network)",
+    "An advertised maternity allowance for routine scans does not establish how a medically required series of cervical scans will be funded. [Discovery maternity cover](https://www.discovery.co.za/medical-aid/maternity-benefit)",
+    "A hospital package is not necessarily the full bill: one Mediclinic caesarean page lists R34,255 but excludes doctors, radiology, pathology and independent care for the baby, so use it only as an example of exclusions. [Hospital package](https://www.mediclinic.co.za/en/corporate/private-fixed-fees/caesarean-section.html)",
+    "For a denial, request the written rule and clinical reason, keep the specialist's motivation and accounts, and use the scheme's complaints process before CMS. [CMS complaint requirements](https://www.medicalschemes.co.za/consumer-assistance/complaintsprocedure/)",
+    "Joining a scheme while pregnant does not guarantee immediate PMB funding, because lawful waiting periods can apply in some membership histories. [CMS 2025 ruling](https://www.medicalschemes.co.za/download/3773/2025/30041/m-v-discovery-health-medical-scheme_june-2025.pdf)"
+   ]
+  },
+  {
+   "title": "Plan the route before the next emergency",
+   "points": [
+    "Book specialist review early enough to discuss a planned stitch before symptoms or shortening occur. [UCLH timing guidance](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/cervical-cerclage)",
+    "For Edenvale, confirm the public referral destination with the local care team rather than assuming that any academic clinic accepts direct walk-ins. [SA referral guidance](https://knowledgehub.health.gov.za/system/files/elibdownloads/2024-10/Integrated%20Maternal%20and%20Perinatal%20Care%20Guideline_Final%204%20October%202024%20%20DG%20signed.pdf)",
+    "Wits lists a Poor Obstetrics History clinic and a Perinatal Mental Health clinic, which are useful service descriptions when requesting referral. [Wits division](https://www.wits.ac.za/clinicalmed/departments/obstetrics-and-gynaecology/academic-divisions/maternal-fetal-medicine-division/)",
+    "In private care, a fetal anatomy scan appointment and an ongoing preterm-birth prevention service may serve different needs, so confirm who will prescribe treatment and act on cervical changes. [Park Lane MFM practice services](https://jeebodh.co.za/)",
+    "If another pregnancy develops leaking fluid, bleeding, contractions, fever or concerning pelvic pressure, contact maternity triage promptly rather than waiting for the next scheduled scan. [RCOG warning signs](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/cervical-stitch/)",
+    "If very early birth threatens, ask which hospital can provide the required neonatal care and whether transfer before birth is possible. [SASOG-hosted preterm-labour protocol](https://sasog.co.za/wp-content/uploads/2023/07/PRETERM-LABOUR-WITH-INTACT-MEMBRANES-2.0.pdf)",
+    "At the limits of viability [when survival outside the womb becomes possible], ask the obstetrician and neonatologist for the receiving unit's current policy and outcomes rather than using overseas survival figures as a local promise. [SA national guideline](https://knowledgehub.health.gov.za/system/files/elibdownloads/2024-10/Integrated%20Maternal%20and%20Perinatal%20Care%20Guideline_Final%204%20October%202024%20%20DG%20signed.pdf)",
+    "NICE permits consideration of emergency cerclage through 27 weeks and 6 days in selected cases with unruptured membranes, so 24 weeks is not a universal cutoff for every type of stitch. [NICE emergency-cerclage recommendations](https://www.nice.org.uk/guidance/ng25/chapter/recommendations)",
+    "Grief and pregnancy planning can move at different speeds for each partner, and counselling can support both without requiring a shared timetable. [Tommy's pregnancy-after-loss information](https://www.tommys.org/baby-loss-support/stillbirth-information-and-support/trying-another-baby-after-stillbirth-neonatal-death)",
+    "The Highlands North organisation has a primary-source pregnancy-loss group listing from August 2026, but its next date still needs confirmation. [The Compassionate Friends](https://www.compassionatefriends.co.za/supportgroups/general-grief-support-group-14-june-kdwp7-z8czs-wjn7g)"
+   ]
   }
  ]
 }

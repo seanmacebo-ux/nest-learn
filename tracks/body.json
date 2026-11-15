@@ -104,7 +104,15 @@
    "url": "https://www.nhs.uk/conditions/atopic-eczema/",
    "why": "Clear basics, triggers, treatments and when to see a doctor.",
    "topic": "eczema",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Atopic eczema causes itchy, dry skin and commonly alternates between flares and quieter periods.",
+    "Its appearance varies with skin tone, including grey, purple, lighter or darker patches.",
+    "The NHS advises applying emollients at least twice daily and continuing when skin improves.",
+    "Soap, heat, irritants, infection and other triggers can worsen symptoms, but eczema is not contagious.",
+    "Pain, warmth, pus, sudden worsening or fever need urgent assessment for infection.",
+    "The page advises against changing the diet without medical guidance and warns that emollient-contaminated fabrics catch fire more easily."
+   ]
   },
   {
    "type": "article",
@@ -113,7 +121,15 @@
    "url": "https://eczema.org/information-and-advice/treatments-for-eczema/emollients/",
    "why": "Deep, practical guide to choosing and using moisturisers.",
    "topic": "eczema",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied address redirects to Eczema UK's emollient guide, following the organisation's name change from the National Eczema Society.",
+    "Emollients are unperfumed medical moisturisers rather than cosmetics with anti-ageing additives.",
+    "They leave an oily layer that helps keep water in the skin and improves barrier protection.",
+    "The guide describes more than 120 emollient products approved for NHS use, with local prescribing lists limiting choice.",
+    "A person may prefer a lighter cream or gel during the day and a greasier product at night.",
+    "Finding a product that works and is acceptable to use regularly can require trying different formulations."
+   ]
   },
   {
    "type": "article",
@@ -122,7 +138,15 @@
    "url": "https://www.cochrane.org/CD012119",
    "why": "The evidence summary: moisturisers mean fewer flares; fancy ones aren't clearly better.",
    "topic": "eczema",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied short URL did not load, but the same Cochrane review was verified in its full-text archive at https://pmc.ncbi.nlm.nih.gov/articles/PMC6464068/.",
+    "The 2017 review included 77 studies and 6,603 participants, mainly with mild or moderate eczema.",
+    "Studies lasted an average of 6.7 weeks, limiting conclusions about long-term outcomes.",
+    "Moisturisers reduced flares and steroid use in some comparisons, but several findings rested on low-quality evidence.",
+    "Some measured severity improvements did not reach the threshold considered important to patients.",
+    "The evidence did not reliably establish one moisturiser as best, and adverse-effect reporting was limited."
+   ]
   },
   {
    "type": "video",
@@ -131,7 +155,13 @@
    "url": "https://www.youtube.com/watch?v=mQ73EpeenGk",
    "why": "Short explainer on the barrier and immune sides of eczema.",
    "topic": "eczema",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification limitation: the supplied YouTube ID mQ73EpeenGk did not return accessible video content.",
+    "Exact-ID searches did not establish its uploader or confirm the supplied title.",
+    "No transcript or description was available, so source-specific medical takeaways cannot be responsibly attributed to this video.",
+    "The AFSA eczema article and AAD eczema guideline in the new resources provide verified coverage while this existing entry remains unverified."
+   ]
   },
   {
    "type": "tool",
@@ -140,7 +170,15 @@
    "url": "https://www.dischem.co.za/epi-max-cream-400g",
    "why": "Cheap, plain SA emollient; about R130 (R117 on special) in Nov 2026.",
    "topic": "eczema",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied product URL did not load, but Dis-Chem's matching listing was found at https://www.dischem.co.za/epi-max-cream-400g-763.",
+    "It lists a 400 g tub containing cetomacrogol and glycerine, with paraffin ingredients in the ingredient list.",
+    "The retailer describes the cream as fragrance-free and colourant-free, and says it can be used as a soap substitute.",
+    "The listing displayed R129.99 and a promotional R116.99 when checked; these are time-sensitive retail prices.",
+    "At R129.99, the calculated price is about R32.50 per 100 g, useful for comparing pack sizes.",
+    "The page markets it for dry skin, eczema and psoriasis, but supplies no comparative clinical trial proving it is superior to other emollients."
+   ]
   },
   {
    "type": "place",
@@ -149,7 +187,15 @@
    "url": "https://www.heartfoundation.co.za/",
    "why": "SA-specific heart health, salt advice and the Heart Mark food logo.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The foundation's site separates heart-disease and stroke information from practical healthy-living resources.",
+    "Dedicated sections cover blood pressure, cholesterol and diabetes.",
+    "Healthy-eating advice is paired with recipes, physical activity and smoking-cessation material.",
+    "The site describes community risk assessments, workplace wellness and a mobile clinic programme.",
+    "Heart Mark information includes product categories and an application and licensing process.",
+    "Support directories and Mended Hearts and Stroke groups offer routes beyond simply reading about risk."
+   ]
   },
   {
    "type": "article",
@@ -158,7 +204,15 @@
    "url": "https://www.nhs.uk/conditions/high-blood-pressure/",
    "why": "What the numbers mean, clinic vs home thresholds, and lifestyle steps.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "High blood pressure usually has no symptoms, so feeling well does not exclude it.",
+    "Age, family history, excess salt, excess alcohol and other factors affect risk.",
+    "An upper-arm cuff measures pressure, and further home or ambulatory measurements may be needed after a high result.",
+    "Lifestyle changes and medicines reduce the risk of serious complications such as stroke and heart attack.",
+    "Persistent chest pain, especially with sweating or breathlessness, can signal an emergency.",
+    "The page's NHS booking advice and UK emergency numbers need local adaptation for South Africa."
+   ]
   },
   {
    "type": "article",
@@ -167,7 +221,15 @@
    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/blood-pressure/art-20050982",
    "why": "Simple chart to place any reading in a category.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The upper number is systolic pressure and the lower number is diastolic pressure, measured in mmHg [millimetres of mercury].",
+    "The chart calls readings below 120 and below 80 normal.",
+    "It labels systolic 120 to 129 with diastolic below 80 as elevated.",
+    "It uses US stage 1 categories of systolic 130 to 139 or diastolic 80 to 89.",
+    "The higher category matters when the two numbers fall into different categories.",
+    "These US categories should be labelled as such beside South African or NICE guidance, because the thresholds differ."
+   ]
   },
   {
    "type": "article",
@@ -176,7 +238,15 @@
    "url": "https://www.nhlbi.nih.gov/education/dash-eating-plan",
    "why": "The original DASH plan from the people who ran the trials.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied address redirects to NHLBI's current DASH eating-plan page.",
+    "DASH means Dietary Approaches to Stop Hypertension and provides daily and weekly food goals.",
+    "It requires no special branded foods.",
+    "The plan emphasises vegetables, fruit, whole grains, beans, nuts and low-fat dairy alongside fish or poultry.",
+    "It limits saturated-fat-rich foods and sugary drinks and sweets.",
+    "The site links separate sections on following the plan, living with it and its health benefits."
+   ]
   },
   {
    "type": "tool",
@@ -185,7 +255,15 @@
    "url": "https://www.stridebp.org/",
    "why": "Check a BP machine is accuracy-tested before buying.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "STRIDE BP is a scientific nonprofit focused on accurate blood-pressure measurement.",
+    "Its website provides validated monitor lists rather than treating every commercially sold monitor as accurate.",
+    "At this check, the homepage reported 551 approved monitors and 294 preferred models among more than 5,000 on the market.",
+    "It identifies inaccurate devices and poor measurement technique as causes of misdiagnosis and inappropriate management.",
+    "It offers measurement training and links to research on blood-pressure measurement.",
+    "Approval and preferred-list totals change, so check the exact model against the current list when buying."
+   ]
   },
   {
    "type": "video",
@@ -194,7 +272,13 @@
    "url": "https://www.youtube.com/watch?v=wKCa9g0ob7k",
    "why": "Two-minute walkthrough of getting an accurate home reading.",
    "topic": "bp",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification limitation: the supplied YouTube ID wKCa9g0ob7k did not return accessible video content.",
+    "Exact-ID searches did not confirm its uploader, date or the claimed home-measurement title.",
+    "No usable transcript was found, so this research cannot attribute cuff-placement or timing instructions to that specific video.",
+    "The new British Heart Foundation hosted demonstration and NICE measurement recommendations provide verified alternatives while this entry remains unverified."
+   ]
   },
   {
    "type": "article",
@@ -203,7 +287,14 @@
    "url": "https://www.nhs.uk/conditions/acne/",
    "why": "Plain overview of causes, pharmacy options and prescription treatments.",
    "topic": "acne",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Acne commonly affects the face, chest and back, and can include blackheads, whiteheads, pustules and deeper painful lumps.",
+    "It can leave scars and changes in skin colour or texture.",
+    "The NHS recommends gentle washing twice daily and products labelled non-comedogenic [designed not to clog pores].",
+    "Picking, squeezing and harsh scrubbing can worsen injury or scarring.",
+    "Medical help is appropriate for deep painful lesions, scarring, unsuccessful self-treatment or effects on mental health."
+   ]
   },
   {
    "type": "article",
@@ -212,7 +303,15 @@
    "url": "https://dermnetnz.org/topics/acne",
    "why": "Deeper detail on hormones, diet evidence, isotretinoin and scars.",
    "topic": "acne",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "DermNet defines acne as a chronic disorder of the hair follicle and oil gland involving blockage and inflammation.",
+    "Its causes include family tendency, androgen hormones, acne-associated bacteria and immune activity.",
+    "Comedones [blackheads and whiteheads], inflamed spots and deeper nodules represent different lesion types.",
+    "Most cases do not need laboratory tests; atypical features may justify skin swabs or selected hormone tests.",
+    "Treatment ranges from topical medicines to hormonal treatment, antibiotics or isotretinoin depending on severity and response.",
+    "Acne can persist beyond age 25, particularly in women."
+   ]
   },
   {
    "type": "video",
@@ -221,7 +320,13 @@
    "url": "https://www.youtube.com/watch?v=Kh6I5eXtgSc",
    "why": "One-minute guide to using creams right so they work and irritate less.",
    "topic": "acne",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification limitation: the supplied YouTube ID Kh6I5eXtgSc did not return accessible video content.",
+    "Exact-ID searches did not establish a verified publisher or confirm the supplied application-demonstration title.",
+    "No transcript was available, so this entry cannot support specific advice about medication amount, application area or frequency.",
+    "The new AAD acne guideline and NICE treatment recommendations provide verified evidence while this existing video entry remains unverified."
+   ]
   },
   {
    "type": "book",
@@ -230,7 +335,15 @@
    "url": "https://www.penguin.co.uk/books/308182/the-skincare-bible-by-mahto-anjali/9780241309100",
    "why": "No-nonsense skin book with a strong acne section and myth-busting.",
    "topic": "acne",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The supplied publisher path did not load, but the matching ISBN was found at https://www.penguin.co.uk/books/305603/the-skincare-bible-by-mahto-dr-anjali/9780241309100.",
+    "Penguin identifies the author as consultant dermatologist Dr Anjali Mahto and dates this edition to 5 April 2018.",
+    "The publisher describes coverage of acne, rosacea, pigmentation and morning and evening routines.",
+    "Its description rejects homemade face masks as a cure for acne and lilac water as a way to reduce scarring.",
+    "The book also discusses stress, pollution, diet and changes in skin with age.",
+    "These points are based on the publisher's synopsis rather than a full-text reading, so specific treatment claims need checking against current guidelines."
+   ]
   },
   {
    "type": "article",
@@ -239,7 +352,15 @@
    "url": "https://www.blood.co.uk/the-donation-process/after-your-donation/how-your-body-replaces-blood/",
    "why": "How plasma, red cells and iron recover after blood is taken.",
    "topic": "blood",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The page discusses blood donation, describing an average adult blood volume of about 10 pints and a donation of about one pint.",
+    "Kidney cells detect reduced oxygen delivery and release erythropoietin, which signals bone marrow to make more red cells.",
+    "The body makes about two million red blood cells each second.",
+    "The service says haemoglobin usually returns to normal six to 12 weeks after a donation.",
+    "Iron stores help replace lost haemoglobin, while drinking fluids helps replace the water component of blood.",
+    "The page's 12-week male and 16-week female donation intervals are NHS Blood and Transplant rules, not South African rules or recovery times for routine small blood samples."
+   ]
   },
   {
    "type": "article",
@@ -248,7 +369,15 @@
    "url": "https://www.nhs.uk/tests-and-treatments/blood-tests/",
    "why": "What happens during a blood test and the common types.",
    "topic": "blood",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Blood tests can investigate symptoms, assess risk and monitor a condition or treatment.",
+    "The page distinguishes a full blood count, glucose, kidney-related tests, a lipid profile and thyroid-related testing.",
+    "Preparation depends on the test, so follow specific instructions about fasting or medicines rather than changing medicines independently.",
+    "A sample is usually taken from a vein near the elbow with a needle and collected in a tube for laboratory testing.",
+    "Temporary bruising or swelling can occur, and telling the collector about needle anxiety can help.",
+    "Results need an explanation and a follow-up plan; contact the requesting service if expected results do not arrive."
+   ]
   },
   {
    "type": "video",
@@ -257,7 +386,511 @@
    "url": "https://www.youtube.com/watch?v=HJO2ZmGtYHc",
    "why": "Short, plain explainer of the most common blood test.",
    "topic": "blood",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification limitation: the supplied YouTube ID HJO2ZmGtYHc did not return accessible video content.",
+    "Exact-ID searches did not confirm who made it or establish that it covers the claimed full-blood-count topic.",
+    "No transcript or description was available, so claims about blood-cell counts or diagnostic meanings cannot be attributed to this video.",
+    "The existing NHS blood-test page and new MedlinePlus results guide provide verified explanations while this video entry remains unverified."
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Atopic Eczema",
+   "source": "Allergy Foundation South Africa",
+   "url": "https://www.allergyfoundation.co.za/allergy-information/atopic-eczema/",
+   "year": "",
+   "why": "A detailed South African explanation of the skin barrier, allergy testing and treatment.",
+   "takeaways": [
+    "Skin-barrier damage lets water escape and irritants enter, which can drive further inflammation.",
+    "Filaggrin is a skin-barrier protein whose inherited abnormalities can contribute to eczema.",
+    "More than half of children with eczema who have raised food-allergy antibodies may not actually be allergic to those foods.",
+    "The page distinguishes treating a flare from intermittent maintenance treatment on areas that repeatedly flare.",
+    "It offers downloadable action plans, wet-wrap guidance and a list of moisturisers marketed for eczema in South Africa."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Atopic dermatitis clinical guideline",
+   "source": "American Academy of Dermatology",
+   "url": "https://www.aad.org/member/clinical-quality/guidelines/atopic-dermatitis",
+   "year": "2025",
+   "why": "Shows how treatment escalates when basic skin care is insufficient.",
+   "takeaways": [
+    "Strong topical-treatment recommendations include moisturisers, corticosteroids and calcineurin inhibitors [non-steroid anti-inflammatory medicines].",
+    "Bathing and wet wraps receive conditional recommendations, reflecting less certain evidence or context-dependent choices.",
+    "Systemic options [treatments acting throughout the body] include targeted biologic medicines and JAK inhibitors [medicines affecting immune signals].",
+    "The guideline recommends against systemic corticosteroids for routine atopic dermatitis management.",
+    "The 2025 focused update adds recommendations for newer treatments, including lebrikizumab and nemolizumab with topical therapy.",
+    "These are US clinical recommendations, so South African registration, access and scheme cover need separate checks."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "What is the best way to use topical corticosteroids to treat people with eczema?",
+   "source": "Cochrane; Lax and colleagues",
+   "url": "https://www.cochrane.org/evidence/CD013356_what-best-way-use-topical-corticosteroids-treat-people-eczema",
+   "year": "2022",
+   "why": "Tests common steroid-use rules rather than treating every routine as established fact.",
+   "takeaways": [
+    "Moderate and potent steroids probably control moderate or severe eczema better than mild steroids.",
+    "Potent steroids applied once daily probably work as well as twice-daily or more frequent use for flares.",
+    "Using steroid treatment on two days each week probably reduces relapse compared with reactive treatment alone.",
+    "Reported skin thinning was uncommon, but adverse effects were poorly reported and studies were often short.",
+    "The review found no trials comparing branded with generic topical steroids or establishing the best gap between steroid and emollient application."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Topical corticosteroids and withdrawal reactions",
+   "source": "UK Medicines and Healthcare products Regulatory Agency",
+   "url": "https://www.gov.uk/guidance/topical-corticosteroids-and-withdrawal-reactions",
+   "year": "2021",
+   "why": "A regulator's balanced account of steroid benefits, overuse and withdrawal concerns.",
+   "takeaways": [
+    "Skin conditions can return after treatment stops, and this does not automatically identify a withdrawal syndrome.",
+    "Severe topical steroid withdrawal reactions are thought to be rare, but their frequency is unknown.",
+    "Reported reactions usually follow frequent or prolonged use of strong steroids, for example longer than 6 to 12 months in adults.",
+    "Sensitive sites such as the face and genitals are more commonly involved in reported reactions.",
+    "Symptoms returning within days or weeks warrant medical advice before re-treating the area."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Acne clinical guideline",
+   "source": "American Academy of Dermatology",
+   "url": "https://www.aad.org/member/clinical-quality/guidelines/acne/",
+   "year": "2024",
+   "why": "Separates established acne medicines from heavily advertised options with weaker support.",
+   "takeaways": [
+    "Recommended topical options include benzoyl peroxide, retinoids, azelaic acid and selected antibiotics.",
+    "The guideline favours combining topical treatments with different mechanisms of action.",
+    "Systemic antibiotic use should be limited and accompanied by benzoyl peroxide and other topical treatment.",
+    "Options for selected patients include combined oral contraceptives and spironolactone.",
+    "Oral isotretinoin is among the recommended systemic treatments, with selection depending on disease severity and treatment history."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Acne vulgaris: management, recommendations",
+   "source": "NICE, guideline NG198",
+   "url": "https://www.nice.org.uk/guidance/ng198/chapter/recommendations",
+   "year": "2021",
+   "why": "Gives a clear treatment timetable and addresses pregnancy, antibiotics and referral.",
+   "takeaways": [
+    "Initial treatment is normally offered as a 12-week course, selected with the patient.",
+    "One first-line option is a fixed combination of adapalene and benzoyl peroxide, provided it is suitable for the person.",
+    "At review, an oral antibiotic can stop if acne has cleared while topical treatment continues.",
+    "Antibiotic-containing treatment beyond six months should be exceptional and reviewed every three months.",
+    "Topical retinoids and oral tetracyclines are contraindicated during pregnancy and when planning pregnancy.",
+    "Scarring, psychological impact and inadequate response influence referral; the original guideline has subsequent amendments."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Hypertension in adults: diagnosis and management, recommendations",
+   "source": "NICE, guideline NG136",
+   "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations",
+   "year": "2019",
+   "why": "Explains confirmation, home averages and individual targets for older adults.",
+   "takeaways": [
+    "Home confirmation uses two seated measurements at least one minute apart, morning and evening, for at least four days and ideally seven.",
+    "Discard day-one readings and average the remaining measurements.",
+    "Confirmation normally combines a clinic reading of at least 140/90 with a home or daytime average of at least 135/85 mmHg.",
+    "For people aged 80 or over, its usual home treatment target is below 145/85, with judgement for frailty and multiple illnesses.",
+    "A standing fall of at least 20 mmHg systolic or 10 mmHg diastolic warrants assessment; treatment targets may need to use standing pressure.",
+    "The guideline was first published in 2019 and includes later amendments, including 2026 healthy-living advice."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Monitoring people's blood pressure in their homes leads to better control, study finds",
+   "source": "Elri Voigt; Spotlight",
+   "url": "https://www.spotlightnsp.co.za/2025/11/10/monitoring-peoples-blood-pressure-in-their-homes-leads-to-better-control-study-finds/",
+   "year": "2025",
+   "why": "South African reporting showing that care delivery can matter as much as drug choice.",
+   "takeaways": [
+    "The reported KwaZulu-Natal study assigned 774 adults to clinic care or one of two home-care models.",
+    "Home care combined blood-pressure monitoring, nurse review and medicine delivery by community health workers.",
+    "At six months, blood pressure was controlled in 32.5% of the clinic group, 57.4% of the home-care group and 61.3% of the enhanced home-care group.",
+    "Compared with clinic care, systolic pressure was lower by 7.9 mmHg and 9.1 mmHg in the two home-care groups.",
+    "The article identifies travel costs, queues, equipment problems and overloaded nurses as barriers to clinic-based care.",
+    "At publication, costs and performance in urban settings still needed investigation, so the study does not establish an available Edenvale service."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Reducing sodium intake to reduce blood pressure and risk of cardiovascular diseases in adults",
+   "source": "World Health Organization, eLENA",
+   "url": "https://www.who.int/tools/elena/interventions/sodium-cvd-adults",
+   "year": "",
+   "why": "A concise evidence-based target for interpreting salt and sodium labels.",
+   "takeaways": [
+    "WHO recommends adults reduce sodium intake to less than 2 g per day.",
+    "That amount corresponds to about 5 g of salt rather than 2 g of salt.",
+    "The purpose is to reduce blood pressure and cardiovascular risk.",
+    "Population interventions should reduce sodium while increasing potassium through foods.",
+    "The resource links recommendations to supporting reviews rather than treating individual willpower as the only intervention."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Use of lower-sodium salt substitutes: WHO guideline",
+   "source": "World Health Organization",
+   "url": "https://www.who.int/publications/i/item/9789240105591",
+   "year": "2025",
+   "why": "Explains why potassium-based salt substitutes are useful for some people and unsuitable for others.",
+   "takeaways": [
+    "WHO conditionally suggests potassium-containing lower-sodium substitutes if adults choose to use table salt.",
+    "The recommendation sits alongside the stronger recommendation to reduce total sodium intake.",
+    "It excludes people with kidney impairment or other conditions that compromise potassium excretion.",
+    "It is intended for adults and does not extend to pregnant women or children.",
+    "The guideline is an 82-page evidence-informed document published on 27 January 2025."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Mayo Clinic Q and A: What to expect during a blood draw",
+   "source": "Fiona Craig; Mayo Clinic News Network",
+   "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-a-what-to-expect-during-a-blood-draw/",
+   "year": "2024",
+   "why": "Puts a routine sample in proportion and explains the procedure without mystery.",
+   "takeaways": [
+    "Ask which tests are being collected and why, including whether fasting is needed.",
+    "Hydration and warmth can help preparation, subject to the testing instructions.",
+    "Checking full name and date of birth helps keep the sample attached to the correct medical record.",
+    "The article describes an adult blood volume of approximately 5,000 mL, much larger than an ordinary sample.",
+    "It says dizziness around a routine draw is usually related to anxiety rather than the amount collected.",
+    "Hand veins can bruise more readily than accessible veins near the elbow."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "How to understand your lab results",
+   "source": "MedlinePlus; US National Library of Medicine",
+   "url": "https://www.medlineplus.gov/lab-tests/how-to-understand-your-lab-results/",
+   "year": "",
+   "why": "A bookmark for interpreting reference intervals, units and uncertainty.",
+   "takeaways": [
+    "A reference range is based on results from groups of healthy people and can differ by population.",
+    "Healthy people can have a result outside the reference range.",
+    "A result within the range does not guarantee that no health problem exists.",
+    "Laboratories can use different methods and ranges, so the range on the actual report matters.",
+    "Using the same laboratory can help when following changes over time.",
+    "Units are part of the result, so numbers should not be compared without checking how they were measured."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Prescribed Minimum Benefits",
+   "source": "Council for Medical Schemes",
+   "url": "https://www.medicalschemes.co.za/resources/pmb/",
+   "year": "",
+   "why": "The regulator's starting point for checking the older parent's hypertension entitlement.",
+   "takeaways": [
+    "PMBs establish minimum benefits regardless of the medical-scheme option selected.",
+    "Hypertension appears among the 26 Chronic Disease List conditions.",
+    "Cover for a listed chronic condition includes related consultations and tests as well as medication.",
+    "Schemes can use formularies, designated providers and treatment protocols to manage the benefit.",
+    "The published treatment algorithms establish minimum standards below which scheme treatment should not fall.",
+    "Clinical records help support an alternative when a formulary medicine is ineffective or causes adverse effects."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Pharmaceutical Economic Evaluation and medicine-pricing databases",
+   "source": "South African National Department of Health",
+   "url": "https://www.health.gov.za/nhi-pee/",
+   "year": "",
+   "why": "The official source for checking declared medicine prices and pricing notices.",
+   "takeaways": [
+    "The site publishes downloadable private-sector medicine-price databases.",
+    "The data include single exit prices, ex-manufacturer prices and logistics-fee fields.",
+    "Discontinued medicines remain listed, so a database entry does not prove current availability.",
+    "Separate sections contain dispensing-fee notices and single exit price adjustment documents.",
+    "Use a dated database and the applicable final notice when checking a pharmacy bill, because prices and fees change."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Medicine Price Registry",
+   "source": "OpenUp",
+   "url": "https://medicineprices.org.za/",
+   "year": "",
+   "why": "An accessible consumer tool for finding medicine prices and possible generic alternatives.",
+   "takeaways": [
+    "Search results can help identify possible generic alternatives to a branded medicine.",
+    "The tool explains that a dispensing fee may be added to the single exit price.",
+    "Its displayed consumer totals include VAT, while the fee explanation identifies amounts excluding VAT.",
+    "The site warns that allowed fees may change and its information may not be fully current.",
+    "At this research check, it displayed medicine data collected on 26 May 2026, so compare current quotes with the official database."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Quality and Bioequivalence guideline",
+   "source": "South African Health Products Regulatory Authority",
+   "url": "https://www.sahpra.org.za/?dlp_document=quality-and-bioequivalence",
+   "year": "2025",
+   "why": "The local regulator's technical reference behind claims about medicine quality and equivalence.",
+   "takeaways": [
+    "The guideline addresses new registration applications and variations to registered products.",
+    "It states SAHPRA's current expectations for safety, efficacy and quality.",
+    "Alternative technical approaches need scientific justification rather than marketing assurances.",
+    "SAHPRA can request additional information when needed to assess a medicine.",
+    "The landing page identifies version 9 dated 23 October 2025 and separates the current download from archived versions."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Southern African Hypertension Society guidelines",
+   "source": "Southern African Hypertension Society",
+   "url": "https://www.hypertension.org.za/guidelines",
+   "year": "",
+   "why": "A local professional reference for understanding why imported blood-pressure charts differ.",
+   "takeaways": [
+    "The page links South African hypertension guidelines and international guidance.",
+    "It includes the society's 2019 commentary on American hypertension guidelines.",
+    "It provides a 2015 medical-practitioner management algorithm and a 2016 nursing algorithm.",
+    "The 2015 algorithm lists targets below 140/90, or below 150/90 for people older than 80.",
+    "The society states that individual medicine and device choices require a medical consultation; the linked documents' dates should be checked."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Find an accredited DSSA dermatologist",
+   "source": "Dermatology Society of South Africa",
+   "url": "https://dermatology.co.za/find-a-dermatologist/",
+   "year": "",
+   "why": "A professional-directory starting point when looking for a skin specialist near Edenvale.",
+   "takeaways": [
+    "The page is a directory for finding accredited Dermatology Society of South Africa dermatologists.",
+    "It offers a location-oriented search for skin specialists.",
+    "It is a route to locating a clinician rather than an eczema or acne treatment guideline.",
+    "The directory does not itself establish a medical-scheme network agreement.",
+    "Its listing is not a quotation or a guarantee of appointment availability, so those details need confirmation with the practice."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "How medicines pricing works in SA and how it might change in future",
+   "source": "Dr Andy Gray; Spotlight, Inside The Box",
+   "url": "https://www.spotlightnsp.co.za/2026/02/12/inside-the-box-with-dr-andy-gray-how-medicines-pricing-works-in-sa-and-how-it-might-change-in-future/",
+   "year": "2026",
+   "why": "An expert explainer of price regulation, supply-chain income and transparency gaps.",
+   "takeaways": [
+    "Public tenders and private single exit prices operate as separate purchasing systems.",
+    "The National Drug Policy dates to 1996, while the pricing reforms took effect after legislation and court challenges in the following decade.",
+    "Private final sellers can add a regulated dispensing fee, while wholesalers receive a logistics fee within the supply chain.",
+    "The column argues that initial launch prices remain a weakness even when later increases are limited.",
+    "Pharmacy chains owning wholesalers can receive logistics income that patients do not directly see on a dispensing bill.",
+    "Gray questions opaque commercial incentives without quantifying them; his February 2026 fee and adjustment examples are dated, not current quotations."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "book",
+   "title": "Clean: The New Science of Skin",
+   "source": "James Hamblin; Riverhead Books / Penguin Random House",
+   "url": "https://www.penguinrandomhouse.com/books/588965/clean-by-james-hamblin/",
+   "year": "2020",
+   "why": "Adds the history and commercial culture of hygiene to the clinical reading.",
+   "takeaways": [
+    "The publisher's description frames skin care as both a scientific topic and a cultural practice.",
+    "Hamblin interviews dermatologists, microbiologists, allergy specialists and people selling skin products.",
+    "The book examines the skin microbiome [microbes living on the skin] and emerging probiotic claims.",
+    "It questions whether everyday standards of cleanliness reliably correspond to better health.",
+    "The publisher describes his personal experiment with giving up showers; this is a narrative experiment rather than a clinical trial.",
+    "These points are verified from the publisher's description, not a full-text reading; use the book for context rather than a treatment protocol."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "video",
+   "title": "Check your blood pressure: Know Your Numbers",
+   "source": "British Heart Foundation",
+   "url": "https://www.bhf.org.uk/how-you-can-help/support-our-campaigns/yourbp",
+   "year": "",
+   "why": "An official page hosting a nurse demonstration, with a guide and diary beside it.",
+   "takeaways": [
+    "The hosted demonstration covers fastening the monitor cuff, choosing when to measure and reading the display.",
+    "The accompanying page stresses that high blood pressure often has no obvious symptoms.",
+    "Its measurement advice highlights feeling calm and sitting upright for a reliable reading.",
+    "A linked diary supports recording readings rather than relying on memory.",
+    "The page also promotes BHF's monitor shop, so use independent validation lists when choosing a device.",
+    "These takeaways reflect the accessible host-page text; a separate video transcript was not available in this research."
+   ],
+   "verified": true,
+   "new": true
+  }
+ ],
+ "system": {
+  "who_pays": [
+   "South African households pay through taxes, medical-scheme contributions and direct payments for consultations, medicines and laboratory tests.",
+   "Public clinics use state-funded services and medicines bought through public tenders; these prices differ from private pharmacy prices.",
+   "Hypertension is one of the 26 conditions on the Chronic Disease List [CDL], so qualifying diagnosis, treatment and care fall within prescribed minimum benefits [PMBs] on every medical-scheme option.",
+   "Schemes can require registration, a formulary [covered medicine list] and designated service providers [DSPs]; choosing another brand or provider can create a co-payment.",
+   "Eczema and acne are not themselves CDL conditions, so routine cover depends on the option and circumstances rather than an automatic chronic entitlement."
+  ],
+  "who_decides": [
+   "SAHPRA assesses medicine safety, quality and effectiveness; registration does not itself decide the medicine's price or whether a scheme pays.",
+   "The Health Minister and Pricing Committee regulate private-sector medicine pricing and permitted price adjustments, while public procurement uses tenders.",
+   "Clinicians and patients choose treatment using the diagnosis, severity, other conditions, pregnancy plans and the person's priorities.",
+   "Medical schemes set formularies and provider networks within legal PMB requirements, and the Council for Medical Schemes oversees compliance.",
+   "The Department of Health also sets sodium limits for specified processed foods, so food manufacturers help determine salt exposure before anyone reaches for a salt shaker."
+  ],
+  "who_profits": [
+   "Manufacturers earn revenue from branded and generic medicines; patents and the number of competing suppliers can affect their bargaining power.",
+   "Pharmacies earn dispensing fees, while distributors receive logistics fees within the medicine supply chain.",
+   "Andy Gray's Spotlight analysis identifies an extra revenue route when a pharmacy chain owns its wholesaler, and describes limits to public visibility of commercial arrangements.",
+   "Private clinicians, laboratories, device sellers and skincare companies receive payment for their services or products; a commercial interest does not by itself prove a treatment is ineffective.",
+   "Medical schemes pool members' money, while administrators and managed-care businesses charge for running services; evaluating their incentives requires separating these organisations."
+  ],
+  "what_it_means_for_us": [
+   "Ask the older parent's scheme for written hypertension registration, its covered medicines, approved pharmacy and consultation and testing rules.",
+   "Request the medicine's active ingredient, strength, pack size, single exit price [SEP] and dispensing fee so a cheaper generic comparison is meaningful.",
+   "Use a validated upper-arm monitor with the correct cuff and a clinician-agreed recording plan before interpreting isolated readings.",
+   "For skin care, judge a simple treatment plan over the agreed weeks using symptoms, photographs and side effects rather than buying a succession of advertised products.",
+   "For each blood test, ask what question it answers, what result would change care and how results will be explained; pregnancy plans should be discussed before acne medicines are chosen."
+  ]
+ },
+ "deep_sections": [
+  {
+   "title": "Eczema: a leaky barrier and an immune loop",
+   "points": [
+    "Eczema involves both impaired skin protection and inflammation [an immune response that causes swelling and irritation].",
+    "Filaggrin [a protein involved in the skin barrier] helps explain why inherited differences can make skin lose water more easily.",
+    "Water loss, irritant entry and scratching can reinforce each other, so treating itch alone may leave the loop running.",
+    "Emollients [medical moisturisers] support the barrier, while topical corticosteroids [anti-inflammatory skin medicines] treat inflammation.",
+    "The 2017 Cochrane moisturiser review supports fewer flares but does not establish one universally best brand.",
+    "Cochrane's 2022 steroid review found that once-daily potent steroid treatment probably works as well as more frequent application for flares.",
+    "A clinician may prescribe intermittent treatment on recurring sites after a flare settles; this is called proactive maintenance.",
+    "Steroid strength, body site and duration matter more than a blanket claim that all steroids are dangerous or harmless.",
+    "The UK medicines regulator recognises severe withdrawal reactions, thought to be rare, but says their true frequency is unknown.",
+    "A positive allergy test can show sensitisation [immune recognition] without proving that eating the food causes symptoms.",
+    "AFSA advises expert assessment before food exclusions, especially because restrictive diets can create nutritional harm.",
+    "Painful blisters, rapidly worsening eczema, fever or feeling ill need prompt medical assessment for infection, including eczema herpeticum [a herpes infection of eczema skin].",
+    "Inflammation can look purple, grey or darker brown on darker skin, so redness alone is a poor measure of severity.",
+    "Persistent disease despite a well-used plan can justify reassessing the diagnosis or discussing specialist treatments; US guideline recommendations do not establish South African availability or funding."
+   ]
+  },
+  {
+   "title": "An older parent's blood pressure: measurement before targets",
+   "points": [
+    "Systolic pressure [the upper number] reflects pressure when the heart contracts, while diastolic pressure [the lower number] reflects pressure between beats.",
+    "Age-related artery stiffness can raise the upper number even when the lower number is not high.",
+    "A stressful clinic visit can raise pressure temporarily; white-coat hypertension means clinic readings are high while out-of-clinic readings are lower.",
+    "Masked hypertension is the opposite pattern, with apparently normal clinic readings but high readings elsewhere.",
+    "A validated device, correct cuff and consistent seated technique help prevent measurement error from becoming a diagnosis.",
+    "US categories in Mayo's chart start stage 1 hypertension at 130/80, while NICE confirmation uses clinic readings of at least 140/90 and a home or daytime average of at least 135/85.",
+    "A diagnosis threshold and a treatment target answer different questions, so ask which local guideline and measurement setting the clinician is using.",
+    "The SA Hypertension Society's published 2015 algorithm uses a target below 140/90, or below 150/90 above age 80; its date matters when comparing newer guidance.",
+    "NICE recommends checking standing pressure in people aged 80 or over and in those with relevant symptoms, because treatment can worsen postural hypotension [a pressure drop on standing].",
+    "An older person's target should account for frailty, falls, kidney function and treatment tolerance rather than age alone.",
+    "The SPRINT subgroup aged 75 or over benefited from intensive treatment, but it excluded important groups such as people with diabetes, prior stroke or nursing-home residence.",
+    "Diuretics [medicines that increase salt and water excretion], calcium-channel blockers and medicines acting on blood-pressure hormones lower pressure through different routes.",
+    "Kidney function and blood salts may need monitoring when medicines are started or changed; a normal reading on treatment is not a reason to stop it independently.",
+    "Very high repeated readings need prompt clinical advice; chest pain, new weakness, confusion or severe breathlessness require emergency assessment rather than waiting for a home diary."
+   ]
+  },
+  {
+   "title": "Acne: blocked follicles, hormones and slow evidence",
+   "points": [
+    "Acne develops in the hair-follicle and oil-gland unit through blockage, oil production, bacteria and inflammation.",
+    "A comedone [blocked follicle] can form a blackhead or whitehead; a blackhead is not evidence of dirty skin.",
+    "Scrubbing or repeatedly changing strong products can add irritation without fixing the processes that cause acne.",
+    "Retinoids [vitamin A-related medicines] help prevent blocked follicles, while benzoyl peroxide reduces acne-associated bacteria without being an antibiotic.",
+    "Combining treatments can target different processes, but several irritating products started together can make the plan hard to tolerate.",
+    "NICE uses a 12-week first treatment course, because visible improvement commonly takes several weeks.",
+    "Antibiotics should have a review and stopping plan; AAD recommends benzoyl peroxide alongside antibiotic treatment to limit resistance [bacteria becoming less responsive].",
+    "Hormonal treatments can help selected women even when acne is not evidence of a dangerous hormone disorder.",
+    "Acne with irregular periods or other signs of excess androgen activity [effects of hormones such as testosterone] can justify targeted assessment rather than a routine hormone panel for everyone.",
+    "In the SAFA trial, spironolactone's advantage was clearer at 24 weeks than 12 weeks, showing why an early comparison can miss later benefit.",
+    "Spironolactone affects blood pressure and potassium as well as hormone signalling, so suitability and monitoring depend on the person's health and other medicines.",
+    "Pregnancy plans change acne treatment choices: NICE advises against topical retinoids and oral tetracyclines during pregnancy or while planning it.",
+    "Oral isotretinoin can cause serious fetal harm and requires a carefully supervised pregnancy-prevention and monitoring plan when relevant.",
+    "NICE finds insufficient evidence to prescribe a particular acne diet; claims that one food explains every breakout overstate the evidence.",
+    "Scarring, persistent dark marks and psychological distress are valid reasons to seek treatment before acne becomes severe."
+   ]
+  },
+  {
+   "title": "Blood draws: volume, fainting and what results mean",
+   "points": [
+    "An ordinary diagnostic blood draw removes a small sample from a vein, while a whole-blood donation removes hundreds of millilitres.",
+    "Mayo describes an adult blood volume of roughly 5,000 mL; as an illustration, a 20 mL collection would be about 0.4% of that volume.",
+    "The actual volume depends on the requested tests and tubes, so the person taking the sample can explain the planned amount.",
+    "Fainting around needles can be vasovagal [an automatic nervous-system response that lowers blood pressure and sometimes heart rate], rather than evidence of major blood loss.",
+    "Tell the collector about previous fainting and ask to lie down if needed.",
+    "A bruise usually means a little blood leaked into surrounding tissue; applying pressure after needle removal helps limit it.",
+    "The kidneys release erythropoietin [a signal for red-cell production], and bone marrow makes replacement red cells using nutrients including iron.",
+    "NHS Blood and Transplant's weeks-long haemoglobin recovery figures describe donation and should not be applied unchanged to a small routine sample.",
+    "Repeated ICU sampling can contribute to iatrogenic anaemia [low haemoglobin partly caused by medical care], especially in people already seriously ill.",
+    "STRATUS tested smaller tubes in intensive care; its primary analysis did not show a statistically clear reduction in transfusion, although a larger secondary analysis did.",
+    "A full blood count measures blood cells but does not directly measure every nutrient or exclude every cause of tiredness.",
+    "A reference range [the laboratory's comparison interval] is not a boundary between perfect health and disease.",
+    "Use the units and reference interval on the actual report, and interpret trends alongside symptoms and medicines.",
+    "Fasting is test-specific, and medicine changes should follow the requesting clinician's instructions rather than a blanket rule.",
+    "Learning about blood tests cannot establish why the pregnancy loss happened; a cause would require the relevant records and clinical investigation."
+   ]
+  },
+  {
+   "title": "The price of care and the salt already in food",
+   "points": [
+    "SEP [single exit price] is South Africa's regulated private medicine supply price, not a promise that every pharmacy bill will be identical.",
+    "A dispensing fee can be added, and medical-scheme reimbursement can differ from the retail amount.",
+    "Public-sector tender prices use state purchasing power and must not be confused with private SEPs.",
+    "A regulated annual increase does not prove the starting price is good value; Andy Gray's analysis identifies the initial launch price as a weakness in the framework.",
+    "Generic comparisons must match the active ingredient, strength and dosage form; two medicines for the same condition are not automatically interchangeable.",
+    "SAHPRA's bioequivalence framework [assessment of comparable medicine availability in the body] is part of how generic quality and interchangeability are assessed.",
+    "A brand name, expensive packaging or a long ingredient list is not evidence of better clinical results.",
+    "For PMBs, distinguish a preference for another brand from a documented medical reason that the formulary option fails or causes harm.",
+    "Ask for a written funding decision and keep clinical evidence for a formulary exception or scheme complaint.",
+    "South Africa's sodium rules were introduced in stages in 2016 and 2019 across 13 processed-food categories, making reformulation a population-level prevention measure.",
+    "The 2025 rural cohort study found estimated sodium excretion fell by about 0.23 g per day from the first to third survey wave; an observational study cannot isolate the law from every other change.",
+    "Sodium and salt use different numbers: 2,000 mg sodium equals about 5 g salt, including salt already present in food.",
+    "Bread, processed meats, sauces and stock products can contribute salt even when a meal does not taste especially salty.",
+    "WHO's potassium-containing salt-substitute advice excludes people with impaired potassium excretion and does not apply to pregnant women or children.",
+    "For an older parent with kidney disease or potassium-raising medicines, check with the clinician before replacing table salt with a potassium product.",
+    "Read evidence quality and funding disclosures together; a commercial tie deserves scrutiny but does not substitute for assessing the study's methods and results."
+   ]
   }
  ]
 }

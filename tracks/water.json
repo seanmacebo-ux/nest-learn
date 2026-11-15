@@ -92,7 +92,14 @@
    "source": "City of Ekurhuleni",
    "url": "https://www.ekurhuleni.gov.za/category/press-releases/outages-alert/",
    "why": "Where planned and unplanned water cuts for Edenvale are posted.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "This is an archive of Ekurhuleni outage notices, rather than a complete real-time map of every supply interruption.",
+    "Its notices distinguish planned Rand Water work from local service interruptions.",
+    "The archive includes the 7 to 15 December 2025 maintenance window.",
+    "A January 2024 notice warned that restoration depended on how quickly Rand Water's system stabilised.",
+    "Check the publication date and affected places because old notices remain in the archive."
+   ]
   },
   {
    "type": "tool",
@@ -100,7 +107,14 @@
    "source": "Department of Water and Sanitation",
    "url": "https://ws.dws.gov.za/iris/mywater.aspx",
    "why": "Live SANS 241 compliance map. Check your area's water quality.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "DWS identifies My Water as its public route to municipal drinking-water quality information.",
+    "It uses water-quality results submitted by municipalities, so reporting completeness matters.",
+    "Use the relevant municipality and supply system rather than a national average.",
+    "The map could not be directly loaded during this research, so no present Edenvale reading is asserted here.",
+    "DWS's release confirms the monthly-data service, while 2026 reporting still identifies some IRIS datasets as assessed against SANS 241:2015."
+   ]
   },
   {
    "type": "place",
@@ -108,7 +122,14 @@
    "source": "Rand Water",
    "url": "https://www.randwater.co.za/",
    "why": "Bulk supplier. Shows weekly water use for each metro, including Ekurhuleni.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Rand Water provides bulk treated water to municipalities, including Ekurhuleni, before local distribution to households.",
+    "Its technical material identifies Vereeniging and Zuikerbosch as the main treatment sites.",
+    "Booster stations including Palmiet and Mapleton move treated water through the regional system.",
+    "Rand Water publishes technical and standards material that can be checked separately from municipal notices.",
+    "The homepage could not be fetched directly, so these points are corroborated by Rand Water documents and the linked outage reporting rather than a current homepage reading."
+   ]
   },
   {
    "type": "article",
@@ -116,7 +137,14 @@
    "source": "City of Ekurhuleni",
    "url": "https://www.ekurhuleni.gov.za/press-releases/outages-alert/rand-water-planned-maintenance-for-december-2025/",
    "why": "A real example of a maintenance cut that hit Edenvale, and the two-week recovery warning.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The notice concerns a historical planned-maintenance period from 7 to 15 December 2025.",
+    "Affected places included Edenvale, Bedfordview, Germiston, Thembisa, Kempton Park and several other Ekurhuleni areas on different days.",
+    "The city said it would deploy tankers and share their locations through councillors and digital channels.",
+    "It warned that pressure and supply could take up to two weeks after the work to normalise, especially in higher areas.",
+    "The original page timed out; these details were recovered from the municipal archive and Municipality News's reproduction of the notice."
+   ]
   },
   {
    "type": "article",
@@ -124,7 +152,15 @@
    "source": "Daily Maverick (Dec 2023)",
    "url": "https://www.dailymaverick.co.za/article/2023-12-05-official-reports-reveal-massive-scale-of-the-waste-pollution-and-poorly-treated-water-crisis/",
    "why": "2023 Blue Drop results: Ekurhuleni 97%, Joburg 98%.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The article reports the December 2023 release of Blue Drop, No Drop and wastewater progress findings.",
+    "It says 46% of drinking-water systems had poor or bad microbiological compliance at times during the audited 2022 period.",
+    "It reports national non-revenue water at 47%, including leaks and failures in metering and billing.",
+    "It reports 64% of wastewater works at high or critical risk of inadequately treated discharge.",
+    "Blue Drop certificates went to 26 providers, with certification requiring a score above 95%.",
+    "The national deterioration did not mean every major-city tap was unsafe; the article explicitly notes generally better metropolitan drinking-water quality."
+   ]
   },
   {
    "type": "article",
@@ -132,7 +168,15 @@
    "source": "Mail & Guardian (Mar 2026)",
    "url": "https://mg.co.za/the-green-guardian/2026-03-31-sa-s-water-crisis-deepens-nearly-half-of-wastewater-systems-critical/",
    "why": "Latest Blue, Green and No Drop findings, including Gauteng's 431 billion litres of losses.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The March 2026 article covers the 2025 full Green Drop report and Blue and No Drop progress reports.",
+    "Green Drop assessed 848 municipal wastewater systems across 144 authorities for the 2023/24 financial year.",
+    "Systems in critical condition increased from 334 in 2022 to 396 in 2025, or 47% of those assessed.",
+    "National non-revenue water remained about 47.3%.",
+    "It reports Ekurhuleni and Cape Town performing within international averages for non-revenue water.",
+    "The article cautions that audit periods prevent the reports from describing the current water quality at a particular tap."
+   ]
   },
   {
    "type": "article",
@@ -140,7 +184,15 @@
    "source": "Daily Maverick (Oct 2024)",
    "url": "https://www.dailymaverick.co.za/article/2024-10-08-water-woes-what-the-temporary-shutdown-of-the-supply-from-lesotho-means-for-johannesburg",
    "why": "The clearest walk-through of Lesotho to Vaal to Rand Water.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The six-month Lesotho Highlands maintenance shutdown began at midnight on 30 September 2024.",
+    "The article distinguishes a rainfall-driven drought from an institutional drought [failure to manage and deliver available water].",
+    "It reports expert disagreement with claims that the planned shutdown would itself worsen Johannesburg's municipal supply problems.",
+    "Sterkfontein serves as reserve storage for the Vaal system and loses less to evaporation than a shallower, warmer storage site.",
+    "The reasoning depends on the wider system's reserves and planning, not on treating the Vaal Dam's percentage alone as a crisis forecast.",
+    "This is a 2024 explanation of a particular shutdown, not an assessment of November 2026 supply."
+   ]
   },
   {
    "type": "article",
@@ -148,7 +200,14 @@
    "source": "Engineering News (Nov 2026)",
    "url": "https://www.engineeringnews.co.za/article/ekurhuleni-water-outages-as-power-failure-leaves-rand-water-unable-to-pump-2026-11-03",
    "why": "A recent local case of a power cut causing a water cut.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "A power interruption stopped Rand Water's Mapleton Pumping Station at about 20:35 on 2 November 2026.",
+    "The 3 November report says a breaker fault remained unresolved when Rand Water issued its statement.",
+    "Rand Water said it could not control restoration of the city's electricity supply.",
+    "It warned of shortages in Ekurhuleni, Tshwane, Lesedi, Govan Mbeki, Victor Khanye and Thembisile Hani.",
+    "The article illustrates electricity-water dependence but gives no confirmed restoration time or address-level Edenvale impact."
+   ]
   },
   {
    "type": "article",
@@ -156,7 +215,15 @@
    "source": "US CDC",
    "url": "https://www.cdc.gov/drinking-water/prevention/about-choosing-home-water-filters.html",
    "why": "Plain guide to what jug, under-sink and RO filters actually remove.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "CDC says a filter may improve taste, safety or both, and some households may not need one.",
+    "The right choice depends on the harmful substances actually present in the water.",
+    "Most pitcher and refrigerator filters are not designed to remove germs.",
+    "Filters can also remove useful disinfectant residuals or other substances with benefits.",
+    "Filter performance depends on pore size, substance size and interactions with the filter material.",
+    "People with weakened immune systems may need specific protection against Cryptosporidium [a parasite] and should discuss suitable treatment with their clinician."
+   ]
   },
   {
    "type": "tool",
@@ -164,7 +231,15 @@
    "source": "NSF",
    "url": "https://www.nsf.org/consumer-resources/articles/standards-water-treatment-systems",
    "why": "What 42, 53, 55, 58 and 401 mean. Use it with NSF's certified product search.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "NSF standard numbers identify different purposes, not a ranking from weak to strong.",
+    "NSF/ANSI 42 covers aesthetic reductions such as chlorine taste and odour.",
+    "NSF/ANSI 53 covers specific contaminants with health effects, while 58 covers RO systems.",
+    "NSF/ANSI 55 distinguishes Class A UV treatment of contaminated water from Class B supplemental treatment.",
+    "NSF/ANSI 44 concerns softeners that exchange calcium and magnesium for sodium or potassium.",
+    "Certification must be read for the particular contaminant claim and product rather than treated as permission to call any water safe."
+   ]
   },
   {
    "type": "article",
@@ -172,7 +247,15 @@
    "source": "US CDC",
    "url": "https://www.cdc.gov/water-emergency/about/index.html",
    "why": "Boiling and bleach steps, with amounts.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "CDC recommends bottled, boiled or appropriately treated water when the supply may be unsafe after an emergency.",
+    "Bring clear water to a rolling boil for one minute, or three minutes above 6,500 feet, approximately 1,981 metres.",
+    "Cloudy water should first be settled or filtered through a clean cloth or suitable paper filter before boiling.",
+    "Boiling or disinfection cannot make water with fuel, toxic chemicals or radioactive contamination safe.",
+    "Cool boiled water and store it in clean, sanitised, tightly covered containers.",
+    "Local emergency instructions take priority over assuming that an ordinary household filter can handle the problem."
+   ]
   },
   {
    "type": "article",
@@ -180,7 +263,15 @@
    "source": "US CDC",
    "url": "https://www.cdc.gov/healthywater/emergency/creating-storing-emergency-water-supply.html",
    "why": "How much to store, which containers to use and how often to refresh them.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The old CDC URL redirects to its updated emergency-water-storage page.",
+    "Store at least one US gallon, about 3.8 litres, per person daily for three days.",
+    "CDC suggests building towards two weeks of supply where possible.",
+    "Store more for hot conditions, illness, pregnancy and pets as needed.",
+    "Replace water filled into home containers every six months and observe dates on commercially bottled water.",
+    "Use food-grade containers that can be cleaned and tightly closed, and avoid containers that previously held toxic substances."
+   ]
   },
   {
    "type": "article",
@@ -188,7 +279,15 @@
    "source": "Private Property",
    "url": "https://www.privateproperty.co.za/advice/property/articles/the-quest-for-generators-inverters-and-water-tanks/8848",
    "why": "Who pays for a tank in a rental, and who owns it afterwards.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "This 2022 property article focuses on who pays for backup equipment in rental properties.",
+    "It explains that electricity interruptions can prevent reservoir filling and disrupt sewage works.",
+    "The article says landlords are not automatically obliged to supply generators, inverters or tanks for utility failures outside their control.",
+    "It presents backup equipment as a possible property improvement that may attract tenants or higher rent.",
+    "It says a tenant may need to fund requested equipment when the landlord will not provide it.",
+    "Those are the article's broad legal assertions, not a current ruling on a specific lease; the page is not a technical tank-sizing guide."
+   ]
   },
   {
    "type": "article",
@@ -196,7 +295,15 @@
    "source": "Acts Online",
    "url": "https://www.acts.co.za/national-water/schedule_1__permissible_use_of.php",
    "why": "The law that lets you store and use roof rainwater without a licence.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Schedule 1 permits reasonable domestic water use where the person has lawful access to the resource.",
+    "It permits small non-commercial gardening and specified animal watering, subject to limits protecting the resource and other users.",
+    "It expressly permits storing and using runoff from a roof.",
+    "It allows emergency abstraction for human consumption or firefighting.",
+    "Its permissions remain subject to the National Water Act and do not remove municipal plumbing, borehole or drinking-water rules.",
+    "It is not a blanket right to unlimited groundwater abstraction, commercial supply or selling water."
+   ]
   },
   {
    "type": "tool",
@@ -204,7 +311,15 @@
    "source": "Yuppiechef",
    "url": "https://www.yuppiechef.com/brita.htm",
    "why": "Local prices: Aluna jug R699, 2-pack of cartridges R699, On Tap R1,999.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The retailer lists distinct jug, tap-mounted and replacement-cartridge product ranges.",
+    "The accessed listing priced a 3.5-litre Marella jug at R799 and a 2.4-litre Aluna jug at R699.",
+    "A pack of two MAXTRA Pro cartridges was listed at R699.",
+    "The On Tap V-MF system was R1,999 and its replacement cartridge R899.",
+    "Prices are a dated retail snapshot and can change; replacement-cartridge cost belongs in the comparison.",
+    "The category page itself does not establish model-specific microbiological purification or contaminant certification."
+   ]
   },
   {
    "type": "tool",
@@ -212,7 +327,15 @@
    "source": "Hinterland",
    "url": "https://www.hinterland.co.za/products/jojo-tank-water-vertical-1000l",
    "why": "About R1,935 for a 1,000 L tank, plus base requirements.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The product is a stationary 1,000-litre vertical JoJo storage tank.",
+    "The accessed price was R1,934.83 including VAT, which is the tank listing rather than a complete installed backup system.",
+    "The page requires a sound, level, smooth base and says the tank must remain stationary when full.",
+    "Its concrete-base guidance specifies an ideal minimum thickness of 85 mm and a bed 100 mm wider than the tank diameter.",
+    "Listed features include a 10-year warranty, a UV-stabilised outer layer, a food-grade inner layer and a black layer intended to limit algae.",
+    "These material and storage claims do not mean the tank disinfects whatever water enters it."
+   ]
   },
   {
    "type": "book",
@@ -220,7 +343,15 @@
    "source": "Charles Fishman (Simon & Schuster)",
    "url": "https://www.simonandschuster.com/books/The-Big-Thirst/Charles-Fishman/9781439102084",
    "why": "A readable, fun look at how water really works and why it's getting scarce.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "The publisher describes Fishman's book as an examination of the end of assumptions that water is endlessly abundant, cheap and safe.",
+    "Its cases include Las Vegas hotels, Australian rice farming and highly purified water used in IBM manufacturing.",
+    "The reading guide highlights water's hidden roles in industry, food production and everyday technology.",
+    "It invites comparison of desalination and wastewater reuse, including their costs and public acceptance.",
+    "It links better management to understanding water's physical behaviour and social value.",
+    "This breakdown uses the publisher's description and reading guide, rather than claiming a full-text review of the book."
+   ]
   },
   {
    "type": "book",
@@ -228,7 +359,15 @@
    "source": "Giulio Boccaletti (Penguin Random House)",
    "url": "https://www.penguinrandomhouse.com/books/602733/water-by-giulio-boccaletti/",
    "why": "How control of water shaped societies, from ancient irrigation to modern dams.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Boccaletti combines environmental and social history across several millennia.",
+    "The publisher's synopsis begins with settled farmers around the Nile, Tigris and Euphrates.",
+    "It connects adaptation to changing water conditions with the development of social organisation.",
+    "The book moves from ancient societies towards modern public institutions and infrastructure.",
+    "The first edition appeared in 2021, and the listed paperback followed in 2022 at 400 pages.",
+    "These are synopsis-level themes, not evidence about present Ekurhuleni water quality or a substitute for the full text."
+   ]
   },
   {
    "type": "book",
@@ -236,7 +375,15 @@
    "source": "Anja du Plessis (Springer, 2023)",
    "url": "https://link.springer.com/book/10.1007/978-3-031-24019-5",
    "why": "The SA-specific deep dive on why water services keep declining. Academic, but direct.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Anja du Plessis evaluates deterioration in South African freshwater resources and services over roughly three decades.",
+    "The publisher's overview identifies weak governance, reactive management and dysfunctional local government as central themes.",
+    "The chapter list treats fragmented governance and questionable decisions separately from physical resource problems.",
+    "The book uses South African cases to connect water quality, infrastructure and service delivery.",
+    "Its stated goal is to prioritise urgent problems and identify actions involving political leadership, researchers and civil society.",
+    "The accessible material was the overview and contents of the 2023 book; subscription chapters were not independently reviewed."
+   ]
   },
   {
    "type": "book",
@@ -244,7 +391,15 @@
    "source": "Leonie Joubert & Gina Ziervogel (UCT ACDI)",
    "url": "https://dayzero.org.za/",
    "why": "How Cape Town avoided running dry, and lessons for Gauteng households.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Leonie Joubert and Gina Ziervogel document Cape Town's response to a three-year drought.",
+    "The website explains how a climate shock collided with ordinary development and city-management pressures.",
+    "Its five perspectives include a water manager, politicians, a spokesperson, knowledge brokers and a researcher.",
+    "It treats citizen and business responses as part of the story alongside municipal administration.",
+    "A free book download and individual online chapters make it accessible without purchasing a copy.",
+    "Cape Town offers lessons about communication and adaptation, but its drought and supply geography differ from Gauteng's distribution failures."
+   ]
   },
   {
    "type": "video",
@@ -252,7 +407,13 @@
    "source": "YouTube",
    "url": "https://www.youtube.com/watch?v=A4-oM6-rRMY",
    "why": "7-minute look at the scheme your tap water starts in.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: the supplied YouTube page could not be fetched and searches did not independently recover this exact video.",
+    "The stated title alone does not verify the speaker, producer, running time or claims.",
+    "No numerical or historical claims are attributed to the unseen video in this breakdown.",
+    "Use the verified LHDA project page, original treaty and Lesotho compensation reporting in the new resources for this topic until the video can be checked."
+   ]
   },
   {
    "type": "video",
@@ -260,7 +421,15 @@
    "source": "SABC News (YouTube)",
    "url": "https://www.youtube.com/watch?v=413_29OS6n4",
    "why": "2-minute news clip on the Rand Water plant that treats Gauteng's water.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "SABC News published this report on 26 March 2025 about Minister Pemmy Majodina's visit to Zuikerbosch.",
+    "Its description says the project then under construction cost R3.9 billion.",
+    "It presents the upgrade as supporting Rand Water supply across four provinces.",
+    "The description claims 1.2 million additional litres daily, a suspicious unit figure that conflicts with Rand Water documents describing the broader 1,200-megalitre programme.",
+    "Do not silently convert that description into a verified current capacity or commissioning result.",
+    "Only the indexed video description was available, so this is not a transcript-based assessment of what the interview actually said."
+   ]
   },
   {
    "type": "video",
@@ -268,7 +437,15 @@
    "source": "Practical Engineering (YouTube)",
    "url": "https://www.youtube.com/watch?v=yZwfcMSDBHs",
    "why": "Clear explainer on storage and pressure, and why high-lying areas dry up first. The whole channel is worth following.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Practical Engineering published the 10 minute 59 second video on 10 December 2018.",
+    "The verified description concerns the purpose and function of elevated water storage tanks.",
+    "The associated learning material highlights water pressure as one of the main ideas.",
+    "It also identifies water towers' role in meeting changing demand across the day.",
+    "Use it to understand storage and pressure, while checking local network documents for which structure actually serves an Edenvale address.",
+    "The description and independent learning outline were verified, but the complete video transcript was not available during this research."
+   ]
   },
   {
    "type": "video",
@@ -276,7 +453,574 @@
    "source": "Multipure (YouTube)",
    "url": "https://www.youtube.com/watch?v=9DAwXEEaJJ0",
    "why": "Short comparison of RO and carbon. Made by a filter brand, so watch for the sales angle.",
-   "verified": true
+   "verified": true,
+   "takeaways": [
+    "Verification gap: the exact supplied YouTube video could not be fetched or independently identified by its ID.",
+    "Searches found several similarly titled commercial articles, which do not verify this video's author or contents.",
+    "No removal percentages, operating costs or product recommendations are attributed to the unseen video.",
+    "Use the verified CDC treatment explanation and NSF certification sources in this track for the carbon-versus-RO comparison until the exact video is available."
+   ]
+  },
+  {
+   "type": "article",
+   "title": "Water and Sanitation releases 2023 full Blue Drop Report",
+   "source": "Department of Water and Sanitation / South African Government",
+   "url": "https://www.gov.za/news/media-statements/water-and-sanitation-releases-2023-full-blue-drop-report-05-dec-2023",
+   "year": "2023",
+   "why": "Read the regulator's own explanation before using national crisis headlines to judge an Edenvale tap.",
+   "takeaways": [
+    "The release separates drinking-water quality, wastewater management and water losses into three assessments.",
+    "National non-revenue water rose from 37% in 2014 to 47% in 2023.",
+    "It reports approximately 218 litres per person daily nationally, compared with an international reference of 173 litres.",
+    "The wastewater progress assessment placed 64% of works at high or critical risk of discharging inadequately treated water.",
+    "DWS required corrective action plans from authorities with critically performing systems."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Why do Joburg's taps keep running dry?",
+   "source": "Seth Thorne / GroundUp",
+   "url": "https://groundup.org.za/article/why-does-joburg-keep-running-out-of-water/",
+   "year": "2026",
+   "why": "Connects individual outages to maintenance records, budgets and institutional responsibility.",
+   "takeaways": [
+    "The Gauteng dashboard recorded 50,536 Johannesburg pipe leaks between June 2025 and June 2026.",
+    "Johannesburg reported losing more than 207 billion litres in the 2025 financial year.",
+    "The Auditor-General criticised inadequate maintenance planning, execution and oversight.",
+    "The article examines municipal sweeping accounts [transfers into the city's central bank account] and questions about returning cash to water operations.",
+    "These are Johannesburg findings, so they explain regional mechanisms without establishing Ekurhuleni's own loss rate."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Joburg won't name its water tanker suppliers despite spending R650m in five years",
+   "source": "Seth Thorne / GroundUp, republished by Daily Maverick",
+   "url": "https://www.dailymaverick.co.za/article/2026-06-08-joburg-wont-name-its-water-tanker-suppliers-despite-spending-r650m-in-five-years/?dm_campaign=inform&dm_medium=card-link&dm_position=3&dm_source=blocks-grid",
+   "year": "2026",
+   "why": "Shows how to investigate emergency-water spending through named contracts and disclosure requests.",
+   "takeaways": [
+    "Johannesburg disclosed more than R650 million in tanker spending over five years.",
+    "Johannesburg Water told the reporter to use a formal access-to-information application for additional procurement details.",
+    "The article identifies R132 million in 2024/25 tanker spending, compared with a R1.2 billion capital budget.",
+    "Its annual-report evidence includes R817,000 in irregular spending on services supplied without an official purchase order.",
+    "Officials described plans to reduce reliance on outside tanker contractors, but those plans were commitments rather than completed results."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "SAHRC warns Gauteng water crisis is about failing infrastructure, not a lack of water",
+   "source": "Mail & Guardian",
+   "url": "https://mg.co.za/the-green-guardian/2026-11-02-sahrc-warns-gauteng-water-crisis-is-about-failing-infrastructure-not-a-lack-of-water/?trk=article-ssr-frontend-pulse_little-text-block",
+   "year": "2026",
+   "why": "Provides unusually useful Ekurhuleni findings and distinguishes allegations from the inquiry's conclusions.",
+   "takeaways": [
+    "The inquiry covered Gauteng's nine water services authorities.",
+    "It reported Ekurhuleni water losses of about 25.4%, valued at R1.27 billion.",
+    "About one quarter of Ekurhuleni reservoirs had less than 24 hours of storage capacity.",
+    "It reported a wastewater Green Drop score of 81.7% and seven of 17 assessed treatment works at or above design capacity.",
+    "The report found insufficient evidence to conclude that tanker procurement was corrupt, despite strong public criticism of tankering.",
+    "It also said the evidence did not independently establish unlawful or improper diversion of Johannesburg Water revenue."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Joburg awards R263m water tanker tender to two 20-somethings",
+   "source": "amaBhungane / News24",
+   "url": "https://www.news24.com/southafrica/news/amabhungane-joburg-awards-r263m-water-tanker-tender-to-two-20-somethings-20241222",
+   "year": "2024",
+   "why": "An investigative case study of how bidder relationships and equipment ownership deserve scrutiny.",
+   "takeaways": [
+    "The investigation concerns an estimated R263 million, three-year tanker contract.",
+    "Builtpro and Nutinox were the two selected companies.",
+    "The reporting questions addresses used by bidders and apparent connections between competing businesses.",
+    "It investigates plans to lease equipment from Astron Fleet, linked to established operator Aqua Transport and Plant Hire.",
+    "It also identifies an earlier six-month emergency contract worth R69 million involving Builtpro and Kukhulu.",
+    "This is the original 2024 investigation; the later 2026 reporting is needed for the court ruling and appeal context."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Stakeholders press LHDA on compensation, grazing land and local opportunity as water project turns 40",
+   "source": "Thoboloko Ntšonyane and Seabata Mahao / Newsday Lesotho",
+   "url": "https://newsdayonline.co.ls/stakeholders-press-lhda-on-compensation-grazing-land-and-local-opportunity-as-water-project-turns-40/",
+   "year": "2026",
+   "why": "Adds the voices and costs on the Lesotho side of Gauteng's water infrastructure.",
+   "takeaways": [
+    "Affected residents raised compensation, environmental protection and procurement concerns at the October stakeholder conference.",
+    "Phase II is designed to increase annual transfers from 780 million cubic metres to more than 1.27 billion.",
+    "The article reports R24 billion spent from a R53 billion allocation at that stage.",
+    "It cites an Ombudsman finding of more than M142 million in Phase I compensation arrears by the end of 2025.",
+    "Reported Phase II arrears were about M6.7 million; M denotes Lesotho maloti, linked at parity to the Rand.",
+    "Construction progress and unresolved community claims can coexist, so one should not be used to dismiss the other."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "New Ekurhuleni tariffs effective from 1 July 2026",
+   "source": "City of Ekurhuleni",
+   "url": "https://www.ekurhuleni.gov.za/press-releases/public-notice/new-ekurhuleni-tariffs-effective-from-1-july-2026/",
+   "year": "2026",
+   "why": "Establishes the approved increase rather than the earlier draft proposal.",
+   "takeaways": [
+    "The approved water-tariff increase is 11% from 1 July 2026.",
+    "The sanitation increase is 8.35%, so it should be checked separately on a household bill.",
+    "The city places the adjustments within an annual budget of R70.9 billion.",
+    "The notice says final increases followed public consultation and affordability concerns.",
+    "It directs qualifying residents towards indigent support and debt-rehabilitation incentives.",
+    "The percentage announcement does not replace the detailed tariff schedule needed to calculate a particular bill."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Application process of installing a borehole",
+   "source": "City of Ekurhuleni",
+   "url": "https://www.ekurhuleni.gov.za/press-releases/service-delivery/application-process-of-installing-a-borehole/",
+   "year": "2025",
+   "why": "The practical municipal process that a generic national borehole guide can miss.",
+   "takeaways": [
+    "The city says permission is mandatory before drilling starts.",
+    "Owners request the application form and submit supporting documents to the listed municipal contacts.",
+    "Applications go to City Planning's Dolomite Section for geological and hydrological review.",
+    "The Water Demand Management Section considers the review before an approval or rejection letter is prepared.",
+    "The Head of Department signs the final letter, so a submitted application is not itself permission to drill.",
+    "The notice contains a mistaken Act-number reference; the National Water Act is Act 36 of 1998."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "About Home Water Treatment Systems",
+   "source": "US Centers for Disease Control and Prevention",
+   "url": "https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html",
+   "year": "2024",
+   "why": "A non-sales explanation of which treatment mechanisms handle which problems.",
+   "takeaways": [
+    "Point-of-use treatment serves one outlet, while point-of-entry treatment serves most or all of the home.",
+    "RO uses a membrane and pressure to reduce germs and selected dissolved chemicals.",
+    "UV treatment works better with prefiltration and can inactivate parasites, bacteria and viruses.",
+    "UV does not remove chemicals, so it cannot solve every borehole-quality problem.",
+    "Water softeners primarily remove calcium and magnesium and do not disinfect water.",
+    "The page recommends testing and matching treatment to the actual hazard rather than installing equipment automatically."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "article",
+   "title": "Collecting Rainwater and Your Health: An Overview",
+   "source": "US Centers for Disease Control and Prevention",
+   "url": "https://www.cdc.gov/drinking-water/about/collecting-rainwater-and-your-health-an-overview.html?CDC_AAref_Val=https%3A%2F%2Fwww.cdc.gov%2Fhealthywater%2Fdrinking%2Fprivate%2Frainwater-collection.html",
+   "year": "2026",
+   "why": "Explains why apparently clean roof water needs a separate safety assessment.",
+   "takeaways": [
+    "Airborne dust and smoke can contaminate rain before it reaches a roof.",
+    "Roofing, gutters, pipes and storage materials can add chemicals to collected water.",
+    "Bird droppings and accumulated roof dirt can enter tanks, especially after dry weather.",
+    "Mixing untreated rainwater with treated water can contaminate the treated supply.",
+    "CDC recommends regular microbial and chemical testing when rainwater is used for drinking, cooking or bathing.",
+    "Its US legal references do not establish what is allowed in Ekurhuleni; use the municipal bylaw for that."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Lesotho Highlands Development Authority: project, dam and royalty updates",
+   "source": "Lesotho Highlands Development Authority",
+   "url": "https://www.lhda.org.ls/",
+   "year": "2026",
+   "why": "Bookmark the implementing authority for dated progress, procurement and Lesotho-side information.",
+   "takeaways": [
+    "The project was established by a treaty signed in 1986.",
+    "Its purposes include supplying Gauteng with water and generating hydropower for Lesotho.",
+    "Phase I was completed in 2003 and inaugurated in 2004.",
+    "The homepage's 1 October 2026 update lists Polihali Dam at 56% and the transfer tunnel at 60%.",
+    "It publishes separately dated Katse and Mohale storage readings, plus royalty and procurement links.",
+    "These construction percentages describe progress at a date, rather than proving that Phase II water is already reaching households."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "National Hydrological Services: dams, floods and flows",
+   "source": "Department of Water and Sanitation",
+   "url": "https://www.dws.gov.za/Hydrology/Default.aspx/Daily/Default.aspx",
+   "year": "Undated, checked 2026",
+   "why": "The primary source for checking regional water availability independently of outage notices.",
+   "takeaways": [
+    "The portal separates audited historical data from unaudited near-real-time measurements and forecasts.",
+    "Its weekly State of Dams service covers approximately 210 dams.",
+    "Vaal and Orange services provide daily flows, levels and rainfall information.",
+    "Flood tools show actual and predicted levels and routed flows through major dams.",
+    "A dam percentage is a storage measurement, not a water-quality result or a measure of pressure in a municipal reservoir."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "NSF official listings: drinking-water treatment units, health effects",
+   "source": "NSF",
+   "url": "https://info.nsf.org/Certified/DWTU/Listings.asp?Standard=053&submit3=SEARCH",
+   "year": "2026",
+   "why": "Verify an exact model's certified claims before spending money on a health-related filter claim.",
+   "takeaways": [
+    "This listing concerns NSF/ANSI 53, which covers specified health-related contaminant reductions.",
+    "Entries identify manufacturers, model names and, where relevant, replacement elements.",
+    "Tables show service capacity and flow rate alongside individual reduction claims.",
+    "Claims differ between products, including lead, cysts, particular pesticides and other substances.",
+    "Some arsenic claims carry restrictions about concentration and chemical form.",
+    "NSF warns about altered copies of its listings, so verify status on the official site rather than a seller's screenshot."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Groundwater: Frequently Asked Questions",
+   "source": "Department of Water and Sanitation",
+   "url": "https://www.dws.gov.za/Groundwater/FAQ.aspx",
+   "year": "Undated, checked 2026",
+   "why": "Clarifies the national distinction between registering a water use and registering a physical borehole.",
+   "takeaways": [
+    "DWS explains that national registration concerns the water use, not simply the existence of a borehole.",
+    "Schedule 1 household use does not require national water-use registration, but municipal borehole rules can still apply.",
+    "Uses beyond Schedule 1 need consideration under the relevant national authorisation route.",
+    "The FAQ recommends chemical testing before using groundwater as a domestic supply.",
+    "It distinguishes a borehole's pumping yield from a sustainable abstraction rate [how much can be taken over time].",
+    "The page uses older departmental names, so it is background guidance rather than a substitute for a current municipal application."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "study",
+   "title": "Water quality assessment of rooftop harvested rainwater across different roof types in a semi-arid region of South Africa",
+   "source": "Livhuwani and colleagues / Water Environment Research",
+   "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/wer.70007",
+   "year": "2025",
+   "why": "Local measured evidence against assuming that clear rainwater or a good chemistry score means safe drinking water.",
+   "takeaways": [
+    "The study compared aluminium, slate, steel and concrete roofs around the University of Venda, Sibasa and Tshikhudini.",
+    "Reported average E. coli levels in Tshikhudini ranged from 4.31 to 11.56 colony-forming units per 100 ml across roof types.",
+    "The authors found microbial results above drinking-water limits even though measured chemical quality was generally acceptable.",
+    "October 2021 first-flush samples carried the highest E. coli contamination after accumulated dirt was washed off roofs.",
+    "Including E. coli in the water-quality index changed the assessment, exposing the weakness of an index that omits microbial risk.",
+    "These Limpopo findings explain plausible hazards but do not measure the quality of a particular Edenvale roof or tank."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "1986 treaty on the Lesotho Highlands Water Project",
+   "source": "Governments of Lesotho and South Africa / FAO treaty collection",
+   "url": "https://www.fao.org/4/w7414b/w7414b0w.htm",
+   "year": "1986",
+   "why": "The primary agreement behind the transfer system and its royalty economics.",
+   "takeaways": [
+    "The treaty was signed at Maseru on 24 October 1986.",
+    "It establishes obligations for developing the shared Highlands project and delivering water to South Africa.",
+    "Article 12 allocates the calculated net benefit for Sub-phase IA as 56% to Lesotho and 44% to South Africa.",
+    "The calculation compares the project with an alternative Orange-Vaal transfer scheme.",
+    "Royalties include fixed and variable components linked to investment, electricity and other operating savings.",
+    "This original treaty is historical primary evidence; later agreements and current royalty reports are needed for present project terms and amounts."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "book",
+   "title": "Water for All: Global Solutions for a Changing Climate",
+   "source": "David Sedlak / Yale University Press",
+   "url": "https://yalebooks.yale.edu/book/9780300256932/water-for-all/",
+   "year": "2023",
+   "why": "A practical global complement to the South African governance material, written by a water-treatment researcher.",
+   "takeaways": [
+    "The publisher's description identifies outdated infrastructure and ineffective policy alongside climate change and population growth.",
+    "The book examines efficiency improvements as one route to resolving shortages.",
+    "It includes communities that used crises to address longstanding water-rights disputes.",
+    "Its treatment options include desalination, wastewater recycling and capturing more rainfall in cities and fields.",
+    "The author directs the Berkeley Water Center and teaches civil and environmental engineering.",
+    "This breakdown is based on the publisher's synopsis, not a claim to have verified every argument in the 440-page book."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "video",
+   "title": "How Sewage Recycling Works",
+   "source": "Practical Engineering / Grady Hillhouse",
+   "url": "https://practical.engineering/blog/2025/6/17/how-sewage-recycling-works",
+   "year": "2025",
+   "why": "The creator's page includes the video and transcript, making its engineering claims easier to inspect.",
+   "takeaways": [
+    "Wichita Falls developed emergency drinking-water reuse after severe drought reduced its reservoirs.",
+    "Indirect reuse routes treated water through a river, lake or aquifer before abstraction and purification.",
+    "Direct reuse removes that environmental buffer, so engineered monitoring, alarms, shutdowns and redundant barriers become especially important.",
+    "Its emergency process used wastewater treatment, RO and conventional drinking-water treatment in sequence.",
+    "The project operated for a year from July 2014 and reclaimed nearly 2 billion US gallons.",
+    "The case shows what controlled reuse requires; it does not imply that untreated sewage in a river is safe."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Guidelines for drinking-water quality: fourth edition incorporating the first and second addenda",
+   "source": "World Health Organization",
+   "url": "https://www.who.int/publications/i/item/9789240045064",
+   "year": "2022",
+   "why": "The evidence framework behind national drinking-water rules, with chapters for specific hazards.",
+   "takeaways": [
+    "WHO recommends health-based targets, catchment-to-consumer water safety plans and independent surveillance.",
+    "Separate chapters cover microbial, chemical, radiological and acceptability questions.",
+    "The 2022 update added or revised guidance for cyanobacterial toxins [toxins produced by some aquatic bacteria].",
+    "The update also revised guidance for manganese and several industrial chemicals.",
+    "The guidelines inform national standards but do not replace South African legal requirements.",
+    "The 614-page reference is best used to inspect a named hazard rather than read as a general lifestyle book."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "WaterWazi: explore South African water data",
+   "source": "OpenUp and project partners",
+   "url": "https://water-wazi.openup.org.za/",
+   "year": "Undated, checked 2026",
+   "why": "A visual way to locate treatment works, receiving rivers and the underlying monitoring evidence.",
+   "takeaways": [
+    "The map supports navigation through provinces, districts, municipalities and wards.",
+    "Treatment works can be filtered by microbial, chemical, physical and operational compliance.",
+    "Filters include monitoring year, responsible institution and the receiving water body.",
+    "Individual works show capacity, class, compliance percentages and source information.",
+    "The interface links to DWS river, effluent and potable-water data.",
+    "Check each record's year and source before treating a mapped status as a current condition."
+   ],
+   "verified": true,
+   "new": true
+  },
+  {
+   "type": "website",
+   "title": "Ekurhuleni amended Water Services By-laws",
+   "source": "City of Ekurhuleni",
+   "url": "https://www.ekurhuleni.gov.za/wp-content/uploads/2023/11/Final-CoE-Water-Services-Bylaw-.pdf",
+   "year": "2023",
+   "why": "Read the actual local provisions for drinking rainwater, boreholes, tanks and sewer charges.",
+   "takeaways": [
+    "Section 70(2) prohibits using water collected in rainwater tanks as potable water.",
+    "Section 71 requires written approval before drilling a new borehole or deepening an existing one.",
+    "Section 71(9) prohibits sinking a borehole in a dolomite area.",
+    "Borehole drinking water must meet relevant standards, and blending it with municipal water is prohibited.",
+    "Section 71(15) allows sewer charges or borehole metering when alternative water enters the municipal sanitation network.",
+    "Section 39(3) requires regular cleaning and maintenance of potable storage tanks at intervals no longer than two years; more frequent attention may be needed in practice."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  },
+  {
+   "type": "tool",
+   "title": "ERWAT Business Plan 2022/23 to 2026/27",
+   "source": "Ekurhuleni Water Care Company",
+   "url": "https://erwat.co.za/wp-content/uploads/2022/10/ERWAT_Business%20Plan%202026_web.pdf",
+   "year": "2022-2027 planning period",
+   "why": "Maps the less visible wastewater half of Ekurhuleni's water system and its operating constraints.",
+   "takeaways": [
+    "The plan describes ERWAT operating 19 water care works in four drainage districts.",
+    "The works receive both domestic and industrial wastewater.",
+    "Individual design capacities range from 1 to 170 megalitres daily [1 megalitre is 1 million litres].",
+    "DWS water-use licences govern effluent quality, discharge quantities, sludge management and reporting.",
+    "The plan identifies capacity limits, equipment failures and power failures among operational challenges.",
+    "Its proposed regionalisation [combining treatment into fewer larger facilities] and expansion are plans, not proof of achieved performance."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  },
+  {
+   "type": "tool",
+   "title": "Migrating from SANS 241:2015 to SANS 241:2025: Practical implications",
+   "source": "Mariette Swart / Rand Water",
+   "url": "https://www.randwater.co.za/media/forums/presentations/RW%20-%20Migrating%20from%20SANS%20241%202015%20to%20SANS%20241%202025.pdf",
+   "year": "Undated, checked 2026",
+   "why": "A technical operator's explanation of why a passing sample is only one part of water safety.",
+   "takeaways": [
+    "The presentation contrasts the older two-part standard with the integrated 2025 edition.",
+    "It links numerical limits, risk assessment, monitoring, corrective action and evidence of control.",
+    "Monitoring distinguishes mandatory process parameters from additional parameters selected through system-specific risk assessment.",
+    "The contents explicitly address borehole systems, mobile tankers and static tanks.",
+    "It stresses that missing monitoring data undermines the ability to demonstrate control.",
+    "This is explanatory training material, not the normative standard; apparent unit errors on individual slides should not be copied into household specifications."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  },
+  {
+   "type": "tool",
+   "title": "Technical report for additional raw-water abstraction: Rand Water purification systems",
+   "source": "Rand Water water-use licence application / Department of Water and Sanitation repository",
+   "url": "https://www.dws.gov.za/ewulaasprod/ClientTechDocs/4778836365185913415/4708758971448597864_Technical%20Report%20for%20WULA-Additional%20Raw%20Water_19%20Sept%202023.pdf",
+   "year": "2023",
+   "why": "Section 20 documents the actual local treatment chain rather than generic filter advertising.",
+   "takeaways": [
+    "Section 20 identifies Vereeniging and Zuikerbosch as the two main treatment plants drawing from the Vaal system.",
+    "It describes flocculation and sedimentation [clumping particles and letting them settle] before filtration.",
+    "Carbon dioxide adjusts pH before rapid gravity sand filtration.",
+    "Chlorination precedes pumping to Eikenhof, Zwartkopjes, Palmiet or Mapleton booster stations.",
+    "At boosters, ammonia and chlorine form a longer-lasting disinfectant for distribution.",
+    "A treatment-process description explains intended barriers; separate monitoring data are needed to establish achieved quality."
+   ],
+   "verified": true,
+   "new": true,
+   "checked_by": "curl"
+  }
+ ],
+ "system": {
+  "who_pays": [
+   "Ekurhuleni households and businesses pay municipal water charges, while the city buys treated bulk water from Rand Water.",
+   "The bill supports several layers: raw-water infrastructure, treatment, electricity for pumping, local pipes and reservoirs, and administration.",
+   "Sanitation is a separate service charge, and ERWAT treats much of Ekurhuleni's wastewater on the city's behalf.",
+   "National grants and municipal support policies help fund infrastructure and services for qualifying poor households, so access to a basic allocation does not make treatment costless.",
+   "Outages create a second household bill through bottled water, tanks, pumps, filters, maintenance and time spent collecting water."
+  ],
+  "who_decides": [
+   "The Department of Water and Sanitation [DWS] manages national water resources, regulates water use and oversees drinking-water and wastewater performance.",
+   "South Africa and Lesotho govern their shared Highlands project through a treaty, while LHDA implements the Lesotho-side works and TCTA has South African project responsibilities.",
+   "Rand Water treats and transports bulk water, while Ekurhuleni is the water services authority [the municipality responsible for ensuring local access].",
+   "The municipal council approves retail tariffs and budgets after public consultation, and city departments operate local distribution and approve borehole applications.",
+   "SANS 241 [South Africa's drinking-water standard] defines quality and management requirements, but a published standard needs sampling, competent operators and enforcement to protect a particular tap."
+  ],
+  "who_profits": [
+   "Rand Water is a public utility, so its revenue and surplus must be distinguished from a private company's shareholder profit.",
+   "Lesotho receives treaty royalties, and its electricity system benefits from hydropower associated with the project.",
+   "Construction companies, engineering firms, electricity suppliers, lenders and chemical suppliers earn revenue from building and operating water infrastructure.",
+   "Bottled-water sellers, tanker contractors, borehole drillers and filtration installers gain business when residents lose confidence in public supply.",
+   "Investigations document questionable tanker procurement, but financial incentives alone do not prove sabotage; the 2026 SAHRC inquiry said its evidence was insufficient to conclude that tanker procurement was corrupt."
+  ],
+  "what_it_means_for_us": [
+   "In Edenvale, separate three questions: is water available in the Vaal system, can the network deliver it, and is the water reaching our tap safe?",
+   "Use notices for the actual suburb and reservoir zone, then read recent local laboratory results alongside the sample date and location.",
+   "Store a small protected drinking-water reserve separately from water intended for toilets and cleaning, and size any larger tank around measured household use.",
+   "Choose filtration for a demonstrated problem and a verified model-specific claim; a chlorine-taste filter is not an emergency disinfection system.",
+   "Check Ekurhuleni's rules before drilling or connecting alternative supplies, and budget for recurring costs rather than treating a tank or borehole as permanent independence."
+  ]
+ },
+ "deep_sections": [
+  {
+   "title": "Why full dams can still mean dry taps",
+   "points": [
+    "The Integrated Vaal River System [linked dams, rivers and transfer schemes] supplies a region much larger than Ekurhuleni.",
+    "Lesotho Highlands transfers enter South Africa through the Ash River and feed the wider Vaal system; they do not run through a dedicated pipe to an Edenvale kitchen.",
+    "Katse and Mohale store water in Lesotho, while Sterkfontein provides reserve storage for the Vaal system.",
+    "The 2024 Lesotho tunnel shutdown was planned maintenance, so its existence alone did not establish a shortage at Johannesburg taps.",
+    "Rand Water's main treatment sites are Vereeniging and Zuikerbosch, followed by booster stations that push water towards higher ground.",
+    "Coagulation [making fine particles clump], settling and sand filtration remove suspended material before disinfection.",
+    "Rand Water also uses chloramination [adding ammonia to chlorine to form a longer-lasting disinfectant] in its distribution process.",
+    "Electricity failure can stop pumping even when raw water and treatment capacity are available.",
+    "A municipal reservoir is a short-term buffer, so its usable storage can run down during a prolonged interruption.",
+    "Recovery requires incoming flow to exceed current demand, which explains why restoring a pump does not instantly refill every reservoir.",
+    "Higher areas may recover later because delivering water uphill requires enough pressure [force pushing water through pipes].",
+    "The November 2026 Mapleton outage illustrates dependence on municipal electricity, but the report does not establish that every Edenvale property uses that station.",
+    "For a local outage, ask which reservoir supplies the address, what failed, whether pumping has resumed and whether reservoir levels are recovering."
+   ]
+  },
+  {
+   "title": "What water scores actually prove",
+   "points": [
+    "Blue Drop evaluates drinking-water systems, Green Drop evaluates wastewater systems, and No Drop evaluates water-use efficiency and losses.",
+    "A Green Drop failure means sewage management needs attention; it does not itself show that treated household drinking water failed a test.",
+    "An audit score combines management and operational evidence, so it is different from the percentage of samples meeting a contaminant limit.",
+    "The 2023 finding that 46% of systems had poor or bad microbiological compliance describes systems and an earlier sampling period, not 46% of all glasses of water today.",
+    "Read the assessment year, sampling period and release date separately; the 2025 Green Drop report released in 2026 assessed the 2023/24 municipal year.",
+    "SANS 241:2025 strengthens risk management, monitoring and incident response, while historical datasets can still identify SANS 241:2015 as their reporting basis.",
+    "E. coli [a bacterium used as an indicator of faecal contamination] is a warning signal, not a test for every possible pathogen.",
+    "A TDS meter [a meter estimating total dissolved solids from conductivity] cannot establish whether water contains harmful bacteria or every toxic chemical.",
+    "Taste, smell and clarity matter for acceptability, but clear water can still contain germs and an unfamiliar taste does not identify the cause.",
+    "Request the sample location, date, result, units, applicable limit and laboratory method rather than accepting an undated claim of SANS compliance.",
+    "Use a laboratory whose accreditation covers the relevant water tests, and follow its bottle, transport and holding-time instructions.",
+    "A passing sample before a storage tank does not establish the quality after that tank or after an overdue household filter.",
+    "Low or negative pressure can draw contamination through leaks or unsafe cross-connections [links between drinking and non-drinking pipes].",
+    "An international review linked outages with gastrointestinal illness, but its pooled estimates cannot calculate this household's risk or explain an individual pregnancy loss."
+   ]
+  },
+  {
+   "title": "Buy treatment for the actual hazard",
+   "points": [
+    "Activated carbon works mainly by adsorption [substances sticking to a large internal surface], and its performance depends on the material, contact time and cartridge condition.",
+    "A jug sold for chlorine taste should not be assumed to remove bacteria, nitrate, arsenic or all metals.",
+    "Some certified carbon systems reduce lead or particular PFAS [persistent industrial chemicals], so claims that carbon can never remove them are also misleading.",
+    "Chloramine reduction is a separate performance question from ordinary chlorine reduction, which matters when checking equipment for Rand Water supply.",
+    "RO [reverse osmosis] forces water through a membrane to reduce many dissolved substances, but the complete system still needs the right certification and maintenance.",
+    "RO also produces concentrate [water carrying rejected substances], so compare litres rejected per litre delivered at the actual operating pressure.",
+    "UV [ultraviolet light] inactivates germs when the delivered dose is adequate; it does not remove dissolved chemical pollution.",
+    "Cloudiness, lamp ageing, dirty sleeves and excessive flow can undermine UV performance, so prefiltration and a working failure alarm matter.",
+    "NSF/ANSI 42 concerns aesthetic claims [taste, odour and similar qualities], while 53 concerns specified health-related reductions and 58 covers RO systems.",
+    "NSF/ANSI 55 distinguishes Class A disinfection systems from Class B systems used for supplemental treatment of already disinfected water.",
+    "A standard number is not a universal contaminant guarantee; check the exact system, cartridge, reduction claim, rated flow and service life in a certifier's listing.",
+    "A point-of-use system [treatment at one drinking tap] can keep operating costs lower when the identified issue concerns drinking and cooking water.",
+    "Removing disinfectant before long storage or a whole-house pipe network creates a new maintenance responsibility because the residual protection is reduced.",
+    "Compare five-year ownership costs in Rands, including installation, cartridges, electricity, laboratory checks, sanitation and RO reject water.",
+    "During a boil-water advisory, follow the advisory even if a household jug is installed; boiling cannot make chemically contaminated water safe."
+   ]
+  },
+  {
+   "title": "Storage, rain and groundwater are different systems",
+   "points": [
+    "A municipal backup tank stores previously treated water, while a rainwater tank collects a new raw-water source with different contamination risks.",
+    "CDC's emergency baseline is about 3.8 litres per person daily for three days, covering drinking and limited essential uses rather than normal showers and laundry.",
+    "For two people, that baseline is about 23 litres for three days; this is a calculation, and heat, illness or other needs can increase it.",
+    "Estimate larger-tank endurance as usable litres divided by measured daily demand; 1,000 usable litres at 200 litres per day lasts five days by calculation.",
+    "A full 1,000-litre tank holds roughly one tonne of water before the tank's own weight, so the base and supporting structure matter.",
+    "Use protected openings, suitable potable-water materials and a cleaning plan, and prevent a booster pump from creating an unsafe connection to the municipal main.",
+    "Keep stored drinking water in clean, closed containers and avoid dipping hands or cups into the supply.",
+    "CDC advises replacing self-filled emergency container water every six months; this is separate from managing a permanently plumbed tank.",
+    "Rainwater yield depends on roof area, rainfall and collection losses; 1 mm of rain on 1 square metre represents 1 litre before losses.",
+    "A first-flush diverter [a device discarding the first dirty roof runoff] reduces contamination but does not establish drinking-water safety.",
+    "The South African rooftop study found microbial contamination despite generally acceptable chemical results, so a good chemical score was not enough.",
+    "National Schedule 1 allows storage and use of roof runoff, but municipal rules still govern safe plumbing and drinking use.",
+    "Section 70(2) of Ekurhuleni's published amended bylaw prohibits using water collected in rainwater tanks as potable water [water for drinking].",
+    "Ekurhuleni's published rules require prior approval for new boreholes and prohibit sinking them in dolomite areas [rock terrain vulnerable to ground instability].",
+    "A national Schedule 1 household water use does not remove municipal drilling requirements, and a higher-volume or commercial use may need a different national authorisation.",
+    "A borehole's pumping rate does not prove a sustainable long-term supply or safe chemistry, and groundwater used indoors can still attract sewer charges."
+   ]
+  },
+  {
+   "title": "Follow the money without inventing a conspiracy",
+   "points": [
+    "Non-revenue water [supplied water that does not generate billed revenue] includes physical leaks, meter and accounting errors, and authorised unbilled use.",
+    "Unpaid bills are a related cash-collection problem, but technically billed water does not become non-revenue water merely because a customer has not paid.",
+    "Several public summaries blur those categories, so ask for the utility's water balance [an accounting of where supplied water goes].",
+    "Fixing a real leak saves treated water and pumping costs, while improving a faulty meter can raise revenue without saving the same physical volume.",
+    "The municipality pays upstream for treated water even when a local leak prevents it from reaching a paying customer.",
+    "Ekurhuleni announced an 11% water-tariff increase and an 8.35% sanitation increase from 1 July 2026 after consultation.",
+    "The earlier draft proposed a larger water increase, so a draft budget PDF is not evidence of the final household tariff.",
+    "A block tariff [a different price for each usage band] requires adding the charge for each band rather than pricing the whole month's use at the highest band reached.",
+    "A useful bill comparison separates consumption, fixed charges, VAT, sanitation and any qualifying household subsidy.",
+    "The Lesotho treaty shares a calculated benefit from the transfer scheme through royalties; it is more complex than buying every litre at a single shop price.",
+    "People losing land or grazing access in Lesotho can bear costs even when national royalties rise, which is why compensation reporting belongs beside engineering progress.",
+    "A lucrative tanker contract is a reason to inspect procurement, delivery records and conflicts of interest, not proof that a specific pipe was deliberately broken.",
+    "Compare investigative allegations, court findings, official replies and later appeal outcomes instead of treating them as the same kind of evidence.",
+    "For accountability, track repair completion, water losses, reservoir recovery and current test results alongside money spent; a new committee or dashboard is not a repaired pipe."
+   ]
   }
  ]
 }
