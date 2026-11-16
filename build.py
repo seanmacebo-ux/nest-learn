@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 ORDER = ["cervix", "money", "body", "food", "water"]
-V = "20261115e"
+V = "20261116a"
 
 TYPE_IC = {"article": "📰", "website": "🌐", "study": "🔬", "book": "📚", "video": "🎬", "podcast": "🎧", "place": "📍", "tool": "🧰"}
 TYPE_NAME = {"article": "Articles", "website": "Websites", "study": "Studies", "book": "Books", "video": "Videos", "podcast": "Podcasts", "place": "Places", "tool": "Tools"}
@@ -22,6 +22,26 @@ HUE = {"cervix": ("#C2185B", "#7B1FA2"), "money": ("#0E9F6E", "#0B6E99"), "body"
        "food": ("#5A9E2F", "#D9822B"), "water": ("#1E88E5", "#00ACC1")}
 SYS = [("who_pays", "💸", "Who pays"), ("who_decides", "⚖️", "Who decides"), ("who_profits", "🏦", "Who profits"),
        ("what_it_means_for_us", "🫶", "What it means for us")]
+
+
+def track_art(slug):
+    """Small editorial illustrations; shared by home cards and track heroes."""
+    art = {
+        "cervix": '<path class="art-fill" d="M32 32C12 27 12 9 24 12c5 1 8 8 8 8s3-7 8-8c12-3 12 15-8 20Z"/>'
+                  '<path d="M32 32v21M32 44c-11 1-16-5-17-10 10-1 15 3 17 10Zm0 5c11 1 16-5 17-10-10-1-15 3-17 10Z"/>',
+        "money": '<rect class="art-fill" x="10" y="15" width="44" height="30" rx="6"/>'
+                 '<path d="M10 24h44M39 31h15v10H39a5 5 0 0 1 0-10Z"/><circle cx="43" cy="36" r="1"/>'
+                 '<path d="M18 50h28M23 55h18"/>',
+        "body": '<path class="art-fill" d="M32 52 12 33C-2 17 20 5 32 21 44 5 66 17 52 33Z"/>'
+                '<path d="M12 33h12l5-10 7 19 5-9h11"/>',
+        "food": '<path class="art-fill" d="M37 23c-7-4-12-1-14 5L12 53c-1 3 1 4 4 2l23-17c6-4 5-11-2-15Z"/>'
+                '<path d="m36 23 3-13m-3 13 14-10m-14 10 17-1M23 31l6 4m-11 7 6 4"/>',
+        "water": '<path class="art-fill" d="M32 8S15 28 15 39a17 17 0 0 0 34 0C49 28 32 8 32 8Z"/>'
+                 '<path d="M23 39c0 6 3 9 9 9M9 56h46"/>',
+    }
+    return ('<svg class="track-art" viewBox="0 0 64 64" fill="none" stroke="currentColor" '
+            'stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">'
+            + art[slug] + '</svg>')
 
 
 def views(t):
@@ -128,7 +148,7 @@ def track_page(t, tracks):
     h = [head(t["title"], t["emoji"], slug), topbar(tracks, slug)]
     h.append(f"""<section class="hero"><div class="hero-in">
 <a class="crumb" href="index.html">← All tracks</a>
-<div class="hemoji">{t["emoji"]}</div><h1>{e(t["title"])}</h1><p class="lede">{e(t["intro"])}</p>
+<div class="hemoji">{track_art(slug)}</div><h1>{e(t["title"])}</h1><p class="lede">{e(t["intro"])}</p>
 <div class="stats"><span><b>{len(t["sections"]) + len(t.get("deep_sections", []))}</b> topics</span><span><b>{len(res)}</b> sources</span>
 <span><b>{sum(1 for r in res if r.get("takeaways"))}</b> broken down</span></div>
 <div class="tprog" data-track="{slug}"><div class="bar"><span></span></div><small class="pc"></small></div>
@@ -196,7 +216,7 @@ def index_page(tracks):
         a, b = HUE.get(t["slug"], ("#FF6B4A", "#7C3AED"))
         vs = "".join(f'<a href="{t["slug"]}.html#{k}">{ic} {n}</a>' for k, ic, n in views(t))
         h.append(f'<div class="tcard" style="--t1:{a};--t2:{b}"><a class="tmain" href="{t["slug"]}.html">'
-                 f'<span class="tic">{t["emoji"]}</span><b>{e(t["title"])}</b>'
+                 f'<span class="tic">{track_art(t["slug"])}</span><b>{e(t["title"])}</b>'
                  f'<small>{e(t["intro"].split(". ")[0].rstrip("."))}.</small>'
                  f'<span class="tmeta">{len(t.get("resources", []))} sources · {len(t["sections"]) + len(t.get("deep_sections", []))} topics</span>'
                  f'<div class="tprog mini" data-track="{t["slug"]}"><div class="bar"><span></span></div><small class="pc"></small></div></a>'
