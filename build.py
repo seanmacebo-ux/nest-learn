@@ -188,7 +188,7 @@ def track_page(t, tracks):
         meta = " · ".join(x for x in [r.get("source", ""), str(r.get("year", "") or "")] if x)
         mine = ' mine' if r.get("by") else ""
         h.append(f'<article class="rc{mine}" data-type="{e(ty)}" data-rk="{e(key)}">'
-                 f'<div class="rtop"><span class="ric">{TYPE_IC.get(ty, "📰")}</span><div class="rtx"><span class="rty">{e(TYPE_NAME.get(ty, ty).rstrip("s"))}'
+                 f'<div class="rtop"><span class="ric">{TYPE_IC.get(ty, "📰")}</span><div class="rtx"><span class="rty">{e({"study": "Study", "article": "Article", "website": "Website", "book": "Book", "video": "Video", "podcast": "Podcast", "place": "Place", "tool": "Tool"}.get(ty, ty))}'
                  + (f' · found by {e(r["by"])}' if r.get("by") else "") + f'</span><b>{e(r["title"])}</b><small>{e(meta)}</small></div></div>'
                  f'<p class="rwhy">{e(r.get("why", ""))}</p>'
                  + (f'<p class="racc">🔑 {e(r["access"])}</p>' if r.get("access") else "")
