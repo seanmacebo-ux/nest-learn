@@ -87,6 +87,172 @@
  ],
  "resources": [
   {
+   "type": "book",
+   "title": "The Last Drop: Solving the World's Water Crisis",
+   "source": "Tim Smedley — Picador",
+   "year": 2024,
+   "url": "https://www.panmacmillan.com/authors/tim-smedley/the-last-drop/9781529058178",
+   "access": "Buy (Takealot / Exclusive Books, price not checked). Kindle too.",
+   "why": "A readable world tour of how dry places are fixing supply, so you can judge what could work in Gauteng.",
+   "takeaways": [
+    "By an environmental journalist who writes for the Guardian, BBC and FT.",
+    "Treats water scarcity as the next big climate crisis.",
+    "Solutions-focused rather than doom."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Thirst: The Global Quest to Solve the Water Crisis",
+   "source": "Filippo Menga — Verso",
+   "year": 2025,
+   "url": "https://www.hatchards.co.uk/book/thirst/filippo-menga/9781804290712",
+   "access": "Buy (price not checked). E-book too.",
+   "why": "Asks who benefits from the 'global water crisis' story: a follow-the-money lens for SA water.",
+   "takeaways": [
+    "A short, critical look at how the water crisis gets framed.",
+    "Focuses on celebrities, corporate charity and NGOs.",
+    "Global, not SA-specific."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "The Water Diaries: Living with the Global Water Crisis in Bangladesh and Kenya",
+   "source": "Sonia Hoque & Rob Hope — Cambridge University Press",
+   "year": 2025,
+   "url": "https://www.cambridge.org/core/books/water-diaries/F74A7CC023F4CABC8DE2B5436342701F",
+   "access": "Free (open access on Cambridge Core)",
+   "why": "What unreliable household water looks like day to day, and how families cope.",
+   "takeaways": [
+    "Tracks daily water use for a full year.",
+    "Shows how water risk changes by place and season.",
+    "Proposes a fair split of water risks between government, utilities and households."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Great Johannesburg: What Happened? How to Save an African Economic Giant",
+   "source": "Nickolaus Bauer — Tafelberg",
+   "year": 2024,
+   "url": "https://www.jonathanball.co.za/product/great-johannesburg-what-happened-how-to-save-an-african-economic-giant/",
+   "access": "Buy, about R330 (Clarkes, Wordsworth)",
+   "why": "The municipal decay and money problems behind Joburg's failing services, water included.",
+   "takeaways": [
+    "By a journalist who also worked as a municipal civil servant.",
+    "Argues Joburg is in a 'death spiral' and sets out a rescue plan.",
+    "Water comes in as part of the wider governance failure."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Asinamanzi: Fluid Realities – Exploring South Africa's Water Crisis and Social Dynamics",
+   "source": "Minga Mbweck Kongo — Langaa RPCIG",
+   "year": 2024,
+   "url": "https://www.africanbookscollective.com/books/asinamanzi",
+   "access": "Buy (African Books Collective, price not checked)",
+   "why": "How ordinary South Africans cope when water is unequal and unreliable.",
+   "takeaways": [
+    "A UCT anthropologist's study of water politics in Khayelitsha.",
+    "Highlights the coping strategies residents use.",
+    "Cape Town-based, so read it for the patterns, not Gauteng detail."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Inquiry Report into the State of Water and Sanitation Service Delivery in Gauteng",
+   "source": "South African Human Rights Commission (SAHRC)",
+   "year": 2026,
+   "url": "https://sahrc.org.za/index.php/publications/638-inquiry-report-into-the-state-of-water-and-sanitation-service-delivery-in-gauteng-2/viewdocument/638",
+   "access": "Free",
+   "why": "The newest official account of why Gauteng taps run dry and who is accountable. Released this month.",
+   "takeaways": [
+    "Released 2 November 2026 after hearings with eight water authorities.",
+    "Some Joburg suburbs went up to 12 weeks without tap water.",
+    "Causes: ageing pipes, unrepaired leaks, too little pumping and storage, staff shortages, poor revenue collection.",
+    "Its eight recommendations are not binding."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Water insecurity in Johannesburg (and beyond?)",
+   "source": "Craig Sheridan (Wits) — South African Journal of Science",
+   "year": 2024,
+   "url": "https://doi.org/10.17159/sajs.2024/19068",
+   "access": "Free (open access)",
+   "why": "A Wits water researcher's short take on why Joburg's supply keeps failing and what to do about it.",
+   "takeaways": [
+    "The author directs the Wits Centre in Water Research and Development.",
+    "Covers intermittent supply and water reclamation.",
+    "Short commentary, a quick read."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "City of Johannesburg water sector profile",
+   "source": "Brian Murahwa — Gauteng City-Region Observatory (GCRO)",
+   "year": 2024,
+   "url": "https://cdn.gcro.ac.za/documents/1592/Murahwa_2024_CoJ_Water_profile_FINAL_1.pdf",
+   "access": "Free (PDF)",
+   "why": "A concise research profile of Joburg's water system, with household survey data.",
+   "takeaways": [
+    "36% of people in GCRO's 2023/24 survey had water interruptions.",
+    "Water lost to leaks and non-payment is far above the 15% global benchmark.",
+    "Not read in full yet, so check the figures in the PDF."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "The prospects for rainwater harvesting at the University of Cape Town",
+   "source": "Lepota & Armitage — Water SA",
+   "year": 2025,
+   "url": "https://doi.org/10.17159/wsa/2025.v51.i2.4110",
+   "access": "Free (open access)",
+   "why": "How to size a tank and judge whether rainwater harvesting pays off.",
+   "takeaways": [
+    "Models rainwater against uses like toilet flushing, across tank sizes.",
+    "Works out savings using municipal tariffs.",
+    "Gauteng's summer-only rain will change the sums."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Evaluation of water quality in urban drinking water networks: a case study in Johannesburg",
+   "source": "Lubabalo Luyaba — MSc thesis, University of Cape Town",
+   "year": 2024,
+   "url": "https://open.uct.ac.za/items/1b65e491-4840-4c75-8a5e-5ddc716a41be",
+   "access": "Free (PDF)",
+   "why": "How old pipes and power cuts can spoil water between the treatment plant and your tap.",
+   "takeaways": [
+    "Pipe age, condition and material mattered most, especially old steel, iron and clay pipes.",
+    "Higher load-shedding stages worsened water quality.",
+    "It's a computer model, not samples from homes."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "WaterCAN Gauteng water sources testing (59 sites)",
+   "source": "WaterCAN, reported by GroundUp",
+   "year": 2025,
+   "url": "https://allafrica.com/stories/202603110063.html",
+   "access": "Free (news coverage)",
+   "why": "Citizen testing shows how polluted Gauteng's rivers and dams are, which is why treatment and filtering matter.",
+   "takeaways": [
+    "39 of 59 sources were unsafe to drink untreated.",
+    "All 5 dams tested had unsafe E. coli.",
+    "These are raw sources, not tap water."
+   ],
+   "verified": true
+  },
+  {
    "type": "place",
    "title": "Outages Alert (City of Ekurhuleni press releases)",
    "source": "City of Ekurhuleni",

@@ -101,6 +101,170 @@
  ],
  "resources": [
   {
+   "type": "book",
+   "title": "Boss Your Money: Learn the Wealth Creation Formula",
+   "source": "Nokuhle Kumalo — Pan Macmillan South Africa",
+   "year": 2026,
+   "url": "https://exclusivebooks.co.za/products/9781770109698",
+   "access": "Buy, about R340 (Exclusive Books, Wordsworth)",
+   "why": "A South African chartered accountant's practical guide to a first car, contracts, insurance and building wealth on a local salary.",
+   "takeaways": [
+    "Start by tracking monthly income against spending. Extreme frugality is not the route to wealth.",
+    "Insure against the things that could bankrupt you, and avoid being overinsured.",
+    "It puts price tags on big life events such as having children, so planning is less emotional.",
+    "It warns that too many side hustles cause stress, so investing should be central."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "The Wealth Ladder",
+   "source": "Nick Maggiulli — Portfolio / Cornerstone",
+   "year": 2025,
+   "url": "https://exclusivebooks.co.za/products/9781529945904",
+   "access": "Buy, about R455 (Exclusive Books). Kindle and Audible too.",
+   "why": "Shows that the right money move depends on how much you already have: save, invest or grow the business.",
+   "takeaways": [
+    "It splits net worth into levels, and each level needs a different strategy.",
+    "Early on, growing your income matters more than investment returns.",
+    "Later levels shift towards investing, then towards using wealth well.",
+    "It's US-based, so adjust the tax and account details for South Africa."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "The Art of Spending Money",
+   "source": "Morgan Housel — Harriman House",
+   "year": 2025,
+   "url": "https://exclusivebooks.co.za/products/9781804091890",
+   "access": "Buy, about R409 (Exclusive Books), about R340 (Readers Warehouse)",
+   "why": "The other half of money most books skip: spending it well. Useful with a baby and a business budget ahead.",
+   "takeaways": [
+    "It treats spending as a skill, like saving and investing.",
+    "It looks at why people spend to impress others, and what brings lasting satisfaction.",
+    "It asks what money is for once the basics are covered."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Same as Ever",
+   "source": "Morgan Housel — Harriman House",
+   "year": 2023,
+   "url": "https://www.exclusivebooks.co.za/product/9781804090633",
+   "access": "Buy, about R309 (Exclusive Books). Kindle too.",
+   "why": "How to plan around risk and surprises, useful for long-term investing and a business with uneven income.",
+   "takeaways": [
+    "Short chapters on things that never change: behaviour, risk and greed.",
+    "Forecasts fail, so preparing for surprises beats predicting them.",
+    "Keep a margin of safety in money and in life."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Buy Your First Home: South Africa's Ultimate Property Guide for Newbies",
+   "source": "Zamantungwa Khumalo — Penguin Random House SA",
+   "year": 2023,
+   "url": "https://clarkesbooks.co.za/products/buy-your-first-home-south-africas-ultimate-property-guide-for-newbies",
+   "access": "Buy (price not checked). E-book on Libby/OverDrive.",
+   "why": "The clearest South African guide to renting vs buying and the steps of a first purchase.",
+   "takeaways": [
+    "Written for South African first-time buyers.",
+    "Walks through bonds, deposits and the buying process.",
+    "Check current transfer costs and bond rules, as they change."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Things I Wish I Knew: What No One Teaches You About Starting and Growing a Business",
+   "source": "Andile Khumalo — Penguin Random House SA",
+   "year": 2026,
+   "url": "https://www.polity.org.za/article/things-i-wish-i-knew-what-no-one-teaches-you-about-starting-and-growing-a-business-2026-08-05",
+   "access": "Buy (price not checked). Exclusive Books, out 3 Aug 2026.",
+   "why": "A South African founder's honest account of business decisions, useful for running Top Click Media.",
+   "takeaways": [
+    "It draws on real decisions and outcomes rather than formulas.",
+    "The author founded I AM AN ENTREPRENEUR, which supports small and medium businesses.",
+    "Read a sample before buying."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "New models for South African consumption, house prices, and mortgage and non-mortgage debt",
+   "source": "Janine Aron & John Muellbauer — Oxford CSAE Working Paper",
+   "year": 2025,
+   "url": "https://ora.ox.ac.uk/objects/uuid:92d05f54-79cb-4da9-b185-68417fc210f4",
+   "access": "Free (open access)",
+   "why": "Research on how SA household debt, interest rates and house prices feed into each other.",
+   "takeaways": [
+    "Non-mortgage debt is a bigger share of SA household debt than in richer countries.",
+    "Credit conditions for bonds and for other loans move differently.",
+    "House prices and debt can overshoot because buyers assume recent gains will continue."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Credit Bureau Monitor, Q2 2025",
+   "source": "National Credit Regulator (NCR)",
+   "year": 2025,
+   "url": "https://www.ncr.org.za/documents/CBM/CBM%20Q2%202025.pdf",
+   "access": "Free (NCR PDF)",
+   "why": "Shows how many South Africans have damaged credit records, and why yours matters for car finance and a bond.",
+   "takeaways": [
+    "Credit bureaus held records for 29.24 million credit-active people in June 2025.",
+    "About 10.5 million (roughly 36%) had impaired records."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Consumer Credit Market Report, Q1 2026",
+   "source": "National Credit Regulator (NCR)",
+   "year": 2026,
+   "url": "https://www.ncr.org.za/documents/CCMR/CCMR%20REPORT%202026Q1.pdf",
+   "access": "Free (NCR PDF)",
+   "why": "The official quarterly picture of lending in SA: bonds, car finance and unsecured loans.",
+   "takeaways": [
+    "Built from returns that lenders must file under the National Credit Act.",
+    "Shows where credit, and risk, is growing."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "SPIVA South Africa Scorecard, Year-End 2025",
+   "source": "S&P Dow Jones Indices",
+   "year": 2025,
+   "url": "https://www.spglobal.com/spdji/en/documents/spiva/spiva-south-africa-year-end-2025.pdf",
+   "access": "Free (PDF)",
+   "why": "Tests whether SA fund managers beat a cheap index: the core evidence for index funds and ETFs.",
+   "takeaways": [
+    "80% of SA equity funds lagged their index in 2025.",
+    "66% of global equity funds sold in SA failed to beat the world index.",
+    "Over 10 years, about 75% of active funds underperformed on average."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Note on the state of household finances in South Africa",
+   "source": "J Mokoena & K Setshedi — SARB Quarterly Bulletin",
+   "year": 2024,
+   "url": "https://www.resbank.co.za/content/dam/sarb/publications/quarterly-bulletins/articles-and-notes/2024/03Note%20on%20the%20state%20of%20household%20finances%20in%20South%20Africa.pdf",
+   "access": "Free (SARB PDF)",
+   "why": "The Reserve Bank's own look at SA household income, assets and debt: a baseline for your own numbers.",
+   "takeaways": [
+    "Uses household balance-sheet data from 2010 onwards.",
+    "Not checked in full yet, so skim it before relying on specific figures."
+   ],
+   "verified": true
+  },
+  {
    "type": "article",
    "title": "Tax-Free Investments",
    "source": "SARS",

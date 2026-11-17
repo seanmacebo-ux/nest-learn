@@ -84,6 +84,175 @@
  ],
  "resources": [
   {
+   "type": "book",
+   "title": "Food Intelligence: The Science of How Food Both Nourishes and Harms Us",
+   "source": "Kevin Hall & Julia Belluz — Hachette",
+   "year": 2025,
+   "url": "https://bookshelf.co.za/BookDetails/isbn/9781472282231/sid/18/",
+   "access": "Buy, about R379 (Bookshelf). E-book about £13.",
+   "why": "A top US nutrition scientist and a health journalist sort out what the evidence really says about ultra-processed food and why we overeat.",
+   "takeaways": [
+    "Published September 2025. Hall ran the landmark ultra-processed food feeding studies.",
+    "Explains how nutrients and metabolism actually work.",
+    "Covers how the food environment shapes what we eat.",
+    "Looks hard at blood-sugar tracking and 'precision nutrition' hype."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "The Cultural Politics of Food in South Africa: Media, Nourishment, Inequality",
+   "source": "Mehita Iqani & Sarah Gibson (Wits) — Manchester University Press",
+   "year": 2026,
+   "url": "https://muse.jhu.edu/book/143911",
+   "access": "Buy from the publisher (price not checked). Not free.",
+   "why": "A South African look at how history, media and inequality shape what ends up on local plates.",
+   "takeaways": [
+    "Out March 2026, launched at Wits in September 2026.",
+    "Covers how colonialism, migration and apartheid shaped SA food.",
+    "Looks at how food culture reflects inequality in who eats well."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Barons: Money, Power, and the Corruption of America's Food Industry",
+   "source": "Austin Frerick — Island Press",
+   "year": 2024,
+   "url": "https://kirkusreviews.com/book-reviews/austin-frerick-2/barons-5/print",
+   "access": "Buy: Kindle or Takealot (price not checked)",
+   "why": "How a few firms came to control the food supply. A useful mirror for supermarket power in SA.",
+   "takeaways": [
+    "Profiles seven US food giants and the families behind them, including Cargill, JBS and Walmart.",
+    "Shows how political influence and weak regulation helped them grow.",
+    "The cases are American, but the lessons about concentrated power carry over."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Container Gardening: The Permaculture Way",
+   "source": "Valéry Tsimba — The Experiment",
+   "year": 2024,
+   "url": "https://theexperimentpublishing.com/catalogs/winter-2024/container-gardening-the-permaculture-way/",
+   "access": "Buy, about US$20. Kindle too.",
+   "why": "Written for patios and balconies, which suits a rental where you can't dig beds.",
+   "takeaways": [
+    "Covers choosing containers, wind and sun.",
+    "Companion planting, small-scale composting and natural fertilisers.",
+    "Staggered harvests and which plants suit pots."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "High Yield, Small Space Organic Gardening",
+   "source": "Christy Wilhelmi — Creative Homeowner",
+   "year": 2025,
+   "url": "https://libraryjournal.com/review/high-yield-small-space-organic-gardening-practical-tips-for-growing-your-own-food-2253949",
+   "access": "Buy, about US$17 (paperback)",
+   "why": "Getting the most food from a small space, so it fits a ground-floor patio.",
+   "takeaways": [
+    "Out April 2025.",
+    "Organic veg growing in small spaces.",
+    "Written for a US climate, so shift planting dates for Highveld frost and summer rain."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "The Johannesburg fresh produce market: its operations and contribution to the food system",
+   "source": "Malungane & Wegerif (University of Pretoria) — Frontiers in Sustainable Food Systems",
+   "year": 2025,
+   "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1557007/full",
+   "access": "Free (open access)",
+   "why": "How City Deep, the market that feeds Joburg, actually works, and who you'd be buying from there.",
+   "takeaways": [
+    "It's Africa's biggest fresh produce market by volume and turnover.",
+    "Based on 127 interviews and 60+ visits from 2019 to 2023.",
+    "Informal traders buy there and supply poorer neighbourhoods.",
+    "Ageing infrastructure and supermarkets buying straight from farms both threaten it."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Fresh Produce Market Inquiry: Final Report",
+   "source": "Competition Commission South Africa",
+   "year": 2025,
+   "url": "https://www.compcom.co.za/fresh-produce-market-inquiry-final-report-launch",
+   "access": "Free",
+   "why": "The official answer on why fruit and veg cost what they do in SA supermarkets.",
+   "takeaways": [
+    "Launched January 2025.",
+    "Names six competition problems, including inefficient municipal markets and market agents' conduct.",
+    "High supermarket mark-ups on some lines, but slim net margins after costs.",
+    "31 remedies, including more buying through the fresh produce markets."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Dietary intake of low-income adults in South Africa: ultra-processed food consumption a cause for concern",
+   "source": "Frank, Swart, Ng et al. — Public Health Nutrition",
+   "year": 2024,
+   "url": "https://doaj.org/article/fb9942d48d174888927e59a7cdc040da",
+   "access": "Free (open access)",
+   "why": "Real South African numbers on how much ultra-processed food people eat.",
+   "takeaways": [
+    "2,521 adults in Langa, Khayelitsha and Mount Frere.",
+    "Ultra-processed food was about 39% of the average diet.",
+    "Only 7% met the WHO fruit and veg target."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Socioeconomic inequality in food consumption among households with women of childbearing age in South Africa",
+   "source": "Nglazi & Ataguba (UCT) — PLOS Global Public Health",
+   "year": 2024,
+   "url": "https://repository.up.ac.za/items/ebf82f07-e591-47da-b735-112d295bf22d/full",
+   "access": "Free (open access)",
+   "why": "How income and where you live shape how much ultra-processed food a household buys.",
+   "takeaways": [
+    "Uses national household spending surveys.",
+    "Poorer households spend a bigger share of income on food.",
+    "Income, race and living in a city explained most of the gap."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Ultra-processed foods and human health: the main thesis and the evidence",
+   "source": "Monteiro, Baker et al. — The Lancet (series paper 1 of 3)",
+   "year": 2025,
+   "url": "https://doi.org/10.1016/S0140-6736(25)01565-X",
+   "access": "Free to read with free Lancet registration",
+   "why": "The most authoritative recent summary of the ultra-processed food evidence, and its limits.",
+   "takeaways": [
+    "Published November 2025, drawing on 43 experts.",
+    "Argues ultra-processed food is pushing out fresh and minimally processed diets.",
+    "Much of the evidence is observational, which the series acknowledges.",
+    "Backs front-of-pack warning labels and tighter marketing rules."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "BFAP Food Inflation Brief (December 2025 prices)",
+   "source": "Bureau for Food and Agricultural Policy (BFAP)",
+   "year": 2026,
+   "url": "https://www.bfap.co.za/wp-content/uploads/2026/01/Food-Inflation-Brief-Dec-2025-prices-_-FINAL-pdf.pdf",
+   "access": "Free (PDF)",
+   "why": "What a basic healthy food basket costs in SA, so you can benchmark your own grocery bill.",
+   "takeaways": [
+    "The Thrifty Healthy Food Basket averaged R3,899 in 2025, up 2.9% on 2024.",
+    "Meat had the highest food inflation in 2025, at 7%.",
+    "BFAP publishes these monthly."
+   ],
+   "verified": true
+  },
+  {
    "type": "place",
    "title": "Edenvale Farmers Market",
    "source": "Bedfordview Edenvale News (Caxton)",

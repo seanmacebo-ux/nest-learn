@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 ORDER = ["cervix", "money", "body", "food", "water"]
-V = "20261116a"
+V = "20261117a"
 
 TYPE_IC = {"article": "📰", "website": "🌐", "study": "🔬", "book": "📚", "video": "🎬", "podcast": "🎧", "place": "📍", "tool": "🧰"}
 TYPE_NAME = {"article": "Articles", "website": "Websites", "study": "Studies", "book": "Books", "video": "Videos", "podcast": "Podcasts", "place": "Places", "tool": "Tools"}
@@ -191,6 +191,7 @@ def track_page(t, tracks):
                  f'<div class="rtop"><span class="ric">{TYPE_IC.get(ty, "📰")}</span><div class="rtx"><span class="rty">{e(TYPE_NAME.get(ty, ty).rstrip("s"))}'
                  + (f' · found by {e(r["by"])}' if r.get("by") else "") + f'</span><b>{e(r["title"])}</b><small>{e(meta)}</small></div></div>'
                  f'<p class="rwhy">{e(r.get("why", ""))}</p>'
+                 + (f'<p class="racc">🔑 {e(r["access"])}</p>' if r.get("access") else "")
                  + (f'<details class="brk"><summary>🧠 Breakdown · {len(tk)} key points</summary>{ul(tk)}</details>' if tk else "")
                  + '<div class="racts">'
                  + (f'<a class="op" href="{e(r["url"])}" target="_blank" rel="noopener">Open ↗</a>' if r.get("url") else "")

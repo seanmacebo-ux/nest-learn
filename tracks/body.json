@@ -98,6 +98,120 @@
  ],
  "resources": [
   {
+   "type": "study",
+   "topic": "blood-pressure",
+   "title": "2024 ESC Guidelines for the management of elevated blood pressure and hypertension",
+   "source": "European Society of Cardiology — European Heart Journal",
+   "year": 2024,
+   "url": "https://doi.org/10.1093/eurheartj/ehae178",
+   "access": "Free (open access)",
+   "why": "The current European rulebook on when a blood pressure reading counts as a problem, and what to aim for.",
+   "takeaways": [
+    "Adds an 'elevated' band of 120–139/70–89. High blood pressure is still 140/90 or higher.",
+    "For most people on treatment, the top number should aim for 120–129, if they tolerate it.",
+    "Home readings get a bigger role in diagnosis."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "blood-pressure",
+   "title": "2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults",
+   "source": "Jones et al. — Hypertension",
+   "year": 2025,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40811516/",
+   "access": "Free (open full text via the journal)",
+   "why": "The newest US guideline, with more on measuring blood pressure properly at home.",
+   "takeaways": [
+    "General treatment target is below 130/80.",
+    "More weight on home monitoring and on checking for hidden causes.",
+    "For stage 2, start two medicines from different classes, ideally in one pill."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "acne",
+   "title": "Guidelines of care for the management of acne vulgaris",
+   "source": "Reynolds, Barbieri et al. — Journal of the American Academy of Dermatology",
+   "year": 2024,
+   "url": "https://doi.org/10.1016/j.jaad.2023.12.017",
+   "access": "Abstract free on PubMed. Full text may need access.",
+   "why": "An evidence-graded ranking of what actually works for acne.",
+   "takeaways": [
+    "Strongly recommends benzoyl peroxide, topical retinoids and doxycycline.",
+    "Isotretinoin is strongly recommended for severe or scarring acne, or acne that fails other treatment.",
+    "Spironolactone and the combined pill get conditional recommendations.",
+    "Diet is listed as an evidence gap, not a proven cause."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "eczema",
+   "title": "Guidelines of care for atopic dermatitis in adults: phototherapy and systemic therapies",
+   "source": "Davis, Sidbury et al. (AAD) — Journal of the American Academy of Dermatology",
+   "year": 2024,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37943241/",
+   "access": "Abstract free on PubMed. Full text may need access.",
+   "why": "Ranks the newer eczema medicines, including JAK inhibitors, for adults who need more than creams.",
+   "takeaways": [
+    "Strong recommendations for dupilumab, tralokinumab, abrocitinib, baricitinib and upadacitinib.",
+    "Advises against steroid pills or injections for eczema.",
+    "Most trials are short, so long-term comparisons are limited."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "eczema",
+   "title": "Topical anti-inflammatory treatments for eczema: network meta-analysis",
+   "source": "Lax et al. — Cochrane Database of Systematic Reviews",
+   "year": 2024,
+   "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015064.pub2/full",
+   "access": "Plain-language summary free",
+   "why": "Compares every kind of eczema cream across 291 trials.",
+   "takeaways": [
+    "291 studies, about 46,000 people.",
+    "Potent steroid creams, JAK creams and tacrolimus 0.1% ranked among the most effective.",
+    "PDE-4 creams ranked among the least effective.",
+    "Mostly short-term trials."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "topic": "eczema",
+   "title": "Skin: An Owner's Guide",
+   "source": "Dr Emma Craythorne (consultant dermatologist) — DK",
+   "year": 2026,
+   "url": "https://www.penguin.com.au/books/skin-9780241726105",
+   "access": "Buy (Takealot / Exclusive Books, price not checked)",
+   "why": "A readable dermatologist-written guide covering both eczema and acne.",
+   "takeaways": [
+    "Published May 2026.",
+    "Covers eczema, acne and allergies.",
+    "A primer, so check specifics with a doctor."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "topic": "blood-pressure",
+   "title": "The Complete Guide to Family Health",
+   "source": "Dr Nighat Arif (GP) — Hachette UK",
+   "year": 2026,
+   "url": "https://www.hachette.co.uk/titles/dr-nighat-arif/the-complete-guide-to-family-health/9781783256433/",
+   "access": "Buy, £22 hardback (no SA price found)",
+   "why": "A GP-written home reference covering blood pressure, skin and when to see a doctor.",
+   "takeaways": [
+    "Plain language, all ages.",
+    "Explains how to get the most from a GP visit.",
+    "A general handbook, not a deep dive."
+   ],
+   "verified": true
+  },
+  {
    "type": "article",
    "title": "Atopic eczema",
    "source": "NHS",

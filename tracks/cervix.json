@@ -99,6 +99,144 @@
  ],
  "resources": [
   {
+   "type": "study",
+   "title": "Transabdominal vs transvaginal cerclage: a systematic review and meta-analysis",
+   "source": "Bobotis et al. — American Journal of Obstetrics & Gynecology",
+   "year": 2025,
+   "url": "https://doi.org/10.1016/j.ajog.2025.07.026",
+   "access": "Paywalled. Free summary at contemporaryobgyn.net, or email the authors for a copy.",
+   "why": "The newest pooled look at whether a stitch placed higher up, through the tummy, works better than the usual vaginal stitch.",
+   "takeaways": [
+    "Combined 12 studies with about 1,110 women.",
+    "The abdominal stitch was linked to fewer baby deaths around birth (about 64% lower) and less preterm birth (about half).",
+    "The benefit looked biggest after a failed vaginal stitch.",
+    "The evidence is rated low quality because most studies weren't randomised. A question for the specialist, not a verdict."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Transabdominal vs transvaginal cerclage for cervical insufficiency (Mass General Brigham cohort)",
+   "source": "Messinger et al. — American Journal of Obstetrics & Gynecology",
+   "year": 2025,
+   "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/researchers-find-surgical-technique-reduced-preterm-birth-risk",
+   "access": "Free summary (hospital press release). Full paper paywalled: doi 10.1016/j.ajog.2025.06.049",
+   "why": "A large US hospital's real-world results for women with a history of cervical insufficiency.",
+   "takeaways": [
+    "188 women: 87 had an abdominal stitch, 101 a vaginal one.",
+    "The abdominal stitch was linked to about 70% lower risk of birth before 34 weeks.",
+    "It's one hospital's records, not a randomised trial."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Pre-conceptional laparoscopic cerclage for prevention of preterm birth: a systematic review",
+   "source": "Facts, Views and Vision in ObGyn",
+   "year": 2025,
+   "url": "https://fvvo.eu/articles/pre-conceptional-laparoscopic-cerclage-for-prevention-of-preterm-birth-a-systematic-review/FVVO.2024.13388",
+   "access": "Free (open access)",
+   "why": "Results for a keyhole abdominal stitch placed before getting pregnant, an option some couples choose after a loss like ours.",
+   "takeaways": [
+    "10 studies, over 1,000 women at high risk.",
+    "About 92% of pregnancies ended in a live birth.",
+    "About 70% reached full term (37 weeks or later).",
+    "No comparison group, so it shows what's possible, not that it beats other options."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "title": "Cervical Pessary for Prevention of Preterm Birth in Individuals With a Short Cervix: the TOPS trial",
+   "source": "NICHD MFMU Network — JAMA",
+   "year": 2023,
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10369212/",
+   "access": "Free (PubMed Central)",
+   "why": "Why a cervical pessary (a ring around the cervix) is not a good substitute for a stitch.",
+   "takeaways": [
+    "544 women with a short cervix were randomised to a pessary or usual care.",
+    "Preterm birth was the same in both groups, about 45%.",
+    "Baby deaths were higher with the pessary (13% vs 7%), so the trial was stopped early.",
+    "If a pessary is offered instead of a stitch, ask why."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Healing from the Trauma of Pregnancy Loss: Reclaiming Your Reproductive Story",
+   "source": "Janet Jaffe — APA (American Psychological Association)",
+   "year": 2025,
+   "url": "https://www.apa.org/pubs/books/healing-from-trauma-pregnancy-loss",
+   "access": "Buy (Kindle or import, price not checked)",
+   "why": "A psychologist who specialises in pregnancy loss explains why it can feel like trauma, and how parents move forward.",
+   "takeaways": [
+    "Published December 2025.",
+    "Treats pregnancy loss as a real trauma, not 'just' sadness.",
+    "Uses the idea of your 'reproductive story', the hopes you had, to help you rebuild."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Hope and Healing After Stillbirth and New Baby Loss (new edition)",
+   "source": "Kevin Gournay & Brenda Ashcroft — Sheldon Press (Hachette)",
+   "year": 2024,
+   "url": "https://www.hachette.co.uk/titles/kevin-gournay/hope-and-healing-after-stillbirth-and-new-baby-loss/9781399816465",
+   "access": "Buy (Kindle or import, price not checked)",
+   "why": "Grief after a stillbirth or a baby who dies soon after birth, and the strain it can put on a couple.",
+   "takeaways": [
+    "Updated edition, September 2024.",
+    "Covers grief after stillbirth and early baby loss.",
+    "Also covers the strain on the relationship that often follows."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "To Tend and to Hold: Honoring Our Bodies, Our Needs, and Our Grief Through Pregnancy and Infant Loss",
+   "source": "Eileen Santos Rosete — Sounds True",
+   "year": 2024,
+   "url": "https://readings.com.au/product/9781683648956/to-tend-and-to-hold--eileen-s-rosete--2024--9781683648956",
+   "access": "Buy (Kindle or import, price not checked)",
+   "why": "For Mishka's body as well as her heart: the physical recovery after a loss that nobody talks about.",
+   "takeaways": [
+    "Covers postpartum care when there's no baby to take home.",
+    "Gentle and practical.",
+    "Good for both of you to read, so you both understand the physical side."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Your Baby Will Find You: A Story about Grief, Loss, and Healing",
+   "source": "Madeleine Garner, illustrated by Giorgia Lupi — BenBella",
+   "year": 2025,
+   "url": "https://www.simonandschuster.co.uk/books/Your-Baby-Will-Find-You/Madeleine-Garner/9781637746738",
+   "access": "Buy (Kindle or import, price not checked)",
+   "why": "A short illustrated book for grown-ups after losing a pregnancy. Something to read together when longer books are too much.",
+   "takeaways": [
+    "Published May 2025.",
+    "Mostly pictures, very few words.",
+    "Comforting rather than informational."
+   ],
+   "verified": true
+  },
+  {
+   "type": "book",
+   "title": "Dads Hurt Too: A Father's Memoir",
+   "source": "Eric M. Schumacher",
+   "year": 2025,
+   "url": "https://store.thegospelcoalition.org/product/9781736408032/dads-hurt-too-paperback",
+   "access": "Buy (paperback, price not checked)",
+   "why": "One of the few books written for the father's grief, and how to support your partner while carrying your own.",
+   "takeaways": [
+    "Short, 86 pages, written for the first weeks.",
+    "Christian in tone.",
+    "Written after miscarriage, but the father's side applies to any baby loss."
+   ],
+   "verified": true
+  },
+  {
    "type": "article",
    "title": "Cervical stitch (patient information)",
    "source": "Royal College of Obstetricians and Gynaecologists (RCOG)",
