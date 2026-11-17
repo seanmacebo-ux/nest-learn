@@ -2,8 +2,19 @@
  "slug": "body",
  "title": "Body",
  "emoji": "🫀",
- "intro": "Four real things in our circle: Sean's eczema, his mom's blood pressure, his sister-in-law's acne, and what a blood test actually takes from you. Each one has treatments with solid evidence and a lot of noise around them. The goal is to know enough to ask sharp questions and spot hype.",
+ "intro": "Five real things in our circle: Mishka's prenatal vitamins, Sean's eczema, his mom's blood pressure, his sister-in-law's acne, and what a blood test actually takes from you. Each one has treatments with solid evidence and a lot of noise around them. The goal is to know enough to ask sharp questions and spot hype.",
  "sections": [
+  {
+   "title": "Prenatal vitamins (Mishka): folate, what's in hers, food first",
+   "points": [
+    "Folate and folic acid are the same vitamin (B9). Folate is the natural form in food. Folic acid is the man-made form in pills and in SA bread flour and maize meal.",
+    "Your gut absorbs about half the folate in food, and about 85% of folic acid. Folic acid is the form with the proof that it prevents spine and brain defects (neural tube defects). [NIH folate fact sheet](https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/)",
+    "Timing matters. The neural tube closes in the first 4 weeks of pregnancy, so folic acid's big job is before conception and in the first trimester. Mishka is past that window now, so the folic acid vs methylfolate choice matters much less this time. For any next pregnancy, start folic acid 3 months before trying.",
+    "Her current prenatal covers folic acid (500 µg), iodine (150 µg) and B12 well. It's light on DHA (23 mg vs about 200 mg needed), choline (10 mg vs about 450 mg), vitamin D (6.5 µg vs 15 µg) and iron (15 mg vs about 27 mg).",
+    "No prenatal is fully 'natural'. Even 'whole food' brands get most of their vitamins from lab-made forms, and methylfolate (5-MTHF) is lab-made too. It's just the already-active form.",
+    "Food can close most of the gaps: 2 to 3 eggs a day for choline (about 150 mg each), tinned pilchards or other oily fish 2 to 3 times a week for DHA, lentils and chickpeas for folate, red meat for iron, and dairy for calcium."
+   ]
+  },
   {
    "title": "Eczema (Sean): what it is and the daily routine",
    "points": [
@@ -72,6 +83,8 @@
   }
  ],
  "do": [
+  "Mishka: keep taking one standard prenatal, plus 2 to 3 eggs most days and oily fish (pilchards are cheap and low in mercury) 2 to 3 times a week.",
+  "Mishka: ask the midwife about a separate algae or fish-oil DHA (about 200 mg a day) and a vitamin D blood test. Don't stack extra vitamin C, E, A or herbal tonics on top of the prenatal.",
   "Sean: keep a big tub of plain emollient (about R130 for 400 g at Dis-Chem) by the shower and moisturise straight after every wash.",
   "Sean: at the first sign of a flare, use the prescribed steroid cream for a short burst, then step down. Don't wait it out.",
   "Buy Sean's mom a validated upper-arm BP monitor (check the model on STRIDE BP) and log a week of morning and evening readings for her doctor.",
@@ -80,6 +93,8 @@
   "Ask for a copy of every blood test result and keep them in one folder so you can see trends."
  ],
  "ask": [
+  "Mishka's prenatal has only 23 mg DHA, 10 mg choline and 6.5 µg vitamin D. Should she add a DHA supplement, and can we test vitamin D and iron (ferritin)?",
+  "Is 15 mg of iron enough for her, based on her bloods? If we switched to Thorne Basic Prenatal (45 mg iron), would that be too much?",
   "Which strength of steroid cream should I use, on which body parts, and for how many days?",
   "Is my eczema bad enough for a dermatologist, or for biologic or JAK treatment, and does my medical aid cover it?",
   "What is my mom's target blood pressure, and how should she time her pills?",
@@ -88,6 +103,8 @@
   "Which of my blood results are out of range, by how much, and do they need retesting?"
  ],
  "watch_out": [
+  "Myth: 'natural' prenatals are free of synthetic vitamins. Nearly all of them use lab-made forms, and some add herbs with no pregnancy safety data.",
+  "Megadoses are where the real risks are: vitamin C plus E, vitamin A (retinol) and possibly excess iron. One standard prenatal at the normal dose has no credible link to miscarriage or preterm labour.",
   "Myth: steroid creams always thin your skin. Short courses at the right strength are safe; under-treating eczema causes more harm.",
   "Red flag: eczema that suddenly weeps, crusts or forms painful clustered blisters, with fever. That can be infection or eczema herpeticum and needs a doctor the same day.",
   "Myth: 'I feel fine, so I can stop my blood pressure pills.' High pressure has no feeling. Never stop without the doctor.",
@@ -97,6 +114,102 @@
   "Wrist and finger BP gadgets and smartwatches are often inaccurate. Use a validated upper-arm cuff."
  ],
  "resources": [
+  {
+   "type": "study",
+   "topic": "prenatal",
+   "title": "Multiple-micronutrient supplementation for women during pregnancy (Cochrane review)",
+   "source": "Cochrane Database of Systematic Reviews",
+   "year": 2019,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30873598/",
+   "access": "Free summary on PubMed",
+   "why": "The biggest pooled look at whether prenatal multivitamins help or harm.",
+   "takeaways": [
+    "18 trials, 91,425 women: probably slightly fewer preterm births (RR 0.95, range 0.90 to 1.01).",
+    "Fewer low-birthweight babies (RR 0.88), rated high-quality evidence.",
+    "No important benefits or harms found for stillbirth or newborn deaths."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "prenatal",
+   "title": "Antioxidant supplementation and premature rupture of the membranes",
+   "source": "American Journal of Obstetrics & Gynecology",
+   "year": 2008,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18928997/",
+   "access": "Free full text via PubMed Central",
+   "why": "The clearest evidence that some supplements in pregnancy can backfire: high-dose vitamin C plus E.",
+   "takeaways": [
+    "1,000 mg vitamin C + 400 IU vitamin E daily vs placebo, 697 women.",
+    "Waters broke early in 10.6% vs 5.5%; before 37 weeks in 4.6% vs 1.7%.",
+    "The women had chronic high blood pressure or past pre-eclampsia, so it may not apply to everyone."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "prenatal",
+   "title": "Can terathanasia explain the protective effect of folic-acid supplementation on birth defects?",
+   "source": "The Lancet (Hook & Czeizel)",
+   "year": 1997,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9274597/",
+   "access": "Abstract free; full paper paywalled",
+   "why": "Where the controversial 'vitamins and miscarriage' finding comes from.",
+   "takeaways": [
+    "Looks at the Hungarian trial, where the vitamin group had more miscarriages.",
+    "Asks whether vitamins help the body lose already-affected pregnancies, rather than preventing defects outright.",
+    "Later large studies did not repeat the miscarriage signal."
+   ],
+   "verified": true
+  },
+  {
+   "type": "study",
+   "topic": "prenatal",
+   "title": "Controlled studies of multivitamin supplementation on pregnancy outcomes",
+   "source": "Annals of the New York Academy of Sciences (Czeizel)",
+   "year": 1993,
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8257482/",
+   "access": "Abstract free on PubMed",
+   "why": "The Hungarian trial's own outcome report, including the twins finding.",
+   "takeaways": [
+    "No effect of vitamins on fetal death overall.",
+    "More low-birthweight babies in the vitamin group, explained by more twins.",
+    "Fewer congenital abnormalities with vitamins: 13.3 vs 22.4 per 1,000."
+   ],
+   "verified": true
+  },
+  {
+   "type": "website",
+   "topic": "prenatal",
+   "title": "Thorne Basic Prenatal: full label",
+   "source": "Thorne",
+   "year": 2026,
+   "url": "https://www.thorne.com/products/dp/basic-prenatal",
+   "access": "Free. Buy via iHerb or Desertcart in SA",
+   "why": "The most transparent prenatal we found: every nutrient listed with its exact form.",
+   "takeaways": [
+    "3 capsules a day.",
+    "Folate as 5-MTHF (1.7 mg DFE), choline 110 mg.",
+    "Iron 45 mg, which is the adult upper limit. Check with the midwife before switching.",
+    "Labelled NSF Certified for Sport (batch-tested for label accuracy and banned substances)."
+   ],
+   "verified": true
+  },
+  {
+   "type": "website",
+   "topic": "prenatal",
+   "title": "Folate: fact sheet for health professionals",
+   "source": "NIH Office of Dietary Supplements",
+   "year": "",
+   "url": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+   "access": "Free",
+   "why": "The reference numbers behind folate vs folic acid: absorption, upper limit, B12 masking.",
+   "takeaways": [
+    "Food folate is about 50% absorbed, folic acid about 85% with food.",
+    "The 1,000 µg upper limit applies to folic acid only.",
+    "High folic acid can mask a B12 deficiency."
+   ]
+  },
   {
    "type": "study",
    "topic": "blood-pressure",
@@ -907,6 +1020,21 @@
   ]
  },
  "deep_sections": [
+  {
+   "title": "Can prenatals harm a pregnancy? What the research actually found",
+   "points": [
+    "The biggest review found the opposite of harm. Cochrane 2019 pooled 18 trials (91,425 women): multivitamins probably led to slightly fewer preterm births (risk ratio 0.95), though the range just crossed 'no effect'. [Cochrane 2019](https://pubmed.ncbi.nlm.nih.gov/30873598/)",
+    "The controversial one: in the Hungarian trial that proved vitamins prevent neural tube defects, the vitamin group had about 16% more miscarriages. Researchers called it 'terathanasia': vitamins may help the body let go of pregnancies that already had defects, rather than causing healthy ones to fail. Closer monitoring of the vitamin group may also have counted more early losses. [Hook & Czeizel 1997, Lancet](https://pubmed.ncbi.nlm.nih.gov/9274597/)",
+    "The same trial's own 1993 write-up said vitamins had no effect on fetal death overall, and found more twins in the vitamin group. Twins carry a higher preterm risk, but this only applies to vitamins taken before conception. [Czeizel 1993](https://pubmed.ncbi.nlm.nih.gov/8257482/)",
+    "The clearest real harm signal is high-dose vitamin C (1,000 mg) plus E (400 IU). In one trial, waters breaking early was about twice as common: PROM 10.6% vs 5.5%, and before 37 weeks 4.6% vs 1.7%. These were high-risk women (high blood pressure or past pre-eclampsia). Her prenatal has 70 mg of C. [Spinnato 2008](https://pubmed.ncbi.nlm.nih.gov/18928997/)",
+    "Iron is U-shaped: too little is clearly linked to preterm birth, and very high stores show up in some observational studies too. Inflammation also raises iron markers, so cause and effect is unclear. Let blood tests decide on extra iron.",
+    "Vitamin A is settled: preformed vitamin A (retinol) above about 3,000 µg a day can cause birth defects. Hers has 780 µg. Avoid liver and pâté, and don't add another vitamin A supplement.",
+    "Herbal 'womb tonics', dong quai and high-dose herbs in some 'natural' prenatals can stimulate the uterus and have little safety data. That's a more realistic risk than a standard prenatal.",
+    "Folic acid and cancer: a 2012 BMJ Open meta-analysis found a borderline increase (RR 1.07), while a 2013 Lancet analysis of about 50,000 people found no significant increase over 5 years. Unmetabolised folic acid shows up in blood at high doses, but no harm in humans has been proven.",
+    "Folic acid and autism: one Johns Hopkins cohort linked very high folate in the mother's blood at birth to higher autism risk, from a single blood draw. Other studies link normal first-trimester folic acid to lower risk. Normal doses still look protective.",
+    "High-dose folic acid can hide a B12 deficiency: it fixes the anaemia while nerve damage carries on. That's why the 1,000 µg upper limit applies to folic acid only, not food folate."
+   ]
+  },
   {
    "title": "Eczema: a leaky barrier and an immune loop",
    "points": [
